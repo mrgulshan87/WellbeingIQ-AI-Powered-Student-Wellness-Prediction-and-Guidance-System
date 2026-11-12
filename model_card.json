@@ -1,0 +1,44 @@
+{
+  "model": "Logistic Regression",
+  "features": [
+    "Age",
+    "Gender",
+    "Country",
+    "Academic_Level",
+    "Residence",
+    "Most_Used_Platform",
+    "Purpose_Of_Use",
+    "Avg_Daily_Usage_Hours",
+    "Total_Screen_Time_Hours",
+    "Gaming_Hours",
+    "Daily_Unlocks",
+    "Notifications_Per_Day",
+    "Late_Night_Usage_Hours",
+    "Study_Hours",
+    "Sleep_Hours_Per_Night",
+    "Sleep_Quality",
+    "Caffeine_Cups_Per_Day",
+    "Physical_Activity_Hours",
+    "Days_Offline_Per_Month",
+    "Social_Support_Score",
+    "Academic_Pressure",
+    "Academic_Performance_Pct",
+    "Conflicts_Over_Social_Media"
+  ],
+  "engineered_features": true,
+  "classes_order": [
+    "At-Risk",
+    "Moderate",
+    "Good"
+  ],
+  "atrisk_threshold": 0.5,
+  "test_metrics": {
+    "accuracy": 0.63,
+    "macro_precision": 0.623,
+    "macro_recall": 0.67,
+    "macro_f1": 0.635,
+    "atrisk_recall": 0.767
+  },
+  "data": "synthetic",
+  "random_state": 42
+}

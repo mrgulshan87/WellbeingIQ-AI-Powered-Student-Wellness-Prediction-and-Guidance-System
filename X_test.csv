@@ -1,0 +1,1201 @@
+Age,Gender,Country,Academic_Level,Residence,Most_Used_Platform,Purpose_Of_Use,Avg_Daily_Usage_Hours,Total_Screen_Time_Hours,Gaming_Hours,Daily_Unlocks,Notifications_Per_Day,Late_Night_Usage_Hours,Study_Hours,Sleep_Hours_Per_Night,Sleep_Quality,Caffeine_Cups_Per_Day,Physical_Activity_Hours,Days_Offline_Per_Month,Social_Support_Score,Academic_Pressure,Academic_Performance_Pct,Conflicts_Over_Social_Media,Addiction_Score
+21.0,Female,UK,Undergraduate,Hostel,Reddit,Entertainment,4.5,7.9,0.4,132,147,1.3,3.3,8.0,4.0,1.0,2.7,4.0,5.0,5,64.6,1,6
+25.0,Female,UK,Postgraduate,Hostel,YouTube,Social connection,2.3,4.9,0.0,71,85,1.1,2.1,8.1,3.0,1.0,0.8,5.0,5.0,7,79.3,2,5
+18.0,Male,India,Undergraduate,Home,TikTok,Academic,3.7,7.0,1.3,104,139,0.6,5.7,7.8,3.0,2.0,0.0,2.0,5.0,5,66.4,0,5
+25.0,Male,UK,Postgraduate,Rented room,WhatsApp,Mixed,5.3,8.6,0.6,135,234,1.5,7.7,5.5,2.0,3.0,0.1,4.0,7.0,5,66.1,2,6
+22.0,Male,Bangladesh,Undergraduate,Hostel,TikTok,Social connection,1.1,2.8,0.5,26,96,0.0,4.0,7.4,3.0,1.0,1.2,4.0,9.0,5,72.9,1,4
+20.0,Male,Bangladesh,Undergraduate,Home,X (Twitter),Social connection,4.9,9.6,0.9,143,77,1.0,1.7,6.7,3.0,0.0,0.0,3.0,6.0,4,85.0,1,6
+17.0,Male,Brazil,Undergraduate,Rented room,X (Twitter),Mixed,5.0,10.6,0.4,154,161,0.5,3.9,8.2,2.0,2.0,1.8,7.0,6.0,2,66.5,3,6
+23.0,Female,Philippines,Undergraduate,Home,Facebook,Social connection,2.5,4.4,0.8,79,101,0.4,2.0,6.9,2.0,4.0,2.1,4.0,7.0,5,73.9,1,5
+23.0,Female,USA,Undergraduate,Rented room,WhatsApp,Entertainment,4.9,8.1,0.3,127,129,0.9,2.7,7.6,2.0,4.0,0.4,2.0,6.0,4,89.7,1,5
+21.0,Female,India,Undergraduate,Home,X (Twitter),Entertainment,4.4,8.6,0.1,111,93,0.5,5.4,7.0,4.0,1.0,0.9,6.0,8.0,5,55.2,0,7
+18.0,Female,UK,High School,Home,Snapchat,Academic,4.1,5.4,0.0,117,172,0.2,3.0,6.4,,6.0,2.4,4.0,7.0,6,71.7,1,5
+21.0,Female,UK,Undergraduate,Hostel,WhatsApp,Entertainment,4.4,6.3,0.0,69,128,1.3,3.4,7.6,3.0,1.0,1.1,3.0,3.0,3,86.9,3,4
+17.0,Female,Bangladesh,Undergraduate,Home,Instagram,Social connection,4.8,8.9,2.0,112,132,0.3,5.1,7.1,,2.0,,2.0,6.0,7,73.7,2,5
+22.0,Male,Pakistan,Undergraduate,Hostel,Instagram,Social connection,3.9,7.6,0.5,110,106,1.0,3.6,7.0,4.0,0.0,1.2,5.0,7.0,6,59.8,0,6
+21.0,Female,Pakistan,Undergraduate,Rented room,YouTube,News and information,8.3,13.4,0.9,189,249,2.3,2.4,5.1,2.0,5.0,0.4,1.0,9.0,7,68.9,5,10
+17.0,Male,Bangladesh,High School,Hostel,Snapchat,Entertainment,3.7,6.8,1.4,99,139,1.6,7.7,6.6,2.0,1.0,0.9,1.0,7.0,6,65.5,1,6
+17.0,Female,India,High School,Rented room,YouTube,Entertainment,4.0,8.2,1.6,120,239,1.6,5.2,6.5,1.0,3.0,1.6,1.0,6.0,8,63.2,2,6
+24.0,Female,UK,Postgraduate,Hostel,X (Twitter),Social connection,4.4,6.7,0.3,88,143,0.6,1.9,7.0,2.0,2.0,1.0,6.0,6.0,4,65.9,1,4
+19.0,Male,Bangladesh,Undergraduate,Hostel,Snapchat,News and information,4.6,8.2,0.3,98,105,1.2,0.5,6.3,4.0,1.0,0.9,1.0,4.0,5,71.3,3,5
+22.0,Female,Pakistan,Postgraduate,Home,X (Twitter),Academic,4.8,8.5,0.4,130,189,0.6,5.0,6.9,3.0,1.0,1.9,3.0,4.0,4,72.7,4,5
+23.0,Male,India,Undergraduate,Hostel,Snapchat,Social connection,7.0,9.5,0.8,171,155,1.7,4.1,4.7,2.0,2.0,1.8,1.0,2.0,6,56.2,2,7
+24.0,Female,Nigeria,Postgraduate,Rented room,YouTube,Social connection,2.7,7.2,1.2,48,94,0.1,2.6,7.3,4.0,1.0,1.5,3.0,3.0,4,73.7,0,3
+23.0,Female,Bangladesh,Undergraduate,Home,Instagram,Academic,5.2,8.3,0.7,127,120,1.4,4.4,6.1,4.0,1.0,1.3,3.0,3.0,7,54.4,2,6
+17.0,Female,Pakistan,High School,Hostel,Instagram,Entertainment,7.8,11.7,0.7,175,117,2.3,4.1,4.5,3.0,4.0,0.3,2.0,4.0,6,89.1,3,10
+17.0,Female,Pakistan,High School,Hostel,YouTube,Academic,3.0,6.4,0.2,116,103,0.7,1.5,6.7,4.0,2.0,1.1,1.0,5.0,2,66.8,1,4
+23.0,Female,India,Undergraduate,Home,WhatsApp,Entertainment,5.5,12.9,4.3,126,166,0.8,6.4,6.6,3.0,3.0,0.7,0.0,5.0,3,53.6,2,6
+22.0,Male,Egypt,Undergraduate,Home,Snapchat,Entertainment,4.8,11.8,2.3,94,102,1.7,3.6,5.6,2.0,4.0,0.1,3.0,4.0,9,64.6,2,6
+24.0,Female,India,Postgraduate,Home,YouTube,Entertainment,2.5,5.9,0.7,73,136,1.2,3.0,8.1,,0.0,0.1,4.0,7.0,6,77.9,1,4
+22.0,Male,Bangladesh,Undergraduate,Hostel,X (Twitter),Social connection,2.8,5.3,0.7,61,106,1.1,2.7,6.6,1.0,3.0,1.2,5.0,5.0,4,85.2,2,6
+23.0,Female,Nigeria,Undergraduate,Hostel,YouTube,News and information,4.2,8.3,3.0,72,102,1.3,4.0,6.9,3.0,3.0,0.9,1.0,5.0,5,96.1,0,6
+21.0,Other,USA,Undergraduate,Hostel,Facebook,Mixed,3.2,6.5,0.8,126,32,1.0,4.1,7.6,2.0,1.0,0.8,3.0,4.0,4,84.8,1,7
+21.0,Male,Brazil,Undergraduate,Rented room,Facebook,Entertainment,4.5,8.9,1.2,109,103,1.4,1.7,7.0,3.0,4.0,2.0,,8.0,4,67.2,2,6
+26.0,Male,Bangladesh,Postgraduate,Hostel,TikTok,Entertainment,2.7,8.0,2.9,67,93,0.9,2.6,7.3,1.0,3.0,1.3,4.0,7.0,5,74.0,1,6
+22.0,Female,India,Undergraduate,Rented room,Instagram,News and information,4.1,6.6,0.9,114,82,0.8,4.2,6.5,2.0,4.0,0.0,2.0,7.0,4,79.1,2,5
+23.0,Male,Bangladesh,Undergraduate,Hostel,Facebook,Entertainment,3.5,6.3,0.7,68,44,0.5,3.0,7.2,4.0,2.0,0.5,2.0,8.0,6,56.6,1,5
+21.0,Male,India,Undergraduate,Home,Instagram,Social connection,2.6,5.2,0.4,77,107,0.0,1.5,8.7,5.0,0.0,1.0,6.0,7.0,6,91.8,1,6
+20.0,Male,India,Undergraduate,Home,Facebook,Academic,3.2,6.8,1.6,87,45,0.1,5.4,6.7,3.0,1.0,0.4,6.0,5.0,5,79.0,0,3
+21.0,Male,India,Undergraduate,Home,Instagram,Social connection,5.6,9.7,0.4,139,107,1.6,4.9,6.2,3.0,0.0,0.0,1.0,7.0,5,84.3,1,7
+18.0,Female,Egypt,Undergraduate,Home,LinkedIn,Entertainment,4.1,8.2,0.4,118,85,1.1,4.5,6.3,3.0,2.0,2.2,3.0,6.0,1,68.2,3,6
+20.0,Female,India,Undergraduate,Home,TikTok,Mixed,3.0,6.8,0.4,76,175,0.4,3.4,6.8,3.0,3.0,1.0,2.0,7.0,6,82.3,2,5
+20.0,Female,Egypt,Postgraduate,Home,Reddit,Mixed,1.7,4.2,0.7,70,84,0.4,3.0,7.7,2.0,0.0,1.1,3.0,3.0,6,61.4,2,4
+22.0,Male,Brazil,Undergraduate,Hostel,LinkedIn,Entertainment,3.5,6.4,1.1,98,104,1.3,3.6,6.9,2.0,3.0,0.6,1.0,5.0,6,61.5,1,6
+19.0,Male,India,Undergraduate,Rented room,YouTube,Entertainment,0.5,3.1,0.9,43,73,0.5,6.2,8.7,4.0,1.0,2.1,6.0,4.0,4,81.7,2,3
+24.0,Female,Brazil,Postgraduate,Home,TikTok,News and information,1.5,3.0,0.0,28,109,0.1,4.5,8.3,,3.0,1.8,4.0,2.0,7,77.8,1,3
+22.0,Female,Bangladesh,Undergraduate,Rented room,YouTube,Academic,2.4,6.3,1.3,95,116,0.8,5.1,6.8,3.0,0.0,0.5,5.0,7.0,5,78.4,2,5
+22.0,Male,India,Postgraduate,Rented room,Instagram,Social connection,2.6,5.3,0.2,87,156,0.0,1.6,7.2,3.0,3.0,2.3,3.0,6.0,3,67.5,1,5
+22.0,Female,Philippines,Undergraduate,Hostel,Instagram,Mixed,5.3,10.3,0.6,139,154,1.5,4.7,5.7,3.0,1.0,0.5,5.0,8.0,4,82.7,1,5
+19.0,Female,Pakistan,Undergraduate,Home,Instagram,Entertainment,4.0,8.4,0.3,102,106,0.5,4.4,7.1,2.0,1.0,0.9,3.0,6.0,6,79.3,1,5
+20.0,Female,Nigeria,Undergraduate,Home,Instagram,Social connection,5.9,11.5,0.8,159,166,1.8,4.0,5.4,2.0,0.0,1.7,3.0,2.0,7,94.9,3,7
+21.0,Male,Bangladesh,Postgraduate,Home,TikTok,Entertainment,2.9,3.8,0.8,82,58,0.8,4.4,7.0,1.0,6.0,1.2,2.0,8.0,6,75.5,1,5
+20.0,Other,USA,Undergraduate,Rented room,WhatsApp,Entertainment,4.0,7.5,1.5,59,110,1.0,2.5,6.6,2.0,2.0,1.8,1.0,5.0,5,56.8,1,4
+22.0,Female,Nigeria,Undergraduate,Home,WhatsApp,Social connection,4.8,9.8,0.9,84,189,1.7,1.0,6.8,2.0,0.0,0.5,1.0,9.0,6,60.1,2,7
+19.0,Male,UK,Undergraduate,Home,YouTube,News and information,5.0,8.0,1.2,149,177,1.3,1.9,6.7,2.0,0.0,1.5,4.0,9.0,6,68.4,2,5
+22.0,Male,India,Undergraduate,Home,X (Twitter),Social connection,3.2,7.7,0.6,84,74,1.2,3.6,8.1,3.0,0.0,2.3,4.0,5.0,9,74.0,1,4
+20.0,Female,Brazil,Undergraduate,Hostel,Reddit,Social connection,3.5,5.2,0.1,94,81,1.0,5.8,7.8,4.0,2.0,0.7,4.0,4.0,6,62.5,2,6
+22.0,Female,India,Undergraduate,Home,Snapchat,Social connection,3.6,4.7,0.0,86,223,1.3,7.0,6.1,1.0,3.0,1.0,3.0,8.0,6,90.8,2,5
+26.0,Female,Egypt,Postgraduate,Home,Snapchat,Social connection,5.4,8.1,1.0,133,96,1.2,5.1,6.0,,1.0,0.8,5.0,7.0,6,54.4,2,7
+21.0,Male,Egypt,Undergraduate,Home,YouTube,Entertainment,4.1,8.6,1.2,83,227,0.9,4.3,7.4,3.0,1.0,1.2,3.0,8.0,5,83.0,2,4
+27.0,Female,USA,Postgraduate,Rented room,Instagram,Mixed,2.0,2.5,0.5,80,187,0.0,4.1,7.1,3.0,1.0,2.0,4.0,5.0,4,63.3,1,4
+23.0,Female,Egypt,Undergraduate,Home,Facebook,Entertainment,4.3,8.2,1.3,99,188,0.8,2.1,6.3,3.0,1.0,1.0,3.0,5.0,4,82.2,0,5
+18.0,Male,UK,Undergraduate,Hostel,YouTube,Social connection,5.0,7.2,0.6,104,202,1.8,4.5,5.3,1.0,4.0,1.0,0.0,8.0,7,65.3,2,6
+22.0,Male,India,Undergraduate,Rented room,YouTube,Entertainment,2.6,7.2,1.8,83,113,0.3,5.6,6.7,2.0,2.0,0.3,6.0,7.0,8,94.4,1,5
+26.0,Female,Indonesia,Postgraduate,Rented room,Instagram,Entertainment,4.9,8.7,0.4,138,195,2.0,6.3,6.5,3.0,1.0,0.8,0.0,6.0,4,83.8,2,6
+21.0,Female,Nigeria,Undergraduate,Home,WhatsApp,Mixed,3.0,4.2,0.0,79,117,0.6,1.7,8.9,4.0,0.0,2.0,4.0,7.0,5,88.9,1,5
+20.0,Female,Pakistan,Undergraduate,Hostel,TikTok,Entertainment,1.4,3.1,0.7,57,112,0.8,3.1,7.4,2.0,0.0,0.5,3.0,6.0,5,45.1,0,5
+23.0,Female,Philippines,Undergraduate,Home,WhatsApp,Mixed,3.8,8.7,0.7,105,143,0.6,5.9,6.5,2.0,2.0,0.8,1.0,7.0,3,86.7,1,5
+20.0,Male,Nigeria,Undergraduate,Rented room,Facebook,Mixed,3.1,5.7,0.4,82,106,0.4,5.1,7.4,3.0,0.0,1.6,3.0,7.0,6,62.0,2,4
+20.0,Male,India,Undergraduate,Home,WhatsApp,Entertainment,3.3,5.6,0.4,67,105,0.6,3.8,7.3,2.0,,0.6,3.0,7.0,7,63.4,2,5
+19.0,Female,Egypt,Undergraduate,Home,TikTok,Academic,3.4,5.4,0.2,77,159,1.1,2.7,7.1,2.0,2.0,2.2,2.0,8.0,5,69.5,0,6
+19.0,Female,Brazil,Undergraduate,Hostel,TikTok,Social connection,5.2,,1.6,157,202,1.2,1.4,6.4,2.0,1.0,1.4,2.0,3.0,4,43.2,0,7
+19.0,Male,Bangladesh,Undergraduate,Home,Facebook,Entertainment,1.9,4.3,0.5,82,187,0.2,2.1,6.6,3.0,1.0,1.4,0.0,7.0,6,,0,3
+19.0,Female,Egypt,Undergraduate,Hostel,YouTube,Entertainment,3.0,8.3,1.1,85,108,0.9,1.6,8.2,4.0,2.0,1.0,6.0,6.0,4,52.1,1,5
+22.0,Female,Pakistan,Undergraduate,Home,Snapchat,Social connection,3.7,6.8,1.5,127,133,1.7,5.2,6.7,4.0,1.0,0.1,6.0,9.0,5,55.1,2,6
+21.0,Female,Indonesia,Undergraduate,Home,TikTok,Entertainment,2.4,5.5,1.1,79,136,0.2,3.8,7.7,4.0,2.0,2.1,2.0,7.0,5,68.5,0,4
+22.0,Female,India,Undergraduate,Hostel,Instagram,Academic,5.9,12.0,0.5,139,152,1.6,3.6,5.7,1.0,1.0,0.5,5.0,7.0,7,,3,5
+24.0,Male,Pakistan,Postgraduate,Home,TikTok,Mixed,0.5,1.8,0.2,29,34,0.1,3.7,9.3,4.0,1.0,0.2,2.0,6.0,4,86.3,0,2
+19.0,Female,Bangladesh,Undergraduate,Rented room,YouTube,Entertainment,4.5,8.4,0.9,110,95,0.9,6.9,7.2,2.0,2.0,1.1,4.0,7.0,4,72.7,1,8
+23.0,Male,Indonesia,Postgraduate,Hostel,WhatsApp,Entertainment,4.3,7.6,0.9,88,116,0.6,2.1,6.7,2.0,1.0,2.1,1.0,9.0,5,59.0,1,5
+21.0,Female,India,Undergraduate,Home,Instagram,Social connection,6.2,11.5,0.8,149,97,1.2,4.4,6.0,4.0,1.0,0.5,2.0,4.0,3,53.9,2,7
+22.0,Female,Indonesia,Postgraduate,Home,WhatsApp,Mixed,5.2,7.2,0.6,121,73,0.9,6.2,6.5,3.0,1.0,1.7,2.0,7.0,5,70.2,1,7
+23.0,Female,Brazil,Postgraduate,Rented room,YouTube,Academic,3.2,8.3,1.5,121,166,1.1,6.2,7.4,1.0,3.0,2.0,5.0,8.0,6,78.0,1,5
+26.0,Male,Egypt,Postgraduate,Home,WhatsApp,Entertainment,3.0,6.9,1.1,112,90,0.8,6.3,7.8,3.0,2.0,1.3,5.0,5.0,6,81.9,2,4
+19.0,Female,India,Undergraduate,Home,WhatsApp,Social connection,4.9,7.0,0.5,123,137,0.9,5.2,6.0,2.0,2.0,1.1,4.0,4.0,6,67.6,0,5
+20.0,Male,Nigeria,Undergraduate,Hostel,WhatsApp,Social connection,3.1,6.1,0.2,82,83,0.4,4.4,6.7,3.0,3.0,2.1,3.0,9.0,7,62.2,1,6
+24.0,Male,Pakistan,Undergraduate,Home,YouTube,Mixed,5.3,8.5,1.0,123,70,2.5,6.1,5.8,3.0,4.0,0.9,6.0,4.0,5,73.2,2,7
+19.0,Other,Philippines,Undergraduate,Home,YouTube,Mixed,5.3,10.0,1.7,111,125,2.2,4.1,5.2,2.0,3.0,0.5,2.0,7.0,5,83.7,1,7
+19.0,Female,UK,Postgraduate,Home,Snapchat,Mixed,1.2,4.9,1.1,42,93,0.0,6.1,8.8,5.0,2.0,1.7,5.0,6.0,4,64.6,1,5
+26.0,Male,Brazil,Postgraduate,Rented room,Instagram,Social connection,4.8,8.6,0.7,140,121,1.4,7.4,6.5,3.0,2.0,2.2,2.0,6.0,6,72.5,2,7
+22.0,Female,Pakistan,Undergraduate,Home,Reddit,Social connection,3.4,8.3,1.9,63,116,0.2,1.6,7.5,4.0,2.0,0.4,2.0,5.0,10,75.8,3,6
+21.0,Female,India,Postgraduate,Home,YouTube,News and information,3.0,,0.3,66,113,0.0,5.7,8.6,4.0,1.0,1.8,4.0,9.0,10,66.3,0,4
+19.0,Male,USA,Undergraduate,Hostel,Facebook,Social connection,3.3,5.4,0.3,110,139,0.7,4.8,7.1,3.0,1.0,,3.0,4.0,4,69.2,1,5
+17.0,Female,Nigeria,Undergraduate,Rented room,TikTok,Mixed,5.1,8.9,1.3,82,146,1.2,7.2,6.4,2.0,3.0,0.4,6.0,5.0,5,65.5,2,6
+19.0,Female,UK,Undergraduate,Home,Instagram,Entertainment,2.0,4.4,1.1,84,113,0.2,4.1,8.5,4.0,3.0,0.9,3.0,6.0,8,65.9,1,3
+19.0,Male,Brazil,Undergraduate,Rented room,Snapchat,Entertainment,5.0,8.4,0.5,115,171,1.4,3.4,5.5,1.0,4.0,0.1,1.0,8.0,3,58.3,2,6
+23.0,Female,USA,Undergraduate,Home,WhatsApp,Entertainment,2.8,6.6,0.8,88,117,1.0,2.9,7.0,1.0,2.0,1.2,3.0,7.0,5,70.1,1,6
+20.0,Male,Egypt,Postgraduate,Hostel,Snapchat,Entertainment,1.8,3.0,0.1,30,109,0.6,5.4,6.4,2.0,0.0,2.1,3.0,5.0,5,78.0,0,3
+23.0,Female,India,Undergraduate,Home,X (Twitter),Academic,2.9,5.7,2.7,58,88,0.9,2.9,6.7,3.0,2.0,0.6,6.0,7.0,5,70.6,1,4
+18.0,Male,Egypt,High School,Hostel,Reddit,Entertainment,3.0,5.0,0.5,71,84,0.1,5.7,7.1,3.0,2.0,1.0,2.0,5.0,5,65.1,1,5
+25.0,Male,USA,Postgraduate,Hostel,WhatsApp,Entertainment,3.0,7.1,0.4,127,111,0.8,5.2,6.5,3.0,3.0,1.4,2.0,5.0,5,62.3,2,4
+25.0,Male,Brazil,Postgraduate,Home,YouTube,Social connection,2.0,4.9,0.5,52,86,0.9,7.1,8.1,2.0,2.0,1.7,2.0,8.0,5,88.1,2,6
+27.0,Female,India,Postgraduate,Home,YouTube,Academic,4.0,8.0,1.5,112,191,1.2,2.6,6.4,3.0,2.0,0.5,3.0,9.0,3,78.7,0,4
+24.0,Female,Pakistan,Postgraduate,Hostel,WhatsApp,Social connection,3.8,6.8,0.2,102,105,1.6,4.6,6.5,3.0,0.0,0.9,5.0,7.0,7,79.7,2,4
+22.0,Male,India,Undergraduate,Hostel,Instagram,Academic,4.6,7.3,0.5,112,186,0.6,4.8,7.7,4.0,2.0,1.0,,7.0,5,82.7,1,5
+23.0,Male,India,Undergraduate,Hostel,X (Twitter),Entertainment,0.8,1.8,0.0,29,84,0.0,6.4,8.5,2.0,1.0,1.0,5.0,6.0,8,81.0,0,3
+20.0,Female,USA,Undergraduate,Rented room,TikTok,Entertainment,6.8,10.8,0.9,141,175,0.5,1.6,5.8,3.0,4.0,1.2,2.0,2.0,6,67.9,2,8
+17.0,Male,India,Undergraduate,Hostel,WhatsApp,News and information,4.6,8.5,0.9,132,161,1.3,4.3,7.3,3.0,1.0,0.8,3.0,8.0,7,81.3,2,6
+25.0,Male,India,Postgraduate,Rented room,YouTube,Mixed,2.7,4.4,0.1,41,127,0.3,5.8,8.1,4.0,0.0,1.1,0.0,6.0,9,85.8,1,4
+20.0,Female,Brazil,Undergraduate,Home,YouTube,Academic,0.8,3.0,0.8,51,49,0.0,6.1,8.4,3.0,3.0,0.7,3.0,4.0,7,87.9,0,3
+26.0,Male,Brazil,Postgraduate,Home,WhatsApp,Social connection,4.3,8.7,1.1,54,144,1.4,6.2,6.3,1.0,3.0,1.2,2.0,5.0,6,66.5,1,5
+19.0,Female,Pakistan,Undergraduate,Home,Facebook,Mixed,2.4,3.6,0.0,67,32,0.7,3.4,7.5,4.0,0.0,1.1,8.0,5.0,7,76.9,1,5
+18.0,Female,India,High School,Home,X (Twitter),Entertainment,5.6,9.8,0.5,133,158,1.6,0.8,6.7,3.0,1.0,0.5,1.0,7.0,6,72.3,3,6
+19.0,Female,India,Undergraduate,Home,Reddit,Social connection,2.5,7.2,2.4,117,128,1.0,4.0,6.5,3.0,5.0,0.2,1.0,7.0,5,87.1,1,4
+24.0,Female,India,Postgraduate,Home,TikTok,Entertainment,2.1,6.6,1.7,83,126,0.5,5.8,7.6,3.0,2.0,0.8,3.0,,4,80.0,1,4
+21.0,Male,UK,Undergraduate,Home,TikTok,Mixed,1.2,3.5,0.0,54,76,0.2,3.3,7.5,2.0,0.0,2.2,6.0,5.0,3,71.2,0,2
+25.0,Female,Brazil,Postgraduate,Hostel,Snapchat,Entertainment,0.5,3.5,0.0,17,40,0.0,7.3,7.6,3.0,2.0,1.1,3.0,6.0,8,71.9,0,2
+17.0,Female,Nigeria,High School,Home,YouTube,Entertainment,6.4,12.5,3.2,154,148,1.7,4.1,6.3,3.0,3.0,0.8,1.0,9.0,7,68.6,2,9
+20.0,Male,India,Postgraduate,Hostel,Instagram,Entertainment,0.9,4.1,1.1,30,135,0.2,5.0,7.1,2.0,3.0,1.5,2.0,9.0,4,71.9,1,2
+24.0,Female,USA,Undergraduate,Rented room,Instagram,News and information,1.7,3.5,0.0,54,98,0.0,4.5,7.5,3.0,2.0,1.0,6.0,5.0,10,58.9,0,3
+25.0,Male,Nigeria,Undergraduate,Rented room,YouTube,Entertainment,1.9,5.2,1.2,81,41,0.2,3.5,7.1,4.0,3.0,1.4,3.0,8.0,4,62.3,0,5
+19.0,Male,Bangladesh,Undergraduate,Hostel,Instagram,Social connection,3.6,6.5,0.7,140,138,1.0,4.7,8.0,2.0,2.0,1.0,1.0,6.0,6,85.9,2,5
+20.0,Female,Pakistan,Undergraduate,Hostel,YouTube,Entertainment,4.8,9.6,1.5,121,191,1.6,5.5,5.4,3.0,2.0,0.9,4.0,10.0,4,89.4,1,7
+24.0,Female,Philippines,Postgraduate,Home,WhatsApp,News and information,4.9,7.2,0.7,99,192,1.8,6.5,5.9,3.0,3.0,1.9,2.0,5.0,7,62.5,2,6
+23.0,Male,India,Postgraduate,Home,WhatsApp,Social connection,3.4,7.8,0.4,102,178,1.0,5.8,7.6,3.0,3.0,0.6,3.0,4.0,4,77.7,0,4
+20.0,Male,Bangladesh,Undergraduate,Hostel,Snapchat,Social connection,2.4,4.9,0.2,75,98,0.6,6.2,8.0,3.0,,0.0,3.0,5.0,6,59.2,1,2
+20.0,Male,India,Undergraduate,Rented room,Instagram,News and information,5.7,9.6,1.1,125,111,0.9,2.8,8.4,3.0,0.0,1.5,,9.0,6,62.4,2,7
+22.0,Male,India,Undergraduate,Hostel,WhatsApp,Entertainment,4.9,7.2,0.7,104,124,0.5,4.3,7.7,3.0,1.0,1.2,3.0,9.0,5,76.0,1,6
+24.0,Female,India,Postgraduate,Hostel,YouTube,Mixed,3.6,7.3,0.6,91,33,0.5,6.3,6.9,3.0,1.0,0.3,3.0,6.0,7,78.2,1,6
+24.0,Female,India,Postgraduate,Home,TikTok,Mixed,4.4,7.2,1.3,96,105,0.7,4.0,5.5,2.0,1.0,1.0,7.0,8.0,3,77.4,2,6
+21.0,Male,India,Undergraduate,Home,Instagram,Entertainment,6.5,11.9,1.0,178,162,2.1,3.0,5.6,3.0,0.0,1.0,3.0,2.0,2,66.1,2,6
+21.0,Other,India,Undergraduate,Hostel,YouTube,Mixed,3.3,6.2,0.3,100,93,0.9,2.0,7.8,2.0,2.0,1.5,1.0,6.0,5,72.1,2,6
+19.0,Female,Egypt,Undergraduate,Home,WhatsApp,Entertainment,2.2,4.5,0.0,70,72,0.9,5.3,7.7,2.0,2.0,1.7,5.0,5.0,6,77.2,0,5
+26.0,Female,India,Postgraduate,Rented room,YouTube,Mixed,4.8,9.1,2.7,106,147,1.0,2.4,6.8,3.0,0.0,1.5,4.0,6.0,5,85.4,1,3
+23.0,Female,USA,Postgraduate,Rented room,WhatsApp,Social connection,5.7,7.2,0.3,121,176,1.5,3.2,6.0,2.0,2.0,1.0,3.0,4.0,4,79.8,2,7
+20.0,Male,India,Undergraduate,Home,Instagram,Academic,5.0,10.9,2.2,108,92,0.5,2.0,6.8,3.0,1.0,1.1,2.0,4.0,4,61.9,0,6
+19.0,Male,India,Undergraduate,Rented room,Snapchat,Entertainment,1.6,3.6,0.2,78,94,0.2,1.8,7.8,5.0,1.0,2.1,2.0,8.0,7,60.0,1,2
+21.0,Male,Nigeria,Undergraduate,Home,TikTok,Academic,5.5,7.1,0.6,147,104,1.7,3.9,6.6,2.0,3.0,1.7,6.0,6.0,8,64.1,2,8
+25.0,Female,Brazil,Postgraduate,Home,Facebook,Social connection,4.9,8.8,1.1,116,166,1.2,4.0,6.3,3.0,2.0,0.8,0.0,8.0,5,56.8,4,8
+23.0,Female,India,Undergraduate,Home,Snapchat,Mixed,1.7,4.9,2.2,23,99,0.0,2.9,6.9,2.0,1.0,0.6,1.0,,8,78.3,1,2
+27.0,Female,Indonesia,Undergraduate,Home,X (Twitter),Mixed,1.4,4.2,0.7,33,86,0.7,5.1,7.4,2.0,1.0,1.1,5.0,9.0,5,85.3,0,4
+21.0,Female,Pakistan,Postgraduate,Hostel,Instagram,Mixed,2.4,3.1,0.9,70,104,0.0,5.2,8.8,5.0,0.0,1.4,2.0,6.0,5,75.5,0,3
+23.0,Female,Philippines,Undergraduate,Home,YouTube,Social connection,5.6,8.8,0.8,132,198,1.5,3.7,5.6,2.0,3.0,1.2,2.0,5.0,6,67.1,3,6
+17.0,Female,Philippines,Undergraduate,Hostel,Snapchat,Social connection,4.3,7.9,0.5,111,150,1.0,5.7,6.1,3.0,0.0,1.0,1.0,6.0,6,63.6,1,4
+18.0,Male,Brazil,Undergraduate,Home,YouTube,Mixed,1.9,4.5,1.6,62,41,0.5,2.9,6.8,3.0,2.0,2.5,2.0,4.0,4,68.3,1,3
+21.0,Female,UK,Undergraduate,Hostel,TikTok,Social connection,1.0,3.8,0.0,10,88,0.0,2.4,7.9,4.0,1.0,3.3,1.0,10.0,3,56.9,1,3
+17.0,Male,India,Undergraduate,Home,Reddit,Social connection,2.9,6.1,0.3,89,125,0.2,5.0,7.0,3.0,1.0,0.0,4.0,8.0,5,88.3,2,4
+23.0,Female,India,Undergraduate,Home,TikTok,Mixed,3.1,5.4,0.1,77,92,1.2,4.5,6.7,1.0,1.0,0.5,4.0,6.0,7,84.8,2,4
+25.0,Female,Egypt,Postgraduate,Rented room,WhatsApp,News and information,4.8,7.4,0.2,114,133,1.3,4.2,7.3,3.0,0.0,0.9,2.0,5.0,7,54.0,2,7
+19.0,Female,Nigeria,Postgraduate,Hostel,TikTok,Social connection,3.5,7.1,0.4,77,59,1.0,4.8,6.6,1.0,4.0,0.0,2.0,8.0,5,67.2,1,3
+21.0,Female,Bangladesh,Postgraduate,Home,Instagram,Social connection,3.9,8.2,1.7,114,182,0.7,3.7,8.1,,1.0,1.5,3.0,7.0,6,51.5,2,4
+27.0,Male,India,Undergraduate,Home,TikTok,Social connection,5.0,9.0,0.7,136,155,1.5,3.4,6.1,3.0,3.0,0.5,3.0,6.0,6,,1,4
+22.0,Female,Indonesia,Undergraduate,Hostel,WhatsApp,Entertainment,4.3,7.1,0.6,94,169,1.3,4.8,7.2,3.0,2.0,2.0,2.0,5.0,3,71.5,2,6
+26.0,Female,Brazil,Postgraduate,Rented room,WhatsApp,Social connection,2.3,3.3,0.1,96,106,0.4,4.2,7.7,4.0,1.0,1.2,2.0,4.0,6,78.0,2,4
+20.0,Female,Pakistan,Undergraduate,Home,WhatsApp,Entertainment,1.4,2.6,0.2,50,137,0.6,7.5,8.4,3.0,2.0,0.3,1.0,5.0,6,75.0,1,3
+21.0,Female,UK,Undergraduate,Home,YouTube,Entertainment,3.9,7.3,0.5,101,107,1.2,4.3,7.2,1.0,2.0,2.2,6.0,2.0,6,72.9,2,4
+26.0,Female,Nigeria,Postgraduate,Home,Instagram,Social connection,6.6,8.6,1.1,163,258,1.2,3.4,6.6,2.0,2.0,0.9,1.0,3.0,5,67.8,2,7
+24.0,Female,Bangladesh,Postgraduate,Home,Instagram,Social connection,7.2,11.7,2.6,177,245,1.9,2.9,5.5,2.0,1.0,0.9,3.0,5.0,5,53.6,3,7
+17.0,Female,Pakistan,Undergraduate,Home,Snapchat,Mixed,2.1,6.0,1.0,66,130,0.1,5.2,7.3,3.0,2.0,1.3,3.0,6.0,5,75.9,0,4
+21.0,Female,Nigeria,Undergraduate,Rented room,TikTok,Academic,3.3,5.0,0.1,103,152,0.8,4.4,5.6,4.0,5.0,1.0,1.0,10.0,7,51.2,2,7
+23.0,Female,UK,Undergraduate,Home,Instagram,Social connection,4.2,7.3,0.5,78,161,1.0,3.1,5.7,2.0,2.0,1.1,1.0,7.0,6,76.0,2,6
+19.0,Other,Philippines,Undergraduate,Rented room,Reddit,Entertainment,2.1,5.7,0.5,88,206,0.9,7.7,7.2,3.0,4.0,1.5,3.0,5.0,7,79.7,0,4
+24.0,Female,India,Postgraduate,Home,TikTok,Entertainment,5.2,9.7,1.8,129,45,0.9,3.8,5.9,2.0,5.0,0.6,1.0,5.0,5,83.2,2,5
+22.0,Female,India,Undergraduate,Rented room,YouTube,Mixed,2.8,5.9,0.0,98,82,1.2,4.4,6.6,3.0,1.0,1.5,0.0,8.0,8,74.4,0,4
+21.0,Male,India,Undergraduate,Hostel,Instagram,Mixed,5.1,10.7,1.1,114,177,1.7,4.8,6.2,1.0,2.0,1.0,5.0,7.0,6,82.2,2,9
+22.0,Male,India,Undergraduate,Home,Facebook,Entertainment,6.0,10.7,1.7,119,144,1.3,6.0,5.1,1.0,4.0,0.5,1.0,10.0,5,71.5,2,7
+23.0,Female,USA,Undergraduate,Rented room,YouTube,Entertainment,3.9,7.5,0.1,106,82,0.9,5.3,7.3,2.0,1.0,0.9,3.0,6.0,7,70.1,1,5
+24.0,Female,UK,Postgraduate,Rented room,TikTok,Social connection,3.2,6.3,0.2,83,191,0.6,4.5,6.1,,,1.9,3.0,9.0,6,76.8,0,5
+24.0,Female,India,Postgraduate,Rented room,TikTok,Social connection,2.2,8.4,4.1,81,64,0.0,5.1,7.0,4.0,0.0,0.5,1.0,6.0,5,77.6,1,2
+18.0,Female,Indonesia,High School,Home,TikTok,Mixed,1.8,2.4,0.3,84,17,0.0,2.3,8.8,3.0,3.0,1.2,10.0,4.0,5,83.4,1,3
+24.0,Female,India,Postgraduate,Home,Instagram,Social connection,4.7,8.3,0.7,106,164,0.5,5.0,7.4,1.0,3.0,1.7,4.0,7.0,5,59.5,1,6
+25.0,Female,Egypt,Postgraduate,Home,Facebook,Mixed,7.4,15.4,2.0,167,229,1.5,3.4,5.7,1.0,1.0,1.3,2.0,6.0,3,57.2,2,8
+25.0,Female,UK,Postgraduate,Rented room,TikTok,News and information,1.5,3.7,0.3,51,143,0.1,4.4,6.7,3.0,5.0,0.7,1.0,8.0,7,74.5,1,5
+23.0,Female,USA,Undergraduate,Home,YouTube,Entertainment,4.2,7.7,0.6,82,109,1.8,3.7,6.2,2.0,0.0,0.8,3.0,8.0,4,50.8,2,6
+24.0,Male,Bangladesh,Postgraduate,Home,Instagram,Academic,5.5,10.8,1.8,100,153,1.2,3.1,6.0,3.0,2.0,1.6,3.0,5.0,7,57.9,2,8
+20.0,Female,USA,Undergraduate,Hostel,Snapchat,Social connection,4.5,6.6,1.1,115,141,1.0,3.9,7.3,2.0,2.0,0.4,6.0,7.0,4,72.0,2,6
+26.0,Female,India,Postgraduate,Home,Snapchat,Social connection,5.3,7.6,0.0,111,143,1.5,5.1,6.2,1.0,3.0,2.1,7.0,2.0,7,62.3,3,5
+25.0,Female,USA,Undergraduate,Home,Instagram,Entertainment,5.5,9.0,0.5,114,90,0.9,3.9,5.3,1.0,4.0,0.3,4.0,5.0,6,51.7,0,7
+23.0,Male,Indonesia,Undergraduate,Rented room,YouTube,Academic,5.2,8.0,0.3,126,146,0.9,3.0,6.9,3.0,0.0,1.1,2.0,8.0,2,67.3,4,5
+17.0,Male,Brazil,High School,Home,Facebook,Entertainment,2.4,2.9,0.1,52,149,0.2,2.1,8.2,4.0,1.0,0.1,4.0,10.0,6,72.6,1,4
+22.0,Male,Egypt,Undergraduate,Home,Instagram,Social connection,3.0,5.3,0.4,66,110,0.7,2.9,6.3,2.0,1.0,1.9,,7.0,7,72.1,2,6
+22.0,Male,Brazil,Undergraduate,Hostel,YouTube,Social connection,1.0,4.6,0.3,71,134,1.0,4.3,6.8,3.0,1.0,1.2,4.0,7.0,6,75.9,0,4
+17.0,Male,Pakistan,Undergraduate,Home,WhatsApp,Mixed,5.3,9.3,0.5,158,179,1.9,3.7,6.1,1.0,4.0,1.0,6.0,3.0,6,80.8,4,5
+18.0,Female,Pakistan,High School,Hostel,Instagram,Social connection,3.6,7.7,0.2,129,182,1.3,1.4,8.2,4.0,0.0,1.4,3.0,6.0,4,89.4,2,6
+24.0,Male,India,Undergraduate,Hostel,Instagram,Entertainment,3.1,5.8,0.3,96,140,0.5,6.0,7.6,3.0,1.0,1.2,,8.0,5,80.1,1,4
+17.0,Male,Bangladesh,Undergraduate,Home,WhatsApp,Academic,3.7,7.0,0.5,101,136,1.0,4.0,6.3,3.0,1.0,,0.0,8.0,5,61.9,1,5
+25.0,Female,UK,Postgraduate,Home,WhatsApp,Mixed,2.4,3.5,0.3,47,30,0.7,4.1,7.5,5.0,0.0,,3.0,8.0,8,61.0,2,5
+21.0,Male,Indonesia,Postgraduate,Home,YouTube,Mixed,4.7,7.7,1.1,149,167,1.1,5.2,7.2,2.0,,1.3,2.0,7.0,5,63.9,1,6
+21.0,Female,USA,Undergraduate,Hostel,Instagram,Social connection,3.0,8.0,2.1,93,73,0.2,5.8,9.0,3.0,1.0,2.8,3.0,8.0,5,63.0,2,4
+23.0,Male,Pakistan,Undergraduate,Home,TikTok,Entertainment,2.3,4.4,0.4,83,86,0.4,5.7,7.4,3.0,0.0,1.4,1.0,,6,84.7,1,5
+21.0,Male,USA,Undergraduate,Rented room,Snapchat,Mixed,4.0,8.8,1.0,83,153,1.4,5.3,7.0,3.0,0.0,0.2,6.0,7.0,4,77.5,1,5
+27.0,Female,India,Undergraduate,Home,Facebook,Mixed,2.8,3.3,0.0,47,73,0.0,2.3,6.6,,2.0,0.6,2.0,6.0,10,62.7,1,3
+21.0,Female,UK,Undergraduate,Hostel,Reddit,Mixed,3.3,5.7,0.7,122,135,1.0,4.4,7.1,4.0,0.0,1.1,0.0,7.0,4,76.8,1,5
+21.0,Female,India,Undergraduate,Rented room,Instagram,Social connection,4.1,8.2,1.4,113,82,1.4,4.7,5.8,3.0,2.0,2.2,2.0,7.0,5,58.8,3,3
+18.0,Male,Nigeria,High School,Home,Instagram,Social connection,3.4,5.6,0.5,122,134,0.3,2.3,7.7,5.0,3.0,1.8,1.0,9.0,5,63.5,1,3
+26.0,Male,Pakistan,Undergraduate,Home,WhatsApp,Entertainment,4.7,6.5,0.3,100,68,0.8,1.9,6.4,4.0,2.0,0.5,2.0,7.0,7,52.8,1,5
+21.0,Female,USA,Undergraduate,Hostel,YouTube,News and information,7.6,11.6,0.7,166,137,2.2,5.1,4.0,3.0,4.0,0.3,2.0,,7,60.5,1,9
+23.0,Female,Bangladesh,Postgraduate,Home,YouTube,Mixed,1.4,5.0,0.3,70,46,0.5,3.5,7.4,,3.0,0.5,1.0,7.0,5,63.2,1,3
+21.0,Male,India,Postgraduate,Hostel,WhatsApp,Social connection,3.6,8.0,1.2,138,101,0.6,3.8,7.9,3.0,1.0,0.0,3.0,10.0,8,59.5,1,5
+23.0,Male,Nigeria,Undergraduate,Home,YouTube,Social connection,1.5,3.8,0.2,49,95,0.3,5.0,7.8,2.0,3.0,0.6,4.0,6.0,3,69.6,1,5
+24.0,Female,Pakistan,Undergraduate,Home,WhatsApp,Entertainment,5.3,10.0,1.0,124,202,1.3,2.3,6.2,2.0,1.0,1.0,5.0,6.0,3,67.5,3,6
+28.0,Female,Nigeria,Postgraduate,Rented room,X (Twitter),Entertainment,5.3,8.9,0.2,124,34,0.8,5.2,6.2,2.0,2.0,0.7,4.0,2.0,6,58.7,1,5
+22.0,Male,Egypt,Undergraduate,Home,Facebook,Entertainment,4.8,9.3,0.4,112,171,1.6,0.0,6.7,3.0,1.0,1.7,3.0,7.0,4,54.7,2,7
+21.0,Male,Philippines,Undergraduate,Home,TikTok,Entertainment,3.0,5.9,0.8,82,92,0.7,3.7,6.3,3.0,3.0,0.5,3.0,6.0,6,63.6,1,6
+23.0,Female,Pakistan,Undergraduate,Rented room,YouTube,Entertainment,4.1,6.6,0.9,92,170,0.3,5.0,6.8,3.0,1.0,0.8,1.0,5.0,8,71.6,1,6
+21.0,Male,USA,Postgraduate,Home,WhatsApp,Academic,1.1,2.0,0.2,24,25,0.0,5.5,7.4,4.0,2.0,1.4,4.0,6.0,5,63.3,0,1
+22.0,Male,Bangladesh,Undergraduate,Home,WhatsApp,Academic,1.1,2.3,0.5,30,61,0.0,5.3,8.1,2.0,3.0,1.9,6.0,6.0,4,89.4,1,4
+22.0,Female,India,Undergraduate,Home,Instagram,Entertainment,5.3,8.8,0.5,146,80,1.5,4.5,6.3,2.0,3.0,0.0,2.0,4.0,4,79.9,2,7
+19.0,Male,Philippines,Undergraduate,Rented room,Facebook,Social connection,4.0,6.9,0.8,138,108,1.8,1.8,5.6,2.0,1.0,1.6,2.0,5.0,5,62.0,1,7
+25.0,Female,India,Undergraduate,Home,YouTube,Entertainment,2.9,7.5,0.0,87,158,1.3,4.1,6.9,2.0,0.0,0.8,5.0,8.0,5,88.4,0,6
+21.0,Female,Indonesia,Undergraduate,Home,Snapchat,Mixed,1.5,5.2,0.0,54,103,0.0,6.7,7.9,4.0,2.0,1.4,5.0,6.0,6,79.3,0,5
+20.0,Other,Indonesia,Undergraduate,Rented room,WhatsApp,Social connection,3.9,7.4,0.3,95,204,1.1,2.8,6.3,2.0,1.0,1.2,4.0,10.0,6,74.0,3,5
+24.0,Male,India,Undergraduate,Hostel,Instagram,Academic,6.5,11.1,0.7,151,242,1.6,2.7,5.8,2.0,1.0,0.9,2.0,5.0,10,77.8,1,8
+20.0,Female,Bangladesh,Undergraduate,Home,Reddit,Academic,1.9,4.6,0.6,57,122,0.6,3.1,6.3,2.0,3.0,1.4,4.0,6.0,6,73.4,2,3
+18.0,Male,Bangladesh,High School,Home,Reddit,Entertainment,6.0,12.8,4.6,171,265,1.9,5.6,5.1,2.0,4.0,,0.0,8.0,9,67.8,1,7
+22.0,Female,UK,Undergraduate,Hostel,TikTok,Mixed,3.4,7.8,1.1,58,128,0.1,3.3,8.7,3.0,0.0,0.1,3.0,9.0,6,78.6,1,5
+23.0,Male,Bangladesh,Undergraduate,Home,YouTube,Mixed,1.1,2.4,0.0,42,99,0.0,6.4,8.0,3.0,2.0,1.1,8.0,6.0,6,78.7,1,3
+24.0,Male,Philippines,Postgraduate,Hostel,YouTube,Academic,1.1,3.8,0.3,89,65,0.7,5.6,7.2,3.0,2.0,0.0,0.0,7.0,6,61.6,2,3
+20.0,Female,Bangladesh,Undergraduate,Home,Snapchat,Mixed,3.9,7.5,0.5,127,171,1.4,4.3,6.0,1.0,,1.3,2.0,,4,75.2,2,4
+27.0,Female,Egypt,Postgraduate,Home,YouTube,Entertainment,3.5,4.2,0.2,85,95,0.6,6.8,8.0,3.0,3.0,1.4,3.0,6.0,4,60.4,1,2
+24.0,Male,USA,Postgraduate,Hostel,TikTok,Mixed,5.2,9.2,0.7,116,108,1.5,5.3,5.2,1.0,4.0,2.1,4.0,8.0,5,51.2,3,6
+23.0,Female,Pakistan,Undergraduate,Hostel,Instagram,Mixed,1.2,3.1,0.1,45,112,0.0,6.4,8.3,3.0,2.0,1.9,4.0,6.0,5,81.4,0,4
+23.0,Female,Philippines,Undergraduate,Home,Instagram,Entertainment,3.2,6.9,0.3,95,104,1.2,2.9,5.7,2.0,5.0,0.6,9.0,5.0,5,73.9,1,5
+20.0,Female,Egypt,Undergraduate,Home,Instagram,Social connection,4.6,9.7,1.1,101,130,1.4,2.0,6.6,2.0,0.0,1.6,3.0,4.0,3,66.1,1,6
+19.0,Female,Indonesia,Undergraduate,Home,YouTube,Academic,4.5,6.8,0.4,115,183,0.4,1.4,8.0,4.0,0.0,1.3,0.0,6.0,3,48.7,0,6
+19.0,Female,Bangladesh,Undergraduate,Hostel,YouTube,Social connection,2.8,4.4,0.1,62,58,0.8,4.6,7.1,3.0,1.0,1.3,2.0,6.0,4,74.7,0,6
+19.0,Male,USA,Undergraduate,Home,WhatsApp,Academic,0.5,1.0,0.0,19,45,0.1,3.5,7.7,3.0,0.0,1.3,2.0,5.0,3,88.7,0,3
+21.0,Other,Bangladesh,Postgraduate,Hostel,Instagram,Social connection,0.5,1.4,0.9,71,81,0.0,6.3,7.2,4.0,2.0,1.6,4.0,7.0,3,69.2,0,4
+21.0,Female,USA,Undergraduate,Hostel,Reddit,Social connection,2.2,5.4,0.9,72,142,1.3,4.2,6.6,3.0,1.0,0.1,2.0,8.0,1,73.5,0,4
+24.0,Male,UK,Postgraduate,Hostel,Instagram,Entertainment,2.6,7.0,1.3,85,93,0.1,5.4,5.4,4.0,1.0,0.8,3.0,6.0,6,81.3,1,4
+20.0,Male,Nigeria,Undergraduate,Home,YouTube,Mixed,3.7,7.1,0.5,78,78,1.5,4.7,6.5,4.0,0.0,1.6,4.0,5.0,5,67.1,0,5
+18.0,Male,India,High School,Hostel,YouTube,Entertainment,3.9,8.2,1.9,65,119,1.0,4.4,6.9,3.0,2.0,1.0,2.0,6.0,4,59.0,2,5
+24.0,Male,India,Postgraduate,Rented room,TikTok,Mixed,1.5,3.2,0.0,46,108,0.5,5.4,6.4,2.0,5.0,1.7,3.0,5.0,7,96.9,0,5
+23.0,Female,India,Undergraduate,Home,TikTok,Entertainment,4.7,8.8,0.5,107,156,2.0,2.3,5.9,1.0,4.0,0.4,1.0,3.0,6,84.1,1,7
+23.0,Male,India,Undergraduate,Hostel,Snapchat,Entertainment,2.5,5.5,0.6,59,92,0.4,2.4,7.2,2.0,2.0,0.5,2.0,5.0,5,61.5,0,3
+17.0,Female,Brazil,Undergraduate,Home,WhatsApp,Entertainment,5.2,8.9,0.4,118,191,1.3,6.2,6.6,2.0,1.0,1.3,5.0,3.0,8,72.5,1,7
+26.0,Male,India,Postgraduate,Home,Instagram,News and information,3.4,6.0,0.7,95,67,0.2,3.9,8.2,4.0,1.0,0.4,1.0,5.0,5,66.8,2,6
+22.0,Male,India,Undergraduate,Home,WhatsApp,Social connection,4.0,6.6,0.6,62,182,0.9,1.7,6.9,2.0,1.0,1.8,5.0,7.0,5,68.7,2,5
+22.0,Male,India,Undergraduate,Rented room,Instagram,Mixed,4.6,10.4,3.9,91,237,2.3,2.8,4.7,1.0,3.0,0.0,3.0,4.0,2,79.1,2,8
+22.0,Male,Pakistan,Undergraduate,Hostel,Instagram,Entertainment,2.5,7.3,3.6,67,148,0.8,7.5,7.9,3.0,3.0,1.4,1.0,6.0,7,87.1,0,6
+24.0,Male,Bangladesh,Postgraduate,Home,YouTube,Academic,5.1,12.5,2.9,105,147,1.1,7.7,5.5,3.0,3.0,1.7,2.0,9.0,9,,3,6
+20.0,Female,Brazil,Undergraduate,Hostel,WhatsApp,Entertainment,3.4,7.6,2.3,130,56,0.8,2.1,6.6,4.0,5.0,0.9,2.0,,9,72.2,1,5
+26.0,Male,India,Postgraduate,Home,YouTube,Social connection,3.1,7.2,1.0,64,71,0.9,4.4,6.4,2.0,0.0,1.0,0.0,5.0,5,79.1,1,6
+23.0,Male,Bangladesh,Undergraduate,Hostel,LinkedIn,Entertainment,3.0,4.6,0.4,66,122,1.0,1.9,6.6,3.0,1.0,1.7,4.0,4.0,5,61.4,2,6
+19.0,Female,Philippines,Undergraduate,Home,Facebook,Entertainment,2.2,5.2,0.5,69,108,0.5,5.2,8.5,4.0,1.0,1.3,4.0,4.0,6,62.3,0,4
+20.0,Male,Pakistan,Undergraduate,Home,Facebook,Social connection,0.5,1.5,0.6,30,53,0.1,5.8,8.6,3.0,3.0,0.0,10.0,7.0,7,72.3,1,3
+22.0,Female,Pakistan,Undergraduate,Home,YouTube,News and information,6.9,11.4,1.1,179,217,2.0,3.3,4.8,,1.0,1.6,3.0,3.0,8,63.3,2,9
+18.0,Male,USA,High School,Home,WhatsApp,News and information,4.8,8.7,0.4,108,194,0.5,3.7,7.0,2.0,2.0,0.9,2.0,7.0,8,87.8,2,5
+24.0,Female,Brazil,Postgraduate,Hostel,TikTok,Entertainment,1.7,3.6,0.3,41,130,0.0,3.6,7.1,3.0,4.0,1.3,2.0,4.0,5,84.1,0,4
+17.0,Female,India,High School,Rented room,LinkedIn,Mixed,6.6,10.2,1.3,154,177,2.2,0.0,5.1,1.0,4.0,1.9,2.0,4.0,6,68.6,4,6
+24.0,Male,Bangladesh,Postgraduate,Rented room,WhatsApp,Entertainment,3.1,6.7,1.2,76,167,1.2,6.2,6.5,3.0,2.0,0.6,2.0,7.0,2,68.7,1,4
+20.0,Male,USA,Undergraduate,Home,YouTube,Mixed,3.3,5.7,1.5,87,100,0.2,4.7,6.2,2.0,1.0,1.3,4.0,6.0,8,67.8,0,4
+22.0,Other,India,Undergraduate,Home,Instagram,Social connection,3.5,9.0,2.0,63,80,0.2,2.6,6.8,2.0,3.0,0.0,4.0,10.0,4,76.1,1,3
+18.0,Male,Egypt,High School,Hostel,TikTok,Entertainment,3.1,6.9,1.5,85,132,1.0,3.9,5.7,2.0,3.0,0.0,2.0,5.0,7,87.4,2,3
+25.0,Male,Egypt,Postgraduate,Home,Reddit,Entertainment,4.8,5.9,0.2,112,189,1.1,2.9,6.8,1.0,2.0,2.7,1.0,7.0,5,69.7,2,8
+21.0,Male,Pakistan,Undergraduate,Hostel,X (Twitter),Social connection,3.1,6.9,1.0,105,124,1.1,5.4,7.7,,1.0,0.9,7.0,7.0,3,81.7,1,5
+22.0,Male,UK,Undergraduate,Rented room,YouTube,Social connection,4.2,9.9,2.3,112,189,1.2,4.5,5.6,1.0,3.0,0.3,2.0,8.0,5,69.7,1,5
+20.0,Female,Bangladesh,Undergraduate,Rented room,WhatsApp,Entertainment,4.1,6.2,0.1,90,120,1.1,2.6,7.4,3.0,0.0,1.3,7.0,4.0,5,65.1,1,6
+19.0,Female,Indonesia,Undergraduate,Home,Facebook,Entertainment,3.9,6.5,0.3,130,172,1.3,4.6,6.7,4.0,1.0,0.6,4.0,10.0,2,84.6,2,6
+17.0,Male,Nigeria,High School,Home,TikTok,Academic,3.0,5.5,0.1,84,185,0.0,5.0,8.5,4.0,0.0,0.5,0.0,7.0,7,67.9,2,3
+23.0,Male,Brazil,Postgraduate,Hostel,Instagram,Social connection,0.7,5.3,2.5,10,108,0.3,5.1,8.0,2.0,5.0,0.0,3.0,6.0,5,69.3,3,2
+22.0,Female,Nigeria,Undergraduate,Hostel,Instagram,Social connection,2.3,3.7,0.8,90,96,0.6,2.2,7.1,3.0,2.0,1.1,4.0,8.0,8,62.6,0,5
+21.0,Male,Pakistan,Undergraduate,Home,Instagram,Academic,1.9,5.2,0.4,52,27,1.2,7.0,7.0,2.0,1.0,0.2,2.0,6.0,8,78.6,2,3
+21.0,Male,Nigeria,Undergraduate,Home,YouTube,News and information,2.6,5.9,1.2,89,98,0.4,5.0,7.7,3.0,2.0,1.4,3.0,7.0,5,45.8,2,4
+,Male,Nigeria,Undergraduate,Home,Reddit,Social connection,4.3,8.9,0.5,153,145,1.2,2.5,6.6,3.0,0.0,2.8,3.0,6.0,3,55.8,4,6
+23.0,Male,India,Undergraduate,Hostel,TikTok,Entertainment,2.2,5.5,1.3,71,62,0.8,4.1,7.5,2.0,0.0,0.4,3.0,3.0,8,64.4,2,5
+24.0,Female,Brazil,Undergraduate,Home,YouTube,Entertainment,6.0,8.3,0.2,157,178,1.6,1.7,6.2,3.0,0.0,2.1,4.0,6.0,6,65.7,3,7
+23.0,Male,Bangladesh,Undergraduate,Rented room,YouTube,Mixed,6.6,8.8,0.7,139,213,2.7,3.8,5.7,2.0,0.0,0.9,2.0,6.0,6,65.6,2,8
+19.0,Male,India,Undergraduate,Home,TikTok,Mixed,1.5,2.0,0.5,65,98,0.6,7.9,6.7,2.0,1.0,,7.0,5.0,3,93.3,1,4
+20.0,Female,India,Undergraduate,Home,YouTube,Social connection,3.6,7.9,1.7,98,200,0.9,1.8,6.7,3.0,1.0,0.6,3.0,5.0,5,63.8,1,6
+21.0,Female,UK,Undergraduate,Hostel,TikTok,Mixed,2.3,6.2,1.0,105,80,0.5,2.4,7.7,5.0,1.0,1.0,5.0,8.0,4,69.7,1,2
+23.0,Male,Pakistan,Undergraduate,Home,Snapchat,Social connection,4.5,7.3,1.3,75,144,1.2,5.8,5.2,2.0,1.0,1.0,3.0,4.0,4,69.3,1,4
+17.0,Female,Indonesia,High School,Home,YouTube,Entertainment,1.9,6.6,0.8,58,132,0.2,2.0,7.9,3.0,1.0,1.1,3.0,6.0,5,67.6,0,5
+19.0,Female,UK,Undergraduate,Rented room,Snapchat,Social connection,1.0,2.1,0.5,64,64,0.0,3.7,8.9,4.0,1.0,1.0,3.0,9.0,5,91.5,0,1
+26.0,Female,Nigeria,Postgraduate,Home,WhatsApp,Entertainment,4.1,12.5,4.1,116,87,0.9,4.7,7.5,1.0,1.0,1.2,4.0,6.0,5,81.6,1,6
+25.0,Female,Nigeria,Postgraduate,Home,TikTok,Academic,2.7,7.4,2.0,101,93,0.2,3.6,7.4,4.0,0.0,1.0,6.0,6.0,3,80.3,0,6
+21.0,Male,Bangladesh,Undergraduate,Hostel,Instagram,Mixed,4.7,7.4,0.7,126,128,0.3,6.7,6.6,4.0,1.0,0.2,4.0,9.0,6,73.8,1,6
+20.0,Male,Pakistan,Undergraduate,Rented room,TikTok,Social connection,5.1,7.4,2.0,97,130,1.6,3.2,6.0,1.0,3.0,0.9,3.0,5.0,5,77.2,2,8
+22.0,Male,India,Undergraduate,Home,YouTube,Mixed,3.9,9.4,1.1,126,166,1.2,7.2,6.3,1.0,1.0,1.1,4.0,6.0,6,70.2,1,5
+17.0,Male,India,High School,Home,Snapchat,Mixed,3.7,7.8,0.8,95,139,0.4,4.7,7.3,1.0,,0.0,6.0,2.0,8,57.4,2,5
+25.0,Male,India,Postgraduate,Home,YouTube,Entertainment,1.8,8.9,4.5,44,105,1.0,4.7,6.8,3.0,0.0,0.7,2.0,3.0,5,83.6,1,3
+18.0,Female,India,High School,Hostel,YouTube,Mixed,1.6,3.8,0.0,94,88,1.3,5.7,6.6,2.0,3.0,0.8,,9.0,4,83.3,0,5
+23.0,Male,India,Undergraduate,Hostel,Instagram,Entertainment,3.5,7.8,0.8,70,104,1.4,4.3,8.0,3.0,3.0,1.0,0.0,2.0,6,85.6,1,5
+19.0,Female,India,Undergraduate,Home,WhatsApp,Mixed,3.0,6.2,0.4,101,202,0.9,5.1,8.1,2.0,0.0,1.3,1.0,1.0,2,71.0,2,3
+22.0,Female,Pakistan,Undergraduate,Home,Facebook,Academic,2.1,5.1,0.0,99,108,0.2,2.5,7.4,4.0,2.0,2.5,5.0,5.0,3,64.6,1,4
+18.0,Male,Egypt,Undergraduate,Home,WhatsApp,Social connection,2.7,6.7,0.8,94,123,1.2,4.8,8.1,3.0,1.0,1.3,2.0,7.0,7,85.5,1,6
+21.0,Female,India,Undergraduate,Home,X (Twitter),Academic,1.1,4.3,2.1,60,89,0.1,3.0,7.1,2.0,,1.1,4.0,6.0,4,74.5,2,2
+20.0,Female,Pakistan,Postgraduate,Hostel,TikTok,Mixed,3.2,6.7,1.7,79,81,0.6,5.9,7.6,3.0,0.0,2.2,7.0,7.0,5,84.1,2,4
+18.0,Female,Bangladesh,High School,Rented room,Facebook,Mixed,3.2,5.3,0.1,49,81,0.1,7.2,7.8,,1.0,0.0,1.0,8.0,4,75.4,0,5
+18.0,Female,India,High School,Home,Snapchat,Entertainment,2.1,3.6,0.0,14,111,0.1,5.6,6.4,3.0,1.0,1.7,3.0,8.0,6,72.7,1,5
+23.0,Male,Nigeria,Undergraduate,Home,YouTube,Social connection,3.9,8.7,1.9,112,161,0.8,2.5,6.7,,0.0,1.5,3.0,5.0,4,75.0,2,6
+26.0,Male,Bangladesh,Undergraduate,Home,YouTube,Social connection,4.0,8.3,0.7,124,106,0.6,4.3,7.2,3.0,1.0,2.2,4.0,5.0,4,61.6,1,5
+22.0,Female,Nigeria,Postgraduate,Hostel,WhatsApp,Mixed,5.3,10.9,2.7,136,119,0.7,3.3,5.6,4.0,1.0,1.0,0.0,4.0,3,72.9,4,6
+21.0,Female,Brazil,Undergraduate,Home,Instagram,Academic,0.5,1.6,0.3,40,48,0.5,4.1,7.2,2.0,1.0,1.3,5.0,8.0,6,87.6,0,3
+25.0,Female,India,Postgraduate,Home,YouTube,Entertainment,3.7,6.8,0.5,120,112,1.7,4.1,7.0,2.0,2.0,1.5,1.0,7.0,7,67.3,1,7
+27.0,Female,Egypt,Postgraduate,Hostel,TikTok,Entertainment,2.9,6.7,0.5,75,66,1.6,2.3,6.5,1.0,1.0,0.0,3.0,8.0,7,76.7,1,6
+18.0,Female,USA,High School,Hostel,TikTok,Academic,2.0,4.8,0.5,78,46,0.1,5.0,8.7,5.0,0.0,0.2,2.0,5.0,9,92.5,0,3
+20.0,Female,India,Undergraduate,Hostel,X (Twitter),Mixed,3.4,5.3,0.5,89,88,0.9,4.5,6.5,2.0,3.0,1.2,4.0,6.0,6,84.2,2,3
+18.0,Male,India,High School,Home,YouTube,Entertainment,5.5,9.0,1.0,136,261,1.0,1.1,7.6,3.0,3.0,0.1,2.0,4.0,9,67.3,2,6
+28.0,Female,India,Postgraduate,Home,YouTube,Entertainment,5.2,6.8,0.6,136,141,1.6,5.7,5.6,1.0,3.0,1.0,5.0,6.0,6,66.2,2,6
+21.0,Female,Indonesia,Undergraduate,Rented room,WhatsApp,Entertainment,5.1,9.3,0.8,130,188,0.9,4.0,6.1,3.0,3.0,1.1,0.0,4.0,5,61.1,2,7
+25.0,Female,Bangladesh,Postgraduate,Rented room,WhatsApp,Mixed,4.7,9.7,1.4,124,164,2.1,1.6,7.7,3.0,0.0,0.2,3.0,8.0,5,81.9,0,6
+21.0,Male,Pakistan,Undergraduate,Hostel,Instagram,News and information,0.9,3.9,0.6,28,106,0.2,5.6,8.7,3.0,1.0,2.1,5.0,7.0,8,92.9,1,4
+19.0,Female,Brazil,Undergraduate,Rented room,Instagram,Social connection,4.4,6.5,0.2,80,125,0.7,6.3,6.3,3.0,4.0,1.2,4.0,4.0,6,77.9,2,4
+26.0,Male,Egypt,Postgraduate,Hostel,YouTube,Mixed,3.1,6.1,0.4,63,40,0.0,4.6,7.0,4.0,2.0,1.3,2.0,10.0,5,65.4,0,4
+24.0,Male,Pakistan,Undergraduate,Home,YouTube,Social connection,1.9,5.6,2.0,53,156,0.7,3.4,7.4,2.0,2.0,1.0,2.0,8.0,7,73.0,1,3
+22.0,Female,UK,Undergraduate,Home,Instagram,Entertainment,2.3,5.4,0.8,78,83,0.8,5.1,6.0,2.0,3.0,0.4,6.0,4.0,5,66.2,1,2
+21.0,Female,Philippines,Undergraduate,Home,Instagram,Academic,1.1,2.5,0.0,51,60,0.3,3.7,8.5,5.0,2.0,1.3,6.0,10.0,3,80.4,0,2
+27.0,Female,India,Postgraduate,Home,WhatsApp,Social connection,2.7,6.5,0.6,57,125,0.9,5.7,6.3,2.0,2.0,1.3,5.0,8.0,6,75.3,0,4
+25.0,Male,Indonesia,Postgraduate,Hostel,X (Twitter),Academic,2.0,3.8,0.4,79,131,0.9,8.2,6.5,3.0,4.0,0.9,6.0,6.0,9,88.0,0,6
+22.0,Female,USA,Undergraduate,Home,Instagram,Social connection,6.3,9.5,0.6,168,147,1.9,1.8,6.1,3.0,1.0,1.8,1.0,8.0,4,74.3,2,5
+26.0,Female,USA,Postgraduate,Home,WhatsApp,Social connection,6.2,9.5,0.6,163,208,1.4,3.4,7.0,3.0,0.0,1.0,5.0,7.0,8,83.1,2,8
+20.0,Male,India,Undergraduate,Hostel,Facebook,News and information,2.0,5.8,1.3,69,96,0.0,2.0,8.6,4.0,2.0,1.9,3.0,6.0,6,72.0,0,4
+19.0,Male,Brazil,Undergraduate,Home,YouTube,Academic,2.9,5.5,1.2,87,184,0.5,2.3,5.5,2.0,3.0,2.0,3.0,5.0,5,57.2,1,5
+17.0,Female,Bangladesh,High School,Home,Facebook,Social connection,4.6,10.7,2.7,138,160,1.1,2.8,5.8,1.0,2.0,1.2,1.0,7.0,4,70.2,2,5
+25.0,Male,India,Postgraduate,Home,WhatsApp,Entertainment,0.5,1.0,1.1,23,30,0.3,4.4,7.4,2.0,1.0,1.5,,6.0,3,52.6,1,1
+21.0,Male,USA,Undergraduate,Rented room,Instagram,Entertainment,1.0,3.6,0.6,43,112,0.4,3.7,8.3,3.0,0.0,0.7,2.0,9.0,6,68.9,0,3
+19.0,Male,Philippines,Undergraduate,Home,YouTube,Social connection,5.5,8.2,0.8,157,191,2.0,1.4,6.0,3.0,0.0,1.7,5.0,3.0,5,83.1,1,5
+27.0,Male,India,Undergraduate,Home,WhatsApp,Social connection,2.6,6.1,0.3,97,78,0.0,3.7,8.6,4.0,2.0,1.3,0.0,8.0,2,72.4,2,5
+25.0,Male,Bangladesh,Postgraduate,Hostel,Instagram,Academic,4.7,10.7,2.0,114,100,0.9,4.1,5.9,1.0,2.0,0.9,1.0,8.0,4,82.5,3,6
+23.0,Female,India,Undergraduate,Rented room,WhatsApp,Academic,2.8,6.9,1.4,66,75,1.1,2.6,6.6,3.0,2.0,0.3,4.0,6.0,3,70.8,1,5
+21.0,Female,India,Undergraduate,Home,WhatsApp,Entertainment,5.4,7.7,0.3,96,233,2.1,2.9,6.3,3.0,1.0,2.2,4.0,9.0,3,79.3,1,7
+28.0,Male,Indonesia,Postgraduate,Home,Snapchat,Entertainment,2.9,4.4,0.3,96,93,0.9,6.1,6.1,2.0,2.0,1.0,1.0,,6,65.5,1,7
+19.0,Male,Brazil,Undergraduate,Home,TikTok,Academic,2.6,5.7,0.2,40,81,0.7,4.6,,3.0,1.0,0.9,2.0,8.0,4,67.7,0,5
+22.0,Female,Philippines,Undergraduate,Home,WhatsApp,Mixed,2.7,7.7,1.4,92,114,0.8,5.8,6.9,3.0,1.0,0.0,3.0,7.0,5,75.1,0,5
+20.0,Male,Pakistan,Undergraduate,Home,Facebook,Entertainment,4.6,8.1,0.8,118,134,0.8,3.3,6.8,2.0,1.0,0.8,1.0,8.0,3,84.9,0,5
+22.0,Female,Brazil,Undergraduate,Home,Facebook,Academic,4.6,8.3,1.7,106,198,1.5,4.4,5.4,2.0,0.0,0.5,3.0,7.0,3,73.5,2,5
+19.0,Male,Philippines,Undergraduate,Rented room,Instagram,Mixed,3.0,4.3,0.9,54,146,0.5,3.1,7.6,3.0,2.0,0.0,1.0,6.0,2,66.4,2,3
+27.0,Female,USA,Postgraduate,Home,Snapchat,Entertainment,3.7,8.3,1.9,82,100,1.4,2.3,5.7,3.0,0.0,0.0,3.0,6.0,8,80.9,3,6
+23.0,Female,India,Undergraduate,Home,YouTube,Social connection,4.1,5.0,0.5,85,167,1.6,0.0,6.3,2.0,0.0,0.3,2.0,4.0,8,60.2,2,5
+24.0,Female,USA,Postgraduate,Hostel,X (Twitter),Entertainment,4.4,8.2,0.9,65,61,1.3,6.2,5.8,2.0,2.0,1.2,1.0,7.0,6,100.0,2,6
+23.0,Female,India,Undergraduate,Home,WhatsApp,Entertainment,4.5,7.3,0.9,113,163,1.1,3.4,6.7,2.0,1.0,1.2,3.0,4.0,5,76.9,1,7
+19.0,Female,Egypt,Undergraduate,Hostel,Reddit,Mixed,6.7,12.1,0.6,179,199,2.3,5.7,5.0,2.0,4.0,0.3,3.0,7.0,7,57.4,5,9
+19.0,Male,USA,Undergraduate,Home,WhatsApp,Social connection,2.9,8.4,2.4,68,121,0.4,4.5,9.5,5.0,0.0,1.2,5.0,5.0,4,77.2,1,4
+19.0,Female,USA,Undergraduate,Home,YouTube,Entertainment,4.0,6.2,0.5,94,41,1.3,1.9,5.6,2.0,3.0,,2.0,2.0,3,71.2,0,6
+21.0,Male,UK,Undergraduate,Rented room,Instagram,Social connection,2.7,4.8,0.4,70,82,0.2,6.0,8.2,4.0,3.0,1.6,5.0,7.0,7,80.0,0,2
+18.0,Female,India,Undergraduate,Hostel,TikTok,Academic,1.3,5.4,0.7,63,21,0.2,4.8,7.4,2.0,2.0,0.3,5.0,8.0,6,,1,5
+22.0,Male,Pakistan,Undergraduate,Home,YouTube,Academic,2.0,5.2,0.0,56,112,0.0,3.5,8.0,2.0,4.0,2.4,6.0,4.0,5,70.1,2,5
+24.0,Male,Bangladesh,Postgraduate,Home,Instagram,Entertainment,3.3,8.0,0.5,67,96,0.9,5.6,7.2,2.0,5.0,0.7,5.0,9.0,2,75.0,2,5
+23.0,Female,USA,Undergraduate,Rented room,Instagram,Entertainment,4.3,6.6,0.4,120,154,0.6,2.7,7.0,3.0,1.0,2.1,2.0,4.0,3,61.2,1,4
+22.0,Female,Indonesia,Postgraduate,Home,YouTube,Academic,4.5,9.0,0.8,123,171,1.1,7.5,5.4,3.0,2.0,1.6,2.0,6.0,6,59.2,1,6
+27.0,Male,Pakistan,Undergraduate,Home,WhatsApp,Mixed,3.8,6.2,0.4,107,163,1.1,3.2,7.5,3.0,2.0,0.9,5.0,6.0,6,64.2,1,7
+22.0,Female,UK,Undergraduate,Home,Snapchat,Social connection,4.9,9.8,0.6,129,156,1.3,2.0,5.4,4.0,4.0,1.8,4.0,7.0,5,54.0,4,4
+21.0,Male,Egypt,Undergraduate,Home,YouTube,Social connection,5.6,6.7,0.7,117,249,1.1,3.6,5.6,1.0,,0.4,,4.0,7,81.3,2,7
+19.0,Female,Philippines,Undergraduate,Home,Facebook,Academic,4.6,7.5,0.6,132,108,1.2,4.2,5.0,,1.0,0.4,1.0,4.0,7,58.9,3,8
+20.0,Male,Philippines,Undergraduate,Home,Snapchat,Social connection,4.1,6.0,0.6,91,173,0.8,4.6,7.1,,0.0,2.1,1.0,5.0,5,66.6,1,6
+24.0,Male,Philippines,Postgraduate,Home,Facebook,Entertainment,5.9,8.9,1.6,153,150,2.2,2.1,5.4,,2.0,1.1,4.0,7.0,5,58.5,2,8
+21.0,Male,Nigeria,Undergraduate,Rented room,X (Twitter),Social connection,3.6,7.2,1.8,94,77,1.1,2.1,8.0,2.0,2.0,1.0,5.0,2.0,6,62.2,2,5
+22.0,Female,Pakistan,Undergraduate,Hostel,YouTube,Mixed,5.1,9.8,1.0,116,118,1.4,3.6,5.9,1.0,2.0,0.9,3.0,7.0,4,69.0,3,6
+17.0,Female,India,High School,Home,Snapchat,Social connection,3.0,6.2,0.4,100,37,0.5,5.3,7.2,3.0,2.0,0.8,6.0,8.0,6,75.5,2,5
+20.0,Male,USA,Undergraduate,Rented room,X (Twitter),News and information,5.3,9.2,0.8,161,135,1.2,1.1,6.3,2.0,4.0,0.8,1.0,7.0,3,74.6,2,7
+23.0,Male,USA,Undergraduate,Hostel,YouTube,Social connection,4.2,9.6,1.5,87,201,0.8,4.4,5.5,1.0,1.0,1.5,3.0,7.0,7,63.1,0,4
+22.0,Female,UK,Undergraduate,Home,YouTube,Academic,3.9,7.5,0.9,93,132,1.1,5.9,7.4,2.0,2.0,0.7,3.0,7.0,9,80.8,2,7
+20.0,Male,Egypt,Undergraduate,Hostel,Facebook,Entertainment,1.2,4.3,1.3,67,123,1.0,4.8,7.7,,1.0,0.4,3.0,7.0,2,71.8,0,2
+21.0,Male,India,Undergraduate,Rented room,WhatsApp,Social connection,2.8,7.0,0.6,59,132,0.8,2.3,7.1,3.0,2.0,2.3,3.0,5.0,8,71.3,1,5
+23.0,Male,Bangladesh,Undergraduate,Hostel,YouTube,Social connection,6.2,10.4,0.5,121,138,1.5,5.8,6.4,3.0,0.0,0.5,2.0,5.0,5,72.1,2,7
+24.0,Female,Brazil,Postgraduate,Home,YouTube,Mixed,2.0,3.7,0.5,59,96,0.3,3.8,8.4,,1.0,1.1,4.0,8.0,8,73.4,0,4
+22.0,Other,Pakistan,Postgraduate,Hostel,Instagram,Entertainment,3.3,6.0,0.3,84,93,1.0,5.8,5.3,2.0,3.0,1.2,4.0,,7,82.0,2,4
+21.0,Male,India,Undergraduate,Home,Instagram,Entertainment,1.1,8.4,3.8,39,50,0.5,7.2,7.3,3.0,1.0,0.8,,6.0,6,66.8,1,2
+21.0,Female,Nigeria,Undergraduate,Home,Snapchat,Mixed,2.8,4.8,0.0,36,168,0.6,9.2,8.2,5.0,1.0,1.3,3.0,7.0,8,73.7,1,5
+23.0,Male,Bangladesh,Undergraduate,Hostel,Instagram,Mixed,9.3,13.8,1.8,214,301,2.4,0.0,4.9,2.0,1.0,2.0,2.0,4.0,7,70.7,2,9
+24.0,Female,Brazil,Postgraduate,Rented room,YouTube,Social connection,5.3,8.8,0.4,107,116,1.0,4.0,7.1,4.0,2.0,0.5,2.0,7.0,5,79.2,1,8
+22.0,Male,Indonesia,Undergraduate,Home,LinkedIn,Mixed,4.6,7.2,0.6,123,210,1.0,3.3,5.5,2.0,1.0,1.0,0.0,7.0,7,75.3,2,6
+20.0,Male,Indonesia,Undergraduate,Hostel,X (Twitter),Social connection,2.3,7.3,2.9,67,96,0.3,3.3,8.8,5.0,2.0,0.4,3.0,8.0,5,79.8,1,5
+23.0,Female,Pakistan,Undergraduate,Hostel,Facebook,Mixed,3.3,8.2,2.0,87,148,0.4,6.3,6.5,3.0,4.0,1.6,3.0,3.0,4,85.2,1,5
+25.0,Male,Egypt,Postgraduate,Home,WhatsApp,Entertainment,6.5,11.6,0.7,149,184,1.7,1.6,6.2,3.0,1.0,1.5,1.0,5.0,5,57.8,1,7
+21.0,Female,Indonesia,Undergraduate,Home,YouTube,Entertainment,3.3,9.1,2.4,83,44,0.2,4.5,6.8,3.0,5.0,1.0,2.0,5.0,5,71.9,0,5
+23.0,Other,Indonesia,Postgraduate,Home,Snapchat,Social connection,4.0,7.5,0.1,106,93,1.4,4.8,5.9,3.0,2.0,1.5,3.0,6.0,4,71.4,1,5
+18.0,Male,USA,High School,Rented room,Facebook,Social connection,0.5,2.5,0.5,65,162,0.5,4.5,6.7,3.0,2.0,1.0,1.0,7.0,6,87.3,0,2
+18.0,Female,Indonesia,Undergraduate,Hostel,YouTube,Entertainment,4.7,10.0,1.5,129,183,1.1,2.7,7.2,4.0,0.0,1.1,2.0,3.0,5,65.0,2,4
+26.0,Female,India,Postgraduate,Rented room,YouTube,Mixed,5.5,10.7,1.8,134,119,1.1,1.7,6.0,3.0,1.0,1.4,1.0,7.0,6,69.1,2,7
+25.0,Male,Egypt,Postgraduate,Home,Snapchat,Entertainment,3.3,6.5,0.2,87,109,0.3,7.1,6.8,4.0,2.0,0.8,2.0,10.0,8,91.8,3,4
+24.0,Other,UK,Postgraduate,Home,YouTube,Mixed,3.1,5.0,0.4,71,114,0.5,4.5,7.7,2.0,2.0,1.9,4.0,9.0,8,77.6,1,5
+23.0,Male,USA,Undergraduate,Rented room,YouTube,Social connection,2.2,4.8,0.8,82,124,0.0,2.9,7.4,4.0,3.0,1.2,6.0,7.0,8,84.5,0,3
+25.0,Male,USA,Undergraduate,Hostel,X (Twitter),Mixed,5.8,11.0,0.7,144,192,2.1,3.9,5.8,2.0,1.0,0.6,1.0,8.0,8,80.9,1,8
+26.0,Female,USA,Undergraduate,Home,X (Twitter),Mixed,4.4,7.2,0.2,132,103,1.7,3.5,8.2,2.0,2.0,0.0,4.0,6.0,5,60.5,2,7
+20.0,Male,Egypt,Postgraduate,Hostel,X (Twitter),Social connection,0.9,2.5,0.0,40,84,0.3,5.6,7.3,4.0,0.0,1.2,4.0,6.0,8,83.4,2,4
+19.0,Male,Philippines,Undergraduate,Home,WhatsApp,Entertainment,4.7,9.1,2.0,97,206,1.1,7.3,5.7,2.0,3.0,2.1,4.0,7.0,5,75.9,3,7
+21.0,Female,Brazil,Undergraduate,Home,Instagram,Social connection,3.4,8.6,1.7,85,66,1.2,1.4,6.3,3.0,2.0,1.7,1.0,5.0,6,88.6,2,5
+26.0,Female,Pakistan,Postgraduate,Rented room,Instagram,Entertainment,2.8,5.7,0.4,91,51,1.0,3.2,7.1,2.0,1.0,0.9,1.0,6.0,5,68.8,2,6
+20.0,Male,India,Undergraduate,Home,WhatsApp,Academic,3.0,6.7,0.3,99,90,1.1,0.0,6.8,4.0,2.0,0.9,2.0,5.0,5,64.9,1,4
+23.0,Male,Indonesia,Undergraduate,Rented room,YouTube,Social connection,5.1,9.1,2.1,141,133,1.7,6.2,5.7,2.0,4.0,1.1,3.0,3.0,4,63.0,2,7
+18.0,Male,Bangladesh,High School,Home,TikTok,Social connection,2.8,7.0,1.4,95,144,0.4,2.5,7.1,2.0,3.0,0.8,2.0,6.0,2,81.0,2,5
+21.0,Female,India,Undergraduate,Home,TikTok,Entertainment,5.3,10.0,0.5,138,187,1.5,3.8,6.7,2.0,1.0,1.1,1.0,4.0,5,73.8,4,5
+17.0,Male,USA,Undergraduate,Hostel,Snapchat,Academic,4.2,7.7,1.5,147,153,0.8,5.9,7.9,4.0,0.0,1.4,1.0,6.0,8,88.6,2,6
+20.0,Male,Nigeria,Undergraduate,Rented room,Snapchat,Entertainment,4.0,7.6,0.4,102,131,0.8,3.4,8.9,4.0,1.0,0.0,3.0,3.0,2,59.6,1,4
+21.0,Female,India,Undergraduate,Rented room,Snapchat,Social connection,4.6,7.7,0.6,106,173,1.3,4.2,7.6,3.0,1.0,0.4,4.0,7.0,6,59.3,1,6
+27.0,Female,Bangladesh,Postgraduate,Rented room,Instagram,Social connection,4.9,9.4,0.4,110,127,1.9,1.3,7.6,2.0,4.0,0.7,2.0,6.0,4,71.2,2,6
+20.0,Female,India,Undergraduate,Hostel,WhatsApp,Entertainment,2.1,6.0,1.0,71,8,0.4,5.7,6.9,2.0,3.0,0.7,5.0,7.0,5,63.1,2,4
+24.0,Male,Egypt,Postgraduate,Hostel,TikTok,Academic,3.1,5.2,0.9,74,110,0.0,4.9,8.5,4.0,0.0,0.3,5.0,5.0,7,80.9,1,3
+23.0,Male,Bangladesh,Postgraduate,Home,LinkedIn,Mixed,1.9,6.9,1.9,104,36,0.6,3.0,7.4,3.0,1.0,0.0,1.0,10.0,7,63.3,0,2
+17.0,Male,Indonesia,Undergraduate,Hostel,Instagram,Entertainment,0.6,4.9,1.3,46,95,0.0,7.0,6.3,3.0,2.0,0.0,3.0,4.0,4,76.1,0,2
+21.0,Female,Egypt,Undergraduate,Home,Reddit,Mixed,5.4,7.9,0.3,124,153,0.4,4.5,6.8,3.0,0.0,0.9,5.0,8.0,7,88.8,1,4
+18.0,Male,Bangladesh,High School,Hostel,Instagram,Entertainment,4.6,7.1,0.5,108,137,1.3,4.1,6.1,2.0,1.0,0.7,7.0,6.0,5,90.4,1,7
+22.0,Female,USA,Undergraduate,Home,WhatsApp,Entertainment,2.8,4.8,0.0,90,126,0.2,4.5,7.6,4.0,2.0,1.3,1.0,7.0,8,76.6,0,5
+23.0,Female,Brazil,Undergraduate,Home,Instagram,Academic,4.3,6.9,0.7,137,179,1.2,5.2,6.7,3.0,2.0,0.5,6.0,7.0,6,77.2,0,7
+19.0,Female,Pakistan,Undergraduate,Hostel,YouTube,Entertainment,5.7,10.0,0.4,131,193,1.3,6.3,6.5,2.0,2.0,0.9,4.0,5.0,6,62.3,2,8
+20.0,Female,USA,Undergraduate,Hostel,YouTube,Social connection,5.2,9.2,0.6,129,179,2.0,3.6,5.3,1.0,2.0,0.8,1.0,7.0,6,65.7,3,6
+19.0,Male,Nigeria,Undergraduate,Home,YouTube,Mixed,1.7,5.0,0.8,47,122,0.2,5.9,7.7,4.0,1.0,2.0,2.0,6.0,6,95.7,1,2
+21.0,Female,Indonesia,Undergraduate,Hostel,Instagram,Academic,5.4,12.3,2.6,120,178,1.2,5.2,6.3,2.0,0.0,1.7,,7.0,6,81.7,1,6
+20.0,Male,USA,Postgraduate,Rented room,WhatsApp,Mixed,4.9,9.1,0.3,113,189,1.1,5.7,7.1,3.0,2.0,2.0,3.0,7.0,6,77.2,2,6
+21.0,Male,India,Postgraduate,Rented room,Instagram,Entertainment,1.7,6.7,0.6,72,36,0.1,5.7,7.5,4.0,0.0,1.5,4.0,6.0,5,68.4,0,4
+22.0,Female,Pakistan,Undergraduate,Home,Facebook,Academic,1.8,4.1,0.3,50,82,0.8,3.7,7.5,3.0,1.0,1.4,1.0,5.0,7,72.0,1,3
+19.0,Female,Egypt,Undergraduate,Rented room,TikTok,News and information,6.2,11.6,1.9,139,94,0.7,1.9,5.5,3.0,2.0,0.0,4.0,3.0,6,64.2,1,6
+26.0,Female,Indonesia,Postgraduate,Rented room,YouTube,Social connection,4.3,9.5,1.8,115,236,0.9,2.7,6.7,3.0,4.0,2.2,4.0,8.0,9,75.7,1,4
+23.0,Female,USA,Undergraduate,Home,WhatsApp,Social connection,3.1,5.5,0.0,92,151,0.2,4.2,8.4,4.0,0.0,1.0,2.0,4.0,4,88.0,0,6
+20.0,Female,India,Postgraduate,Hostel,WhatsApp,Social connection,4.5,7.9,1.0,116,184,1.6,5.6,6.4,1.0,1.0,,0.0,4.0,9,74.8,3,6
+17.0,Male,India,Undergraduate,Hostel,WhatsApp,Mixed,3.1,7.0,1.0,81,63,1.1,5.7,7.4,3.0,2.0,2.6,4.0,5.0,6,75.6,1,4
+19.0,Male,India,Postgraduate,Hostel,Instagram,Mixed,4.0,7.8,0.5,116,142,0.4,3.1,7.3,1.0,0.0,0.0,,5.0,5,77.7,2,5
+19.0,Male,India,Undergraduate,Home,YouTube,Entertainment,2.1,3.3,0.2,87,171,0.3,5.2,7.7,3.0,1.0,0.9,8.0,5.0,6,49.6,0,5
+19.0,Other,Nigeria,Undergraduate,Hostel,X (Twitter),Mixed,3.3,6.2,1.3,86,154,1.1,4.0,6.6,3.0,1.0,0.6,2.0,,7,83.5,1,3
+22.0,Male,USA,Undergraduate,Rented room,X (Twitter),News and information,5.5,10.1,1.8,103,197,1.4,2.2,6.8,2.0,0.0,0.1,3.0,7.0,3,75.0,0,8
+23.0,Female,Egypt,Undergraduate,Home,Facebook,Mixed,5.6,8.9,0.9,149,198,1.8,6.2,4.3,2.0,2.0,1.4,2.0,6.0,6,83.3,3,7
+23.0,Male,Bangladesh,Undergraduate,Home,X (Twitter),Social connection,4.1,8.1,1.4,105,114,1.2,7.0,5.9,2.0,7.0,1.2,2.0,6.0,10,83.4,2,5
+21.0,Male,UK,Undergraduate,Home,YouTube,News and information,2.0,6.0,0.9,22,26,0.0,5.2,6.5,2.0,0.0,2.3,3.0,10.0,6,70.1,0,3
+18.0,Female,Egypt,High School,Hostel,YouTube,Social connection,3.4,4.9,0.0,86,59,0.0,5.8,6.8,2.0,2.0,0.2,2.0,5.0,5,56.6,0,4
+20.0,Male,Bangladesh,Undergraduate,Hostel,Instagram,Entertainment,1.9,6.0,1.0,51,83,0.6,5.4,8.2,3.0,1.0,1.6,5.0,7.0,8,75.1,0,4
+19.0,Female,UK,Undergraduate,Home,Instagram,Social connection,0.5,2.0,0.0,14,80,0.0,3.9,8.9,3.0,3.0,1.7,3.0,5.0,6,64.8,0,3
+24.0,Female,Indonesia,Postgraduate,Home,YouTube,Social connection,1.2,3.4,0.2,39,140,0.1,2.1,8.1,4.0,2.0,0.9,1.0,6.0,6,60.9,2,5
+20.0,Male,Pakistan,Undergraduate,Hostel,WhatsApp,Social connection,6.5,12.3,1.3,169,213,1.8,4.5,5.4,2.0,0.0,2.1,3.0,9.0,6,66.8,3,8
+23.0,Male,Brazil,Undergraduate,Home,YouTube,Social connection,4.9,7.3,0.5,114,107,2.2,3.3,5.5,3.0,2.0,0.5,1.0,,6,73.2,2,8
+22.0,Female,India,Postgraduate,Hostel,WhatsApp,Entertainment,4.2,8.8,0.8,150,128,0.9,1.8,6.4,4.0,0.0,0.4,4.0,6.0,5,71.1,0,6
+19.0,Female,India,Postgraduate,Rented room,TikTok,Entertainment,2.8,6.9,2.2,101,95,0.0,2.3,6.7,2.0,1.0,1.4,1.0,5.0,6,80.6,0,5
+20.0,Female,Pakistan,Undergraduate,Home,Instagram,Mixed,5.9,10.6,1.5,147,273,0.9,2.6,5.3,3.0,3.0,0.3,2.0,6.0,6,51.4,2,6
+22.0,Male,Bangladesh,Undergraduate,Hostel,Instagram,Entertainment,6.2,13.0,1.6,135,116,1.8,2.4,5.0,3.0,2.0,1.8,2.0,7.0,5,60.2,1,7
+23.0,Male,Bangladesh,Undergraduate,Home,Instagram,Entertainment,3.3,7.5,0.4,74,111,0.8,4.7,6.4,1.0,5.0,2.0,2.0,7.0,7,77.3,1,3
+20.0,Male,Bangladesh,Undergraduate,Home,WhatsApp,Mixed,1.9,4.7,0.2,49,77,0.4,6.6,7.8,2.0,1.0,1.6,2.0,5.0,9,75.3,0,3
+21.0,Female,Egypt,Undergraduate,Home,Instagram,Social connection,4.9,6.8,1.5,122,157,1.0,2.4,6.5,2.0,2.0,0.0,2.0,7.0,9,72.0,0,5
+20.0,Female,India,Undergraduate,Home,Facebook,Social connection,4.3,8.9,1.2,113,112,1.7,2.8,4.8,2.0,1.0,0.9,3.0,10.0,4,,1,7
+24.0,Male,Philippines,Postgraduate,Rented room,Instagram,Social connection,2.2,5.6,1.3,44,144,0.5,5.5,7.5,4.0,2.0,1.9,3.0,6.0,6,68.2,1,4
+25.0,Male,Indonesia,Postgraduate,Hostel,YouTube,News and information,5.1,10.5,0.8,120,141,1.3,3.6,6.5,1.0,4.0,1.7,2.0,7.0,5,71.2,2,8
+22.0,Female,UK,Undergraduate,Home,Instagram,Entertainment,5.6,8.7,0.2,141,153,1.6,4.2,5.6,3.0,1.0,0.4,3.0,7.0,5,77.1,4,6
+21.0,Female,UK,Undergraduate,Home,Instagram,Social connection,2.1,5.7,0.7,92,117,0.5,3.1,6.1,3.0,1.0,0.6,3.0,10.0,7,62.2,0,4
+19.0,Male,Pakistan,Undergraduate,Hostel,YouTube,Social connection,3.1,4.1,0.3,76,177,0.6,6.1,8.0,4.0,4.0,1.9,9.0,6.0,5,83.2,1,6
+21.0,Female,India,Undergraduate,Home,TikTok,Entertainment,3.9,6.8,0.4,84,150,0.2,2.5,6.4,3.0,1.0,1.1,3.0,6.0,7,59.0,2,5
+25.0,Male,Pakistan,Postgraduate,Rented room,YouTube,Entertainment,1.3,6.3,0.5,61,85,0.1,3.9,7.6,3.0,4.0,1.4,,7.0,9,96.7,0,2
+26.0,Male,Brazil,Undergraduate,Rented room,Facebook,Social connection,4.9,11.0,1.4,125,119,2.0,1.9,6.8,2.0,2.0,2.2,1.0,4.0,4,59.8,1,9
+20.0,Male,India,Undergraduate,Hostel,WhatsApp,Mixed,2.8,6.9,0.7,44,40,0.5,5.5,6.9,4.0,2.0,0.9,5.0,6.0,5,63.8,3,3
+19.0,Other,India,Undergraduate,Rented room,TikTok,Entertainment,3.3,6.0,1.2,76,70,0.3,5.2,6.2,3.0,,1.7,3.0,4.0,7,72.0,1,4
+26.0,Female,India,Postgraduate,Home,Instagram,Social connection,5.7,11.0,1.2,139,180,1.5,4.5,6.4,1.0,0.0,0.9,3.0,6.0,7,59.5,2,6
+22.0,Female,Egypt,Undergraduate,Hostel,WhatsApp,Social connection,1.0,2.7,0.0,78,132,0.0,2.4,9.1,5.0,1.0,1.0,2.0,7.0,6,63.7,0,6
+26.0,Female,Bangladesh,Postgraduate,Home,TikTok,Mixed,3.5,8.2,1.4,115,88,1.6,3.9,6.3,2.0,2.0,0.6,3.0,7.0,5,73.2,1,6
+22.0,Female,Nigeria,Undergraduate,Home,TikTok,Social connection,4.0,7.7,0.9,112,105,0.9,4.8,5.8,2.0,1.0,0.7,1.0,8.0,8,73.7,1,4
+22.0,Other,Philippines,Undergraduate,Hostel,YouTube,Mixed,5.1,6.5,0.1,119,105,0.1,5.9,6.5,2.0,2.0,2.5,6.0,9.0,5,74.9,2,6
+25.0,Female,UK,Postgraduate,Rented room,Snapchat,Mixed,5.3,9.5,0.3,131,132,1.6,2.3,6.9,,1.0,1.6,1.0,7.0,5,,1,5
+24.0,Female,Philippines,Postgraduate,Home,WhatsApp,Entertainment,4.3,6.7,1.0,111,119,2.1,3.4,6.8,2.0,2.0,0.1,0.0,4.0,5,86.4,1,7
+19.0,Male,Pakistan,Undergraduate,Hostel,Snapchat,Social connection,3.6,7.1,0.9,103,129,0.5,2.9,6.4,4.0,2.0,0.0,4.0,4.0,6,57.2,1,5
+21.0,Female,Philippines,Undergraduate,Home,YouTube,News and information,5.7,9.5,0.7,127,93,1.1,5.9,5.2,2.0,0.0,2.1,2.0,8.0,4,71.8,1,7
+24.0,Male,Nigeria,Postgraduate,Rented room,Instagram,Academic,3.5,9.5,2.8,66,92,1.5,4.5,7.2,3.0,0.0,1.2,2.0,8.0,9,84.8,3,4
+21.0,Male,India,Undergraduate,Hostel,LinkedIn,Social connection,6.0,10.4,1.6,132,200,1.3,3.9,6.7,3.0,1.0,2.1,2.0,10.0,8,60.6,2,6
+21.0,Male,Indonesia,Undergraduate,Hostel,WhatsApp,Mixed,4.7,13.6,2.9,146,144,1.6,5.5,5.7,2.0,2.0,2.3,2.0,9.0,8,73.3,1,6
+25.0,Female,Philippines,Undergraduate,Hostel,Reddit,Entertainment,5.0,9.9,0.6,148,91,1.4,1.1,6.1,2.0,1.0,0.3,1.0,3.0,5,69.0,1,4
+22.0,Female,USA,Undergraduate,Home,Reddit,Mixed,5.6,8.0,0.1,99,130,1.3,4.3,7.1,2.0,0.0,2.0,4.0,6.0,4,65.7,2,6
+19.0,Female,Bangladesh,Undergraduate,Hostel,YouTube,Entertainment,4.4,8.0,0.4,81,159,0.6,5.1,6.8,3.0,1.0,0.3,1.0,4.0,6,85.8,3,4
+26.0,Female,India,Undergraduate,Rented room,YouTube,News and information,3.4,6.5,0.1,89,167,0.8,5.6,6.9,2.0,1.0,1.9,2.0,7.0,4,52.7,3,4
+24.0,Male,Indonesia,Undergraduate,Hostel,YouTube,Entertainment,4.8,6.9,0.7,141,174,1.1,1.6,6.6,2.0,0.0,0.0,3.0,8.0,8,74.7,3,7
+20.0,Female,India,Undergraduate,Hostel,YouTube,News and information,3.0,6.6,0.5,93,96,1.6,3.6,7.1,3.0,0.0,0.4,3.0,9.0,5,70.7,0,5
+26.0,Female,Bangladesh,Postgraduate,Hostel,YouTube,Academic,3.6,4.6,0.4,114,110,1.3,4.6,6.2,1.0,0.0,1.9,1.0,3.0,4,50.5,1,5
+22.0,Male,Pakistan,Postgraduate,Hostel,YouTube,Social connection,3.9,7.5,0.4,119,118,1.0,5.7,7.3,2.0,1.0,0.0,3.0,7.0,5,73.2,2,5
+23.0,Male,Pakistan,Undergraduate,Rented room,TikTok,News and information,2.9,7.1,0.1,79,60,0.6,6.5,7.1,3.0,1.0,0.0,2.0,6.0,6,69.9,1,4
+21.0,Female,Bangladesh,Undergraduate,Rented room,X (Twitter),Social connection,5.9,8.4,0.3,135,152,0.8,2.7,6.8,3.0,1.0,0.7,1.0,3.0,5,69.2,2,7
+23.0,Male,USA,Undergraduate,Hostel,WhatsApp,Social connection,2.8,4.1,0.3,80,89,0.4,2.9,7.5,3.0,2.0,1.7,7.0,9.0,6,60.1,1,4
+19.0,Male,Egypt,Undergraduate,Rented room,Facebook,Social connection,7.1,14.0,3.0,143,148,2.8,1.7,5.4,1.0,1.0,1.9,2.0,3.0,6,57.9,1,8
+21.0,Female,Indonesia,Postgraduate,Hostel,Instagram,Entertainment,4.0,7.2,1.3,89,128,0.7,5.4,7.2,3.0,1.0,0.6,7.0,8.0,6,62.1,2,4
+22.0,Female,Pakistan,Undergraduate,Home,Facebook,Social connection,3.6,5.8,0.4,97,90,1.3,5.0,7.2,2.0,2.0,1.1,2.0,1.0,5,66.1,0,5
+24.0,Female,Pakistan,Postgraduate,Home,Instagram,Entertainment,5.0,8.7,1.0,128,158,1.4,6.4,5.4,1.0,3.0,0.5,6.0,6.0,3,68.8,1,6
+19.0,Male,USA,Undergraduate,Home,Facebook,Mixed,3.1,6.0,1.2,63,96,0.5,1.6,7.9,4.0,1.0,1.9,1.0,8.0,3,78.7,1,6
+22.0,Male,USA,Undergraduate,Hostel,Facebook,Social connection,5.2,9.5,0.4,144,137,1.4,3.7,7.5,2.0,1.0,1.8,2.0,6.0,2,67.8,2,7
+19.0,Female,Brazil,Undergraduate,Hostel,WhatsApp,Mixed,4.8,8.7,2.5,100,115,1.6,6.4,6.8,2.0,2.0,2.0,2.0,8.0,7,68.0,2,6
+23.0,Male,Pakistan,Undergraduate,Home,Reddit,Social connection,3.1,8.9,2.8,78,120,0.6,2.9,7.3,3.0,3.0,1.1,2.0,6.0,6,66.6,1,4
+20.0,Female,USA,Undergraduate,Home,Instagram,Entertainment,2.5,6.2,1.4,66,163,0.9,2.9,8.1,3.0,0.0,1.1,4.0,5.0,6,74.2,0,6
+22.0,Female,Egypt,Undergraduate,Home,WhatsApp,Social connection,5.5,8.0,0.0,147,149,1.1,5.0,6.2,3.0,0.0,1.2,2.0,7.0,4,66.5,3,6
+27.0,Female,Bangladesh,Postgraduate,Home,WhatsApp,Social connection,7.5,10.9,0.9,144,202,1.4,2.9,5.4,2.0,4.0,0.7,1.0,2.0,6,80.9,3,7
+23.0,Female,Pakistan,Undergraduate,Hostel,WhatsApp,Mixed,6.7,11.2,0.4,149,180,1.3,5.4,5.5,2.0,2.0,1.7,3.0,7.0,7,66.2,2,7
+18.0,Male,India,High School,Hostel,Instagram,Entertainment,3.4,6.4,0.3,61,135,0.9,4.0,6.6,1.0,0.0,1.2,1.0,8.0,4,85.0,0,6
+20.0,Female,Egypt,Undergraduate,Hostel,WhatsApp,Social connection,3.9,8.4,1.3,102,100,1.7,6.8,6.7,4.0,4.0,2.0,3.0,7.0,4,73.6,2,6
+20.0,Other,Egypt,Undergraduate,Home,WhatsApp,Social connection,2.6,5.2,0.2,105,113,0.6,3.0,5.9,1.0,2.0,0.0,0.0,8.0,5,55.0,1,6
+21.0,Male,Pakistan,Undergraduate,Rented room,Instagram,Entertainment,3.7,7.2,1.5,95,156,0.7,3.2,8.4,5.0,3.0,0.2,6.0,6.0,6,85.1,3,4
+17.0,Male,Egypt,High School,Home,Instagram,Social connection,1.7,8.4,2.4,27,56,0.3,5.1,8.2,3.0,1.0,0.4,3.0,2.0,10,83.6,1,2
+18.0,Male,UK,Undergraduate,Home,Instagram,Social connection,2.0,5.9,0.4,64,70,0.4,4.3,7.9,3.0,2.0,1.1,3.0,7.0,6,71.2,0,3
+22.0,Male,Indonesia,Undergraduate,Home,YouTube,Mixed,3.3,3.8,1.0,103,107,1.3,3.3,6.3,1.0,1.0,0.8,5.0,8.0,5,73.3,1,5
+23.0,Male,India,Undergraduate,Home,WhatsApp,Entertainment,4.3,11.2,3.6,111,183,1.5,8.0,5.1,3.0,3.0,0.3,2.0,7.0,5,59.9,0,6
+21.0,Female,India,Undergraduate,Hostel,X (Twitter),Entertainment,6.2,9.7,0.5,135,158,0.9,4.9,6.1,4.0,3.0,0.1,0.0,7.0,5,53.1,3,7
+24.0,Female,Egypt,Postgraduate,Hostel,Facebook,Social connection,5.2,13.9,5.9,92,185,1.6,5.6,,3.0,2.0,0.7,3.0,,3,84.3,1,6
+21.0,Female,Nigeria,Undergraduate,Home,Facebook,Mixed,3.6,7.6,0.7,96,89,0.6,3.0,8.3,4.0,1.0,0.0,0.0,8.0,3,89.1,3,5
+22.0,Female,Bangladesh,Undergraduate,Hostel,TikTok,News and information,3.6,6.4,0.2,92,117,1.2,6.1,4.6,2.0,4.0,0.6,2.0,6.0,3,64.3,1,6
+19.0,Female,Indonesia,Undergraduate,Home,Reddit,Social connection,5.8,9.8,0.2,90,180,1.9,5.7,5.2,2.0,1.0,1.6,1.0,4.0,6,62.2,0,6
+25.0,Female,USA,Postgraduate,Hostel,WhatsApp,Entertainment,4.4,9.3,1.1,87,69,1.4,6.0,6.7,2.0,3.0,0.3,3.0,6.0,7,56.7,1,7
+22.0,Female,Nigeria,Undergraduate,Hostel,LinkedIn,Social connection,2.5,3.9,0.3,71,50,0.1,5.7,7.4,2.0,2.0,0.8,,6.0,5,65.4,1,3
+30.0,Female,Nigeria,Postgraduate,Rented room,Instagram,Entertainment,1.8,4.5,0.0,76,118,0.2,6.2,8.2,5.0,1.0,0.4,5.0,8.0,7,66.7,0,5
+21.0,Female,Brazil,Undergraduate,Home,Instagram,Mixed,4.7,6.3,0.4,85,234,1.1,5.5,5.3,3.0,2.0,1.7,4.0,6.0,7,83.1,1,6
+23.0,Male,Egypt,Undergraduate,Hostel,Instagram,Social connection,4.1,6.3,0.6,89,154,0.8,3.6,8.0,2.0,2.0,1.4,3.0,,5,60.7,2,5
+19.0,Male,Nigeria,Undergraduate,Home,WhatsApp,Mixed,2.7,5.5,0.8,73,74,0.6,6.5,6.9,2.0,2.0,1.0,1.0,4.0,4,72.0,1,5
+25.0,Male,USA,Undergraduate,Rented room,Reddit,Entertainment,4.3,9.6,3.2,137,134,1.1,3.2,7.6,3.0,3.0,2.1,7.0,7.0,5,70.0,2,8
+19.0,Female,Brazil,Undergraduate,Home,LinkedIn,Social connection,3.6,5.6,0.1,112,154,0.8,6.1,7.0,2.0,4.0,0.3,2.0,7.0,6,84.1,2,4
+18.0,Male,India,High School,Rented room,Instagram,Entertainment,6.4,10.6,1.5,143,155,1.2,2.4,6.7,2.0,3.0,1.5,0.0,6.0,6,66.8,3,7
+24.0,Male,Nigeria,Postgraduate,Home,YouTube,Academic,3.9,5.3,0.3,100,136,0.9,4.2,7.4,2.0,2.0,0.7,3.0,5.0,4,72.0,1,4
+23.0,Male,USA,Undergraduate,Home,Reddit,Entertainment,8.4,12.7,1.6,179,216,1.9,4.2,5.4,1.0,2.0,1.8,1.0,5.0,6,50.4,4,9
+24.0,Female,India,Postgraduate,Hostel,Snapchat,Entertainment,1.1,3.1,0.0,62,87,0.0,4.9,8.3,4.0,0.0,1.9,1.0,6.0,5,,1,1
+27.0,Female,India,Postgraduate,Rented room,YouTube,Social connection,3.9,6.8,0.5,136,129,1.5,2.9,6.5,3.0,1.0,0.8,2.0,8.0,8,77.3,1,6
+21.0,Male,Indonesia,Undergraduate,Home,Instagram,Mixed,4.3,8.0,1.9,108,158,0.9,4.0,5.7,3.0,0.0,0.4,,6.0,5,83.4,1,6
+21.0,Female,USA,Undergraduate,Home,TikTok,Social connection,0.5,1.2,0.6,26,5,0.0,5.8,8.4,4.0,2.0,2.5,5.0,4.0,4,74.3,1,2
+22.0,Male,Pakistan,Undergraduate,Home,TikTok,Mixed,3.6,4.6,1.6,89,65,0.7,3.8,6.4,2.0,3.0,0.8,3.0,6.0,6,67.8,0,4
+18.0,Female,Indonesia,High School,Home,WhatsApp,Entertainment,5.8,8.7,0.4,113,200,1.3,2.1,6.4,5.0,0.0,,3.0,6.0,4,66.1,3,5
+20.0,Female,Philippines,Undergraduate,Home,WhatsApp,Mixed,4.2,8.2,0.6,115,135,0.9,2.4,7.4,2.0,0.0,1.0,1.0,6.0,3,94.5,0,6
+17.0,Female,Pakistan,High School,Home,YouTube,Mixed,4.3,8.8,1.0,89,33,0.5,4.2,7.2,2.0,3.0,1.9,2.0,4.0,3,70.9,1,6
+21.0,Female,India,Undergraduate,Home,X (Twitter),Entertainment,3.3,6.0,0.2,109,114,0.6,3.0,7.8,4.0,1.0,0.7,5.0,8.0,5,63.3,1,5
+23.0,Male,India,Undergraduate,Rented room,YouTube,News and information,2.7,6.4,0.3,77,69,0.8,2.2,6.1,3.0,1.0,2.5,6.0,6.0,6,61.5,0,4
+26.0,Female,Bangladesh,Postgraduate,Home,Instagram,Entertainment,3.3,8.6,2.3,95,114,0.1,4.3,6.5,2.0,3.0,1.0,2.0,6.0,4,62.2,1,5
+20.0,Male,Bangladesh,Undergraduate,Hostel,WhatsApp,Social connection,2.9,5.8,0.9,90,40,0.6,2.4,8.3,4.0,3.0,1.5,2.0,3.0,8,61.6,0,5
+25.0,Female,UK,Postgraduate,Home,Instagram,Mixed,3.8,6.0,0.4,73,99,0.7,5.8,7.8,2.0,2.0,0.0,2.0,5.0,5,70.4,1,5
+17.0,Female,Bangladesh,Undergraduate,Rented room,WhatsApp,Social connection,3.4,7.2,1.8,94,124,0.8,1.9,6.0,2.0,0.0,1.2,3.0,7.0,5,63.2,2,6
+25.0,Female,Brazil,Undergraduate,Hostel,Facebook,Social connection,8.1,13.7,1.6,165,161,1.6,2.9,5.8,4.0,0.0,0.6,2.0,7.0,2,68.5,4,7
+27.0,Female,USA,Postgraduate,Rented room,TikTok,Mixed,2.7,6.5,0.7,101,215,0.1,4.5,6.9,2.0,1.0,0.0,2.0,7.0,3,84.6,0,3
+21.0,Female,Nigeria,Undergraduate,Home,Instagram,Entertainment,3.6,5.8,1.1,86,89,0.2,6.0,6.1,4.0,1.0,1.5,3.0,10.0,5,85.4,1,3
+21.0,Male,USA,Undergraduate,Home,Reddit,Entertainment,2.9,6.5,1.2,80,66,0.4,5.4,8.3,4.0,2.0,0.0,4.0,4.0,5,80.1,2,3
+20.0,Female,India,Undergraduate,Home,YouTube,Mixed,4.3,9.4,2.0,82,21,1.2,7.6,6.2,1.0,2.0,0.9,,8.0,7,80.9,2,5
+21.0,Female,India,Undergraduate,Hostel,Instagram,Mixed,5.8,10.6,1.6,149,91,1.5,3.7,5.7,4.0,0.0,0.9,3.0,5.0,4,56.8,3,6
+17.0,Female,USA,Undergraduate,Hostel,Instagram,Mixed,4.9,6.7,1.2,125,113,1.4,4.2,5.2,2.0,4.0,0.0,1.0,6.0,6,57.9,3,6
+20.0,Male,USA,Undergraduate,Home,YouTube,Entertainment,2.8,4.5,0.3,90,101,0.4,3.9,7.0,3.0,3.0,1.5,3.0,7.0,6,86.9,3,3
+21.0,Male,Indonesia,Undergraduate,Hostel,X (Twitter),Entertainment,4.8,8.6,0.4,131,155,1.4,6.5,6.0,4.0,3.0,0.9,3.0,,6,66.1,2,6
+17.0,Male,India,High School,Home,WhatsApp,Mixed,4.2,8.6,1.3,123,145,0.8,0.4,6.7,2.0,5.0,0.7,1.0,6.0,4,68.5,3,7
+22.0,Male,Nigeria,Undergraduate,Rented room,Instagram,Mixed,1.3,4.1,0.9,52,159,0.0,5.3,9.5,4.0,1.0,0.9,2.0,8.0,7,84.2,0,4
+23.0,Female,UK,Undergraduate,Home,WhatsApp,Social connection,2.2,3.2,0.0,72,96,0.8,3.3,8.7,3.0,1.0,2.3,3.0,6.0,5,56.3,0,4
+27.0,Male,Brazil,Postgraduate,Hostel,Facebook,Mixed,5.5,9.8,1.1,132,110,1.1,4.2,6.1,2.0,2.0,1.4,2.0,8.0,2,81.8,1,8
+19.0,Female,India,Undergraduate,Home,YouTube,Entertainment,0.9,3.2,0.6,10,20,0.0,3.9,8.2,4.0,0.0,1.6,3.0,7.0,9,100.0,0,5
+23.0,Male,Egypt,Undergraduate,Home,Reddit,Social connection,4.4,7.4,0.6,105,145,1.5,3.9,7.8,2.0,1.0,0.4,4.0,8.0,3,66.9,1,6
+24.0,Male,Egypt,Postgraduate,Home,YouTube,Entertainment,4.7,9.0,0.5,95,137,0.4,4.6,6.0,2.0,2.0,0.9,3.0,7.0,3,71.6,2,5
+25.0,Female,Indonesia,Postgraduate,Home,Snapchat,Academic,5.4,8.1,0.8,153,214,1.5,3.2,5.6,3.0,0.0,1.1,3.0,5.0,6,78.7,1,7
+29.0,Male,India,Postgraduate,Hostel,YouTube,Academic,3.4,6.9,0.9,102,117,0.7,6.5,7.2,3.0,1.0,2.2,2.0,9.0,6,79.0,1,4
+25.0,Male,Nigeria,Postgraduate,Home,X (Twitter),Social connection,5.4,11.4,2.1,126,127,1.4,5.1,5.6,2.0,3.0,1.0,0.0,7.0,5,72.0,2,5
+23.0,Male,India,Undergraduate,Rented room,Instagram,Social connection,2.2,8.1,3.1,108,118,1.2,4.1,5.7,2.0,1.0,0.9,2.0,7.0,4,90.5,1,3
+21.0,Female,USA,Undergraduate,Home,Facebook,Academic,5.2,10.7,1.2,148,146,0.6,6.0,7.0,3.0,5.0,0.4,3.0,9.0,5,74.8,2,6
+20.0,Male,Indonesia,Undergraduate,Hostel,TikTok,Entertainment,4.1,6.9,0.8,127,160,1.1,2.9,7.9,4.0,2.0,1.9,2.0,6.0,5,64.3,1,7
+23.0,Female,UK,Undergraduate,Hostel,TikTok,Academic,1.0,5.5,4.3,81,62,0.0,7.3,8.0,3.0,4.0,2.0,4.0,4.0,5,87.2,1,2
+24.0,Female,India,Undergraduate,Hostel,TikTok,Academic,3.6,8.8,2.1,116,133,0.8,2.9,7.0,2.0,0.0,0.9,0.0,5.0,7,59.3,0,4
+20.0,Male,Egypt,Undergraduate,Hostel,YouTube,Mixed,5.5,11.3,1.0,144,115,1.4,4.4,7.0,5.0,1.0,0.4,2.0,6.0,7,62.5,3,6
+23.0,Male,India,Undergraduate,Home,Facebook,Entertainment,2.2,4.3,0.3,59,56,0.1,5.4,5.5,3.0,1.0,0.9,1.0,5.0,8,85.4,1,4
+23.0,Male,Pakistan,Undergraduate,Hostel,YouTube,Academic,4.1,7.7,0.9,142,139,1.7,1.5,6.1,3.0,2.0,1.3,2.0,5.0,2,64.5,2,7
+21.0,Female,India,Undergraduate,Home,X (Twitter),Academic,5.1,10.7,0.3,118,123,0.9,2.7,5.9,3.0,2.0,0.6,1.0,6.0,4,61.6,2,5
+22.0,Female,India,Undergraduate,Rented room,X (Twitter),Entertainment,4.4,7.1,0.8,103,223,0.5,7.6,6.2,3.0,4.0,1.1,2.0,4.0,4,84.8,2,6
+24.0,Female,Brazil,Undergraduate,Home,Instagram,Academic,6.2,10.0,0.6,180,155,2.4,3.7,5.7,1.0,0.0,0.6,0.0,5.0,6,48.5,2,5
+24.0,Male,Indonesia,Postgraduate,Hostel,WhatsApp,Entertainment,4.5,8.2,0.6,110,105,1.1,4.3,6.0,2.0,1.0,0.5,1.0,6.0,5,66.6,3,7
+22.0,Female,Egypt,Postgraduate,Hostel,YouTube,Entertainment,3.1,7.1,0.9,91,137,0.8,2.6,6.3,1.0,3.0,3.4,3.0,8.0,6,79.7,4,5
+23.0,Female,UK,Undergraduate,Home,TikTok,Mixed,5.1,9.6,0.4,101,126,2.5,3.5,4.6,1.0,0.0,,4.0,7.0,9,66.4,3,7
+21.0,Male,India,Undergraduate,Hostel,YouTube,Academic,1.9,4.7,0.3,75,101,0.4,7.1,8.1,4.0,2.0,1.3,3.0,2.0,5,58.0,2,4
+21.0,Female,UK,Undergraduate,Home,X (Twitter),Social connection,1.4,3.9,1.1,43,70,0.2,5.6,7.5,2.0,1.0,2.2,2.0,4.0,2,83.7,0,4
+22.0,Male,UK,Undergraduate,Home,YouTube,Entertainment,5.6,10.6,1.5,139,141,2.3,2.3,6.0,3.0,1.0,0.7,2.0,3.0,9,65.5,2,6
+19.0,Male,Brazil,Postgraduate,Home,TikTok,Mixed,4.2,7.8,0.6,136,71,0.7,5.4,7.0,3.0,,0.0,5.0,7.0,5,64.2,2,8
+23.0,Male,Brazil,Undergraduate,Home,Facebook,News and information,5.7,9.0,1.4,140,166,1.7,4.8,5.2,1.0,2.0,1.0,2.0,5.0,7,65.0,2,7
+19.0,Male,USA,Undergraduate,Rented room,Instagram,Academic,1.0,2.7,0.0,10,133,0.0,7.2,8.5,5.0,4.0,0.1,2.0,9.0,7,92.0,1,3
+17.0,Female,UK,Undergraduate,Home,X (Twitter),Entertainment,2.0,4.2,0.2,37,114,0.2,4.1,7.9,3.0,0.0,0.8,6.0,6.0,6,80.9,0,3
+18.0,Female,Pakistan,Undergraduate,Hostel,Facebook,Mixed,3.1,4.5,0.2,63,94,0.1,3.7,7.3,4.0,2.0,0.4,2.0,7.0,5,86.6,1,5
+23.0,Male,India,Undergraduate,Hostel,Snapchat,Entertainment,4.2,8.0,0.4,142,123,1.8,4.9,6.3,3.0,1.0,0.9,5.0,5.0,5,68.5,0,6
+20.0,Male,UK,Undergraduate,Home,TikTok,Entertainment,2.4,5.3,0.4,58,132,0.2,2.8,8.7,3.0,3.0,0.5,3.0,8.0,7,47.1,2,4
+23.0,Male,Egypt,Undergraduate,Home,Instagram,Mixed,3.9,7.6,0.5,76,30,0.1,5.8,7.1,1.0,3.0,,3.0,6.0,8,86.1,1,6
+22.0,Female,Indonesia,Undergraduate,Rented room,WhatsApp,Social connection,2.6,3.7,0.7,85,193,0.1,2.0,7.1,4.0,2.0,2.0,3.0,3.0,6,68.9,0,4
+23.0,Male,Egypt,Undergraduate,Rented room,Instagram,News and information,1.9,4.8,2.4,56,45,0.2,4.7,7.7,3.0,5.0,1.8,0.0,9.0,7,83.9,0,4
+18.0,Female,India,High School,Home,TikTok,Academic,3.8,7.4,1.3,101,139,1.1,2.6,6.3,3.0,3.0,1.1,4.0,7.0,7,71.6,1,6
+23.0,Female,Pakistan,Undergraduate,Hostel,Instagram,Mixed,4.4,6.5,0.0,122,108,0.7,4.9,6.6,3.0,2.0,2.1,10.0,9.0,7,86.7,0,5
+21.0,Female,Nigeria,Undergraduate,Home,Facebook,Academic,4.7,7.3,1.4,114,63,0.6,5.5,7.0,3.0,1.0,1.1,4.0,4.0,4,78.3,1,5
+23.0,Female,Indonesia,Undergraduate,Hostel,WhatsApp,Mixed,5.5,9.1,1.0,108,159,1.6,5.5,6.6,1.0,3.0,1.2,2.0,8.0,9,69.1,1,6
+27.0,Male,USA,Postgraduate,Home,WhatsApp,Social connection,0.9,3.8,0.7,87,54,0.4,3.7,7.2,4.0,1.0,0.5,2.0,7.0,5,71.4,2,3
+22.0,Male,Pakistan,Undergraduate,Home,LinkedIn,Entertainment,3.7,7.5,0.5,97,97,1.1,3.4,5.8,2.0,1.0,0.3,1.0,7.0,5,66.3,2,4
+21.0,Male,Nigeria,Undergraduate,Home,WhatsApp,Entertainment,2.1,6.3,0.8,96,100,0.6,3.6,7.2,3.0,0.0,2.4,2.0,4.0,5,69.8,1,4
+21.0,Female,India,Postgraduate,Home,YouTube,Mixed,3.4,6.3,0.4,71,146,0.5,3.9,7.3,3.0,0.0,0.0,7.0,5.0,6,64.0,4,4
+25.0,Female,Egypt,Undergraduate,Hostel,TikTok,Entertainment,1.4,4.1,1.1,41,29,0.4,4.6,7.7,4.0,1.0,1.0,9.0,9.0,7,73.5,0,3
+21.0,Female,USA,Postgraduate,Rented room,Instagram,Academic,2.5,4.6,0.4,44,112,0.8,8.2,6.8,4.0,2.0,1.5,4.0,6.0,8,57.6,1,5
+20.0,Male,Philippines,Undergraduate,Home,Reddit,Entertainment,4.1,8.8,0.8,82,45,0.5,4.4,7.2,3.0,1.0,0.8,2.0,5.0,9,75.7,0,3
+25.0,Male,Pakistan,Postgraduate,Home,TikTok,Entertainment,4.3,7.0,0.5,98,176,1.0,3.3,8.2,3.0,1.0,1.2,1.0,6.0,7,66.5,0,5
+23.0,Female,India,Undergraduate,Home,TikTok,News and information,5.3,7.4,0.9,135,139,1.1,2.9,5.8,1.0,3.0,1.2,2.0,5.0,8,74.8,2,6
+23.0,Male,Egypt,Undergraduate,Home,Instagram,Entertainment,2.4,5.2,0.4,66,58,0.4,4.4,7.5,4.0,2.0,1.8,5.0,,3,61.1,0,4
+24.0,Female,India,Postgraduate,Hostel,TikTok,Academic,3.1,4.3,0.0,76,160,0.7,4.8,6.3,3.0,2.0,1.8,4.0,4.0,5,72.4,0,5
+23.0,Male,India,Undergraduate,Home,Snapchat,News and information,4.9,9.6,0.4,131,85,1.8,4.2,5.3,1.0,3.0,0.7,2.0,4.0,5,66.3,2,5
+25.0,Female,UK,Postgraduate,Hostel,Instagram,Social connection,5.2,9.5,2.1,135,156,0.7,3.1,5.9,3.0,0.0,1.0,2.0,6.0,5,69.9,2,5
+21.0,Male,India,Undergraduate,Rented room,TikTok,Social connection,4.9,11.8,2.5,117,154,1.1,6.1,6.5,2.0,1.0,0.8,4.0,2.0,5,64.8,1,7
+18.0,Female,Indonesia,High School,Rented room,Snapchat,Mixed,3.7,8.5,0.3,102,133,1.1,2.9,6.9,3.0,3.0,2.1,3.0,4.0,7,97.3,2,5
+23.0,Female,India,Undergraduate,Rented room,Instagram,Social connection,1.2,2.7,0.4,56,5,0.0,2.5,9.6,5.0,0.0,1.3,3.0,10.0,7,93.5,0,3
+22.0,Male,India,Undergraduate,Rented room,YouTube,Entertainment,3.3,5.5,0.3,103,116,0.9,4.5,5.8,1.0,3.0,0.6,3.0,7.0,4,61.8,1,6
+22.0,Male,Philippines,Undergraduate,Home,YouTube,Academic,5.7,8.5,0.9,173,145,1.3,6.7,6.9,3.0,1.0,1.9,4.0,8.0,6,60.7,2,6
+18.0,Male,USA,High School,Home,WhatsApp,Mixed,6.5,10.2,1.3,170,109,1.6,6.4,5.4,2.0,1.0,0.7,0.0,8.0,6,69.6,2,9
+19.0,Female,India,Postgraduate,Rented room,Snapchat,Social connection,3.0,5.2,0.9,92,111,0.0,4.8,7.3,4.0,1.0,2.4,0.0,6.0,7,64.3,1,2
+22.0,Female,India,Undergraduate,Rented room,X (Twitter),Mixed,1.7,5.7,1.2,23,52,0.4,6.7,8.0,2.0,4.0,1.1,3.0,9.0,6,57.3,0,3
+17.0,Male,USA,Undergraduate,Home,Reddit,Social connection,2.9,7.2,2.0,93,100,1.3,6.6,5.7,2.0,1.0,0.6,6.0,5.0,6,87.6,2,5
+22.0,Male,Nigeria,Undergraduate,Home,Instagram,Mixed,3.0,6.1,1.5,74,100,0.2,5.4,7.3,2.0,2.0,1.0,1.0,7.0,4,81.0,2,5
+20.0,Male,Egypt,Undergraduate,Hostel,Facebook,Social connection,1.1,3.9,0.0,55,98,1.1,4.3,7.6,2.0,0.0,1.7,6.0,8.0,7,100.0,0,3
+22.0,Female,UK,Undergraduate,Rented room,TikTok,Entertainment,1.6,2.1,0.2,10,86,0.0,5.5,7.9,4.0,3.0,1.1,7.0,7.0,7,65.9,0,2
+17.0,Female,Brazil,High School,Hostel,YouTube,Entertainment,4.0,8.3,1.6,97,45,0.6,3.2,7.6,2.0,1.0,1.0,5.0,5.0,3,,1,4
+21.0,Female,Egypt,Postgraduate,Hostel,Facebook,Social connection,2.3,5.2,0.1,67,86,0.5,3.8,8.6,4.0,1.0,1.4,2.0,6.0,7,56.8,3,4
+20.0,Female,Pakistan,Undergraduate,Home,YouTube,Entertainment,1.5,5.0,0.5,71,7,0.4,5.2,8.3,4.0,1.0,0.3,1.0,5.0,4,89.0,2,4
+19.0,Female,Nigeria,Undergraduate,Hostel,Reddit,Mixed,6.1,10.0,0.7,144,155,1.3,2.5,6.2,3.0,0.0,0.0,2.0,4.0,2,59.3,2,8
+20.0,Male,UK,Undergraduate,Home,LinkedIn,Mixed,1.9,5.0,0.6,64,111,0.0,3.0,8.4,2.0,4.0,0.7,4.0,8.0,7,73.9,0,4
+17.0,Female,Indonesia,Undergraduate,Hostel,TikTok,Mixed,1.4,1.9,0.0,22,73,0.1,4.3,8.4,4.0,0.0,1.8,5.0,7.0,5,74.6,0,4
+24.0,Male,India,Postgraduate,Home,Facebook,Social connection,4.4,9.5,1.6,123,124,0.9,3.8,6.3,2.0,2.0,1.4,5.0,5.0,5,90.2,0,5
+17.0,Female,USA,High School,Home,YouTube,Social connection,5.6,10.6,1.5,146,112,0.8,3.3,5.7,3.0,2.0,1.2,2.0,6.0,6,71.2,2,7
+22.0,Female,India,Undergraduate,Hostel,YouTube,Entertainment,3.3,8.4,0.7,64,159,0.2,5.8,7.7,4.0,2.0,1.7,3.0,4.0,5,77.2,0,5
+28.0,Male,India,Undergraduate,Hostel,YouTube,News and information,5.9,8.9,0.8,127,159,1.7,3.7,7.2,5.0,1.0,0.7,3.0,9.0,7,73.1,0,7
+23.0,Female,Pakistan,Undergraduate,Home,Facebook,Entertainment,2.6,4.1,0.3,74,116,0.4,6.3,8.0,3.0,8.0,0.1,0.0,6.0,5,86.3,0,4
+19.0,Male,Pakistan,Undergraduate,Rented room,YouTube,Entertainment,6.0,10.9,1.0,160,222,1.5,2.5,4.8,,2.0,0.2,1.0,6.0,6,67.9,2,7
+24.0,Male,Indonesia,Postgraduate,Hostel,Instagram,Social connection,4.1,7.6,0.9,143,154,1.2,7.0,5.6,3.0,2.0,2.4,4.0,7.0,5,98.6,1,4
+22.0,Male,UK,Undergraduate,Hostel,TikTok,Social connection,3.3,8.2,1.3,71,170,0.6,4.5,6.8,3.0,2.0,,5.0,7.0,2,80.6,1,3
+19.0,Female,India,Undergraduate,Rented room,WhatsApp,Entertainment,3.9,8.0,0.8,105,89,0.3,2.8,7.7,3.0,3.0,1.5,4.0,5.0,6,76.3,3,4
+23.0,Male,UK,Undergraduate,Hostel,YouTube,Academic,3.5,6.5,0.5,111,58,0.9,4.6,6.1,4.0,0.0,0.3,1.0,7.0,6,68.8,1,3
+21.0,Female,Pakistan,Undergraduate,Home,X (Twitter),Social connection,5.0,8.0,0.5,152,207,1.8,3.1,5.5,2.0,1.0,1.5,3.0,7.0,3,60.2,1,6
+25.0,Female,Nigeria,Postgraduate,Hostel,Instagram,Entertainment,5.8,9.8,1.4,130,141,1.2,4.1,5.4,1.0,4.0,2.2,1.0,6.0,5,84.6,2,7
+21.0,Male,Bangladesh,Undergraduate,Hostel,Instagram,Social connection,1.7,4.8,0.4,67,95,0.8,4.8,6.5,1.0,2.0,1.4,2.0,5.0,5,64.9,1,4
+20.0,Female,USA,Undergraduate,Rented room,TikTok,Social connection,2.1,3.9,0.1,88,103,0.2,2.7,8.1,3.0,0.0,0.1,1.0,10.0,5,76.5,1,5
+20.0,Female,Bangladesh,Undergraduate,Home,Instagram,Entertainment,3.8,10.1,2.5,106,170,0.8,6.1,5.6,2.0,1.0,2.2,7.0,5.0,8,61.3,2,5
+25.0,Female,Philippines,Undergraduate,Home,YouTube,Social connection,2.5,3.0,0.2,44,98,0.0,4.9,6.9,3.0,5.0,0.5,4.0,7.0,4,59.3,1,4
+21.0,Female,Bangladesh,Undergraduate,Hostel,YouTube,Social connection,4.8,7.0,0.3,114,159,1.2,4.5,5.7,3.0,3.0,0.7,6.0,6.0,7,72.1,1,4
+20.0,Female,Brazil,Postgraduate,Home,Snapchat,Social connection,2.6,4.4,0.1,77,159,0.0,2.5,8.3,3.0,1.0,1.9,5.0,5.0,6,65.5,1,4
+23.0,Male,Indonesia,Undergraduate,Home,Instagram,Academic,0.5,1.0,0.0,57,110,0.0,3.0,8.7,4.0,0.0,1.4,5.0,6.0,5,93.5,1,1
+24.0,Female,India,Postgraduate,Home,Instagram,Social connection,2.0,5.4,0.1,100,215,0.5,5.0,6.8,5.0,2.0,0.8,2.0,10.0,6,71.1,0,5
+27.0,Female,Pakistan,Postgraduate,Rented room,TikTok,Social connection,5.3,8.7,1.5,128,150,1.2,1.9,6.4,4.0,1.0,,0.0,7.0,6,69.7,2,7
+19.0,Male,Pakistan,Postgraduate,Hostel,Facebook,Entertainment,4.1,8.9,0.7,115,54,0.8,2.9,8.6,5.0,1.0,1.2,5.0,6.0,6,69.1,3,6
+22.0,Male,USA,Undergraduate,Home,YouTube,Entertainment,0.6,2.3,0.1,83,50,0.0,3.5,7.8,4.0,1.0,1.8,4.0,6.0,6,75.8,0,3
+22.0,Female,USA,Undergraduate,Home,Facebook,Entertainment,2.7,7.8,1.6,74,110,0.9,3.9,7.6,3.0,,0.5,5.0,10.0,3,85.3,0,6
+19.0,Male,USA,Undergraduate,Home,Instagram,Mixed,2.9,7.2,0.4,51,210,0.2,7.5,7.6,4.0,2.0,1.2,2.0,10.0,7,69.8,1,6
+21.0,Female,Pakistan,Undergraduate,Home,Instagram,Social connection,3.8,7.0,0.5,112,180,1.0,8.5,7.4,3.0,3.0,0.6,4.0,7.0,5,72.5,2,5
+22.0,Female,Philippines,Undergraduate,Hostel,YouTube,Entertainment,4.7,8.9,0.9,130,126,1.0,2.3,6.2,4.0,1.0,,2.0,5.0,6,73.0,3,6
+18.0,Female,Philippines,High School,Home,YouTube,Academic,3.8,10.2,3.7,97,97,0.1,6.5,7.2,2.0,3.0,2.0,2.0,8.0,6,81.7,2,5
+18.0,Female,Philippines,Undergraduate,Home,YouTube,Social connection,3.5,9.1,1.5,86,89,1.2,3.1,6.9,3.0,2.0,1.7,4.0,6.0,5,72.5,3,6
+23.0,Male,USA,Undergraduate,Hostel,WhatsApp,Academic,1.4,4.2,1.1,60,100,0.6,7.6,6.2,2.0,2.0,0.3,3.0,6.0,7,87.3,2,3
+22.0,Female,Pakistan,Undergraduate,Hostel,YouTube,Social connection,4.6,8.7,2.3,126,131,1.1,2.5,6.2,2.0,0.0,1.0,3.0,5.0,6,93.2,0,4
+23.0,Female,Egypt,Undergraduate,Home,YouTube,Social connection,2.3,5.5,1.0,50,82,0.3,3.2,7.2,3.0,2.0,0.0,6.0,6.0,6,73.0,2,4
+22.0,Female,Egypt,Undergraduate,Home,TikTok,News and information,1.5,6.5,2.2,50,124,0.1,3.9,8.6,4.0,2.0,0.9,5.0,6.0,5,82.1,0,5
+20.0,Female,India,Undergraduate,Hostel,LinkedIn,News and information,2.6,4.1,0.0,85,79,0.0,2.5,6.5,2.0,1.0,0.5,2.0,4.0,4,71.0,1,3
+25.0,Male,Bangladesh,Postgraduate,Hostel,Facebook,Entertainment,3.9,6.2,0.5,109,140,1.2,2.7,6.8,2.0,3.0,0.9,5.0,8.0,4,57.7,1,6
+22.0,Female,USA,Undergraduate,Hostel,Instagram,News and information,5.6,9.2,0.4,150,108,0.5,2.9,6.4,3.0,2.0,1.4,3.0,7.0,6,86.2,2,5
+26.0,Female,Nigeria,Undergraduate,Hostel,WhatsApp,Entertainment,4.1,7.4,1.6,141,209,0.7,2.8,7.2,3.0,0.0,0.0,4.0,6.0,9,64.2,1,5
+21.0,Female,India,Undergraduate,Hostel,YouTube,Entertainment,2.0,8.1,2.8,71,58,0.4,2.6,7.0,2.0,3.0,0.5,1.0,4.0,4,71.8,0,5
+24.0,Female,USA,Postgraduate,Home,WhatsApp,Academic,2.8,4.6,0.9,65,127,0.7,5.7,5.8,2.0,1.0,0.2,2.0,9.0,4,89.8,1,4
+17.0,Female,Brazil,High School,Home,WhatsApp,Entertainment,5.0,10.7,0.7,142,114,1.8,1.6,5.8,4.0,0.0,2.1,1.0,3.0,3,75.2,2,6
+24.0,Male,Bangladesh,Postgraduate,Home,Instagram,Academic,3.7,7.9,1.3,94,120,0.8,4.0,8.6,4.0,1.0,1.0,3.0,6.0,4,65.5,3,5
+21.0,Female,Pakistan,Undergraduate,Home,WhatsApp,Mixed,2.1,3.0,0.0,63,132,0.3,3.0,7.5,3.0,0.0,1.4,,7.0,4,65.4,0,3
+20.0,Female,USA,Undergraduate,Home,YouTube,Social connection,2.0,5.7,0.1,62,31,0.2,5.3,7.3,5.0,0.0,1.5,3.0,6.0,6,76.5,0,4
+25.0,Male,USA,Undergraduate,Hostel,Instagram,Social connection,1.6,3.0,0.4,36,68,0.9,2.3,6.2,2.0,4.0,0.8,3.0,4.0,6,82.8,0,5
+24.0,Female,Egypt,Undergraduate,Home,WhatsApp,Social connection,4.1,5.9,0.3,65,90,0.6,5.9,7.8,4.0,1.0,0.5,,5.0,4,62.6,1,5
+23.0,Female,Indonesia,Postgraduate,Home,WhatsApp,Academic,5.1,10.3,2.6,105,159,1.3,4.7,6.9,3.0,0.0,0.8,5.0,9.0,7,90.9,2,6
+18.0,Male,Bangladesh,Undergraduate,Home,Reddit,Mixed,1.4,2.9,0.0,34,27,0.1,3.7,7.3,3.0,0.0,1.0,3.0,8.0,8,71.2,1,3
+24.0,Male,Bangladesh,Undergraduate,Hostel,Facebook,Entertainment,6.5,11.8,1.2,138,229,1.8,2.2,5.2,2.0,3.0,1.6,1.0,5.0,4,73.9,3,9
+23.0,Female,Indonesia,Undergraduate,Home,YouTube,Entertainment,4.6,9.4,1.2,117,106,1.3,0.3,7.9,2.0,1.0,1.6,3.0,6.0,3,81.5,1,5
+19.0,Other,Pakistan,Undergraduate,Home,YouTube,Entertainment,3.5,7.0,0.8,77,83,1.3,4.6,6.5,4.0,,0.8,1.0,7.0,3,75.1,2,6
+24.0,Female,UK,Undergraduate,Hostel,X (Twitter),Academic,4.7,9.9,0.4,110,197,1.4,5.8,7.4,3.0,1.0,1.1,4.0,7.0,6,78.8,1,6
+18.0,Female,Egypt,Undergraduate,Rented room,Snapchat,Mixed,4.4,8.7,1.2,120,118,1.0,1.8,6.6,3.0,1.0,0.8,4.0,6.0,6,71.5,2,6
+23.0,Female,Bangladesh,Undergraduate,Hostel,YouTube,Entertainment,7.2,10.2,0.5,150,212,1.9,5.1,4.8,1.0,0.0,0.6,3.0,2.0,6,69.1,2,5
+18.0,Male,Nigeria,Undergraduate,Hostel,YouTube,Academic,2.5,4.6,0.6,52,183,1.5,7.8,6.3,3.0,1.0,1.6,0.0,8.0,10,67.1,0,4
+20.0,Female,USA,Undergraduate,Hostel,X (Twitter),Entertainment,2.4,5.3,0.8,105,99,0.0,2.9,7.4,3.0,1.0,0.5,3.0,4.0,4,71.8,2,5
+24.0,Male,India,Postgraduate,Home,Instagram,Entertainment,6.5,11.6,1.9,133,160,1.0,4.8,5.8,2.0,3.0,0.1,3.0,4.0,4,64.0,2,7
+22.0,Male,Pakistan,Undergraduate,Hostel,YouTube,Entertainment,3.0,6.8,0.6,69,126,0.1,3.8,7.8,3.0,1.0,0.2,4.0,8.0,5,88.5,2,5
+23.0,Female,Brazil,Undergraduate,Home,Reddit,News and information,3.8,8.3,0.3,130,166,0.5,4.2,7.1,4.0,0.0,1.3,2.0,3.0,4,63.7,2,6
+23.0,Male,Pakistan,Undergraduate,Home,TikTok,Academic,1.9,2.7,1.0,53,123,0.2,2.7,8.1,5.0,3.0,1.5,6.0,5.0,4,81.4,1,4
+17.0,Male,Bangladesh,Undergraduate,Home,Instagram,Entertainment,5.8,9.1,0.4,127,85,1.8,4.3,4.5,3.0,0.0,0.9,1.0,5.0,5,67.5,2,6
+17.0,Female,UK,High School,Hostel,YouTube,Social connection,2.7,5.4,1.4,91,84,0.8,7.1,6.5,3.0,1.0,1.8,1.0,5.0,5,,2,6
+22.0,Female,Bangladesh,Postgraduate,Home,Facebook,Social connection,4.3,7.6,1.2,142,203,0.7,2.9,7.0,3.0,1.0,0.0,2.0,6.0,6,80.3,3,5
+21.0,Female,Indonesia,Undergraduate,Hostel,Instagram,Entertainment,6.3,11.1,0.5,157,221,2.0,1.6,8.0,3.0,0.0,0.9,1.0,4.0,5,59.3,4,8
+25.0,Female,Pakistan,Undergraduate,Home,Snapchat,Entertainment,0.9,8.0,2.7,11,95,0.1,3.9,8.0,4.0,3.0,1.3,4.0,10.0,4,66.7,0,3
+20.0,Female,India,Undergraduate,Hostel,WhatsApp,Entertainment,2.9,3.9,0.8,75,106,1.0,2.6,6.6,2.0,1.0,0.5,3.0,7.0,6,71.4,2,2
+21.0,Male,India,Undergraduate,Home,TikTok,Social connection,0.7,1.5,0.5,31,62,0.0,5.1,8.8,4.0,0.0,1.0,5.0,10.0,4,83.4,0,3
+21.0,Other,Pakistan,Undergraduate,Home,Instagram,Mixed,2.3,6.1,0.9,82,110,0.1,5.5,8.7,2.0,3.0,1.9,3.0,5.0,3,79.8,0,6
+21.0,Female,Bangladesh,Undergraduate,Hostel,TikTok,Social connection,2.2,4.3,0.0,58,167,0.4,6.6,7.3,3.0,1.0,1.0,0.0,10.0,4,78.6,1,5
+17.0,Male,India,High School,Home,Instagram,Social connection,5.1,9.2,2.2,85,117,1.0,4.2,6.0,1.0,3.0,0.3,1.0,3.0,4,76.8,2,5
+23.0,Male,India,Undergraduate,Rented room,LinkedIn,Mixed,5.7,8.9,0.9,123,134,2.3,5.5,6.6,3.0,3.0,0.2,3.0,7.0,7,92.7,3,9
+25.0,Female,UK,Undergraduate,Hostel,Instagram,Academic,4.8,10.3,0.9,111,202,1.0,5.9,7.1,3.0,1.0,0.7,1.0,7.0,4,65.1,2,6
+17.0,Female,Brazil,High School,Hostel,Instagram,Social connection,2.6,6.6,1.2,49,113,1.2,4.8,8.0,3.0,1.0,1.3,3.0,9.0,6,80.2,0,4
+22.0,Female,India,Undergraduate,Hostel,TikTok,News and information,1.2,4.4,0.1,72,81,0.0,5.7,6.9,3.0,3.0,2.9,3.0,8.0,4,61.5,1,3
+19.0,Female,Egypt,Undergraduate,Hostel,YouTube,Academic,3.5,5.9,0.7,121,94,0.9,4.1,6.7,3.0,4.0,1.3,1.0,9.0,5,78.1,1,3
+20.0,Male,Indonesia,Undergraduate,Rented room,Instagram,News and information,4.7,6.9,0.2,111,76,1.6,3.6,7.1,2.0,2.0,1.9,0.0,8.0,4,58.8,2,5
+20.0,Female,Nigeria,Undergraduate,Home,YouTube,Entertainment,2.0,4.5,1.7,25,65,0.1,4.9,6.7,4.0,3.0,2.6,5.0,7.0,5,89.7,1,3
+21.0,Male,India,Undergraduate,Home,TikTok,Entertainment,3.4,5.8,0.7,92,186,0.8,5.1,5.4,2.0,1.0,1.1,4.0,6.0,5,88.5,2,6
+25.0,Female,Pakistan,Postgraduate,Hostel,Snapchat,Entertainment,4.5,8.9,1.7,113,125,1.4,3.1,6.4,4.0,2.0,0.2,5.0,6.0,5,60.5,0,6
+27.0,Male,Indonesia,Undergraduate,Home,YouTube,Social connection,4.9,9.5,0.6,133,167,1.4,4.4,6.9,2.0,0.0,0.2,2.0,6.0,4,57.6,1,5
+20.0,Male,India,Undergraduate,Home,X (Twitter),Social connection,2.9,6.8,0.5,82,37,1.5,3.4,6.7,5.0,0.0,0.8,2.0,8.0,7,60.9,2,5
+17.0,Female,Pakistan,High School,Home,WhatsApp,Mixed,5.5,8.5,0.4,145,31,1.9,3.3,5.9,2.0,,1.7,7.0,9.0,5,56.8,2,7
+21.0,Male,Bangladesh,Undergraduate,Home,Instagram,Social connection,2.8,5.8,0.3,115,71,1.0,6.1,6.5,1.0,3.0,1.3,3.0,6.0,6,73.0,2,5
+20.0,Female,Philippines,Undergraduate,Rented room,Instagram,Mixed,2.2,5.2,1.0,95,82,0.7,4.3,7.8,3.0,4.0,1.8,2.0,9.0,6,63.1,0,7
+20.0,Male,Pakistan,Undergraduate,Hostel,Instagram,Entertainment,1.3,5.5,0.5,55,43,0.0,3.8,7.7,2.0,3.0,1.5,2.0,7.0,6,87.0,1,3
+21.0,Female,Brazil,Undergraduate,Home,Snapchat,Mixed,4.9,7.9,0.1,110,150,1.1,2.0,5.0,,1.0,0.2,5.0,6.0,6,82.3,3,6
+24.0,Male,India,Postgraduate,Hostel,LinkedIn,Entertainment,6.0,11.2,1.0,144,170,1.7,3.7,5.1,2.0,1.0,0.4,3.0,8.0,5,64.1,1,7
+24.0,Female,Brazil,Postgraduate,Home,YouTube,Entertainment,3.9,6.5,0.9,87,75,0.3,6.2,8.7,4.0,1.0,1.1,3.0,10.0,10,74.8,1,6
+23.0,Male,Pakistan,Postgraduate,Home,TikTok,Entertainment,5.7,9.3,0.8,182,168,1.0,4.1,6.7,4.0,0.0,1.9,1.0,5.0,7,78.1,2,9
+23.0,Male,Egypt,Undergraduate,Home,YouTube,News and information,4.2,7.2,0.6,95,104,1.2,5.3,4.6,1.0,4.0,1.0,1.0,7.0,5,82.8,1,7
+20.0,Female,Indonesia,Undergraduate,Hostel,WhatsApp,Mixed,2.2,5.0,0.1,65,47,0.6,2.4,7.7,4.0,2.0,1.9,3.0,7.0,6,77.2,1,4
+28.0,Female,India,Postgraduate,Home,WhatsApp,Entertainment,6.2,10.7,1.1,177,125,1.7,4.3,5.3,1.0,2.0,0.4,1.0,9.0,6,61.6,3,9
+20.0,Male,Pakistan,Undergraduate,Home,Instagram,Entertainment,4.0,7.1,0.4,136,142,0.3,4.4,8.0,3.0,2.0,1.6,2.0,4.0,7,75.8,1,5
+25.0,Male,India,Postgraduate,Rented room,TikTok,Entertainment,2.7,6.7,0.7,71,237,1.5,5.9,6.0,2.0,0.0,1.4,3.0,7.0,4,75.2,0,5
+23.0,Male,Brazil,Undergraduate,Rented room,YouTube,Social connection,7.4,11.6,1.1,151,213,1.7,2.9,5.3,3.0,2.0,0.1,2.0,4.0,3,70.8,2,6
+19.0,Male,Egypt,Undergraduate,Rented room,WhatsApp,Entertainment,5.0,9.8,0.7,109,86,1.3,3.9,8.1,3.0,1.0,2.3,5.0,6.0,5,67.8,2,8
+26.0,Female,India,Postgraduate,Hostel,Instagram,Social connection,4.5,8.0,0.3,96,137,0.8,7.2,7.2,3.0,4.0,1.6,3.0,7.0,9,61.5,2,6
+17.0,Female,India,High School,Home,WhatsApp,Mixed,3.3,5.3,0.3,116,44,0.5,3.5,6.6,3.0,3.0,1.5,5.0,5.0,7,73.9,0,4
+25.0,Male,Indonesia,Undergraduate,Rented room,Instagram,Academic,3.5,6.6,0.3,103,164,0.9,5.6,7.8,2.0,0.0,0.9,2.0,7.0,6,68.3,2,6
+17.0,Female,Pakistan,Undergraduate,Hostel,Instagram,News and information,4.5,8.9,1.7,110,190,1.5,6.1,6.1,1.0,1.0,1.7,3.0,5.0,7,63.8,1,6
+23.0,Female,India,Undergraduate,Home,YouTube,Social connection,6.8,13.3,1.2,131,177,1.8,3.2,5.4,2.0,2.0,1.2,2.0,6.0,6,43.1,3,9
+23.0,Female,Nigeria,Undergraduate,Home,WhatsApp,News and information,0.7,1.2,0.3,69,54,0.0,5.8,7.8,4.0,2.0,0.0,1.0,7.0,6,84.2,2,3
+24.0,Female,Philippines,Undergraduate,Hostel,Instagram,Academic,7.6,12.5,1.6,178,164,2.4,3.7,5.9,1.0,1.0,1.3,0.0,6.0,8,66.2,5,9
+21.0,Male,Philippines,Undergraduate,Hostel,YouTube,Social connection,2.3,6.5,1.4,70,57,0.0,5.6,8.3,2.0,1.0,1.9,3.0,,5,83.5,0,5
+23.0,Female,Brazil,Undergraduate,Rented room,TikTok,Entertainment,5.0,9.8,0.9,146,179,1.0,4.9,6.1,3.0,2.0,2.6,4.0,4.0,5,71.8,2,8
+19.0,Female,Bangladesh,Undergraduate,Home,LinkedIn,Mixed,2.9,7.2,0.7,76,108,0.8,1.1,6.7,3.0,0.0,0.9,3.0,5.0,8,64.5,1,5
+20.0,Male,India,Undergraduate,Rented room,Facebook,Social connection,3.1,7.3,1.0,95,133,1.1,2.8,6.3,2.0,3.0,1.2,3.0,6.0,3,75.3,1,5
+24.0,Male,India,Postgraduate,Home,Instagram,Entertainment,3.6,5.3,0.6,86,114,1.1,6.3,7.2,3.0,2.0,0.9,1.0,3.0,8,69.8,1,5
+19.0,Male,USA,Undergraduate,Rented room,X (Twitter),Social connection,3.2,6.7,1.3,102,137,0.6,5.4,6.9,4.0,0.0,1.1,2.0,,6,46.0,1,5
+23.0,Other,India,Undergraduate,Rented room,WhatsApp,Mixed,3.9,8.3,0.7,115,114,0.5,2.8,6.7,4.0,2.0,1.8,3.0,8.0,7,58.9,1,6
+20.0,Female,Pakistan,Postgraduate,Hostel,Reddit,Mixed,3.1,7.1,0.6,117,133,1.3,3.8,7.4,2.0,1.0,2.2,2.0,9.0,4,49.6,2,4
+19.0,Other,Indonesia,Undergraduate,Home,Instagram,Social connection,5.2,9.2,1.4,141,148,2.0,4.4,6.6,1.0,0.0,1.5,6.0,6.0,7,69.7,2,6
+22.0,Male,Bangladesh,Undergraduate,Home,Instagram,Academic,2.7,5.1,1.0,78,162,0.3,2.3,6.4,3.0,3.0,0.8,3.0,10.0,5,52.9,1,4
+17.0,Female,India,Undergraduate,Home,TikTok,News and information,4.4,7.7,1.9,117,178,1.0,6.3,6.9,3.0,3.0,0.2,8.0,4.0,5,59.4,1,7
+21.0,Male,Brazil,Undergraduate,Rented room,YouTube,Social connection,2.9,4.8,0.4,70,87,0.0,5.7,7.6,3.0,5.0,2.1,2.0,4.0,6,83.9,0,3
+27.0,Male,Bangladesh,Postgraduate,Rented room,Facebook,Mixed,1.9,4.5,0.4,77,70,0.6,5.1,7.0,2.0,2.0,0.3,2.0,5.0,8,71.9,0,4
+20.0,Male,Egypt,Undergraduate,Hostel,YouTube,Mixed,2.7,5.7,1.1,56,154,1.3,2.7,7.3,3.0,1.0,1.7,4.0,7.0,3,72.7,1,4
+20.0,Male,USA,Postgraduate,Hostel,TikTok,Entertainment,5.7,12.5,1.3,172,162,1.8,6.2,5.0,1.0,3.0,0.7,2.0,6.0,5,73.9,1,8
+22.0,Male,India,Undergraduate,Hostel,Instagram,Social connection,2.2,4.7,0.4,58,29,0.9,4.9,7.5,2.0,3.0,0.1,4.0,6.0,4,87.8,2,3
+22.0,Male,Nigeria,Undergraduate,Home,WhatsApp,Social connection,3.4,9.8,1.9,70,84,0.4,5.2,6.7,4.0,3.0,0.0,4.0,4.0,5,62.9,2,5
+24.0,Female,India,Postgraduate,Rented room,Snapchat,Entertainment,5.4,9.5,0.9,117,196,1.3,6.1,5.6,2.0,2.0,1.0,3.0,6.0,7,82.2,4,7
+23.0,Male,USA,Undergraduate,Home,Instagram,News and information,3.1,11.0,3.8,51,57,0.6,3.8,7.2,3.0,3.0,1.0,3.0,8.0,6,73.4,1,5
+22.0,Female,Indonesia,Postgraduate,Home,WhatsApp,News and information,1.4,4.6,0.4,57,10,0.4,4.4,8.2,3.0,0.0,2.4,,4.0,5,91.4,0,6
+22.0,Female,India,Undergraduate,Hostel,Snapchat,Entertainment,3.9,7.3,2.2,114,163,0.9,5.3,7.0,3.0,2.0,2.1,3.0,10.0,7,65.5,2,6
+23.0,Male,India,Undergraduate,Home,YouTube,Social connection,6.0,8.5,1.0,156,118,0.9,3.8,6.5,3.0,0.0,0.7,4.0,9.0,7,78.4,1,5
+21.0,Male,India,Postgraduate,Hostel,WhatsApp,Mixed,0.8,2.5,0.1,65,45,0.4,5.2,7.5,3.0,3.0,1.0,4.0,9.0,4,69.2,1,4
+26.0,Male,USA,Postgraduate,Hostel,Facebook,Entertainment,1.8,3.3,0.5,60,84,0.5,3.8,8.4,2.0,0.0,0.7,0.0,6.0,6,66.1,1,4
+26.0,Male,India,Undergraduate,Home,Reddit,Entertainment,3.9,7.2,0.4,102,176,1.1,2.3,5.7,2.0,4.0,0.6,6.0,5.0,2,73.1,0,6
+17.0,Male,Bangladesh,Undergraduate,Home,Instagram,Mixed,2.4,5.5,0.3,97,164,0.3,5.9,7.8,2.0,1.0,0.3,5.0,9.0,8,55.4,0,4
+21.0,Male,USA,Undergraduate,Home,Instagram,Social connection,5.4,10.2,0.8,122,128,1.6,1.5,6.0,3.0,1.0,1.0,3.0,6.0,3,58.2,1,5
+19.0,Male,USA,Undergraduate,Hostel,Snapchat,Social connection,3.9,7.6,1.1,105,88,0.2,1.1,6.5,3.0,2.0,0.3,2.0,9.0,7,82.0,1,5
+20.0,Female,India,Undergraduate,Home,TikTok,Mixed,1.0,1.5,0.0,10,99,0.2,7.9,7.2,1.0,2.0,1.4,0.0,5.0,6,71.1,1,3
+21.0,Female,Indonesia,Undergraduate,Hostel,TikTok,Entertainment,1.3,3.0,0.6,67,127,0.1,5.4,6.9,3.0,0.0,1.3,3.0,8.0,7,70.5,0,3
+25.0,Female,Pakistan,Undergraduate,Home,YouTube,Social connection,3.2,5.7,1.1,81,62,0.1,2.1,7.8,3.0,1.0,0.3,1.0,7.0,6,72.5,1,5
+24.0,Female,Pakistan,Undergraduate,Hostel,WhatsApp,Academic,3.2,3.9,0.4,72,170,0.8,6.1,8.1,2.0,6.0,0.4,1.0,5.0,5,74.8,2,5
+24.0,Female,USA,Postgraduate,Home,Instagram,Mixed,3.4,6.3,1.9,69,205,0.5,4.4,6.6,3.0,3.0,1.9,2.0,7.0,8,56.5,2,4
+21.0,Female,UK,Undergraduate,Home,TikTok,News and information,4.4,7.5,0.8,128,243,0.5,3.6,7.4,3.0,2.0,0.2,1.0,8.0,7,67.0,3,6
+21.0,Female,Nigeria,Undergraduate,Hostel,WhatsApp,Mixed,4.0,5.3,0.4,100,118,0.7,5.1,6.5,3.0,2.0,1.7,0.0,8.0,1,49.1,2,5
+22.0,Female,Egypt,Undergraduate,Hostel,WhatsApp,Mixed,2.2,3.8,0.0,51,68,0.5,3.6,7.3,3.0,4.0,1.1,4.0,7.0,9,55.3,2,3
+19.0,Male,Bangladesh,Postgraduate,Home,WhatsApp,Mixed,3.5,9.3,1.0,92,125,1.2,5.8,7.0,3.0,1.0,0.8,3.0,5.0,5,67.1,1,5
+24.0,Female,Egypt,Postgraduate,Home,WhatsApp,Entertainment,1.3,3.0,0.0,102,35,0.2,3.2,7.8,5.0,1.0,0.3,4.0,7.0,9,80.2,1,4
+18.0,Male,Egypt,High School,Rented room,TikTok,News and information,3.5,5.3,0.4,73,126,1.0,3.3,6.7,3.0,2.0,0.9,4.0,7.0,4,,1,6
+21.0,Male,India,Undergraduate,Home,YouTube,Entertainment,0.6,2.0,0.8,17,75,0.6,5.1,6.3,2.0,2.0,1.0,7.0,7.0,4,69.9,0,3
+21.0,Male,USA,Undergraduate,Home,X (Twitter),Academic,6.4,10.3,0.6,146,123,1.9,2.3,5.9,2.0,0.0,0.0,2.0,6.0,4,75.4,3,8
+19.0,Male,India,Undergraduate,Hostel,Instagram,Entertainment,3.8,5.8,0.8,133,108,0.3,4.4,7.8,4.0,1.0,0.9,5.0,7.0,5,,1,5
+21.0,Female,Nigeria,Undergraduate,Home,Reddit,News and information,5.2,7.6,0.7,130,72,1.1,0.5,5.7,2.0,5.0,1.1,1.0,5.0,7,73.1,1,8
+24.0,Female,India,Undergraduate,Hostel,YouTube,News and information,5.4,8.3,0.6,154,200,1.3,3.1,6.7,,2.0,1.6,7.0,7.0,8,58.9,3,7
+19.0,Male,Bangladesh,Undergraduate,Rented room,Snapchat,Social connection,0.5,3.6,1.5,65,53,0.0,5.1,6.9,2.0,5.0,1.1,1.0,6.0,6,69.9,1,2
+21.0,Male,Egypt,Undergraduate,Hostel,Instagram,Mixed,4.4,8.7,1.6,114,95,0.6,4.2,6.5,2.0,3.0,1.5,2.0,9.0,4,73.1,1,7
+22.0,Female,India,Undergraduate,Rented room,Snapchat,Social connection,3.3,8.3,0.6,101,95,1.0,3.1,7.1,3.0,1.0,1.1,3.0,5.0,3,84.6,1,5
+20.0,Female,Bangladesh,Postgraduate,Home,Instagram,Entertainment,3.6,6.2,0.5,92,183,1.2,4.2,6.6,2.0,2.0,1.9,1.0,7.0,4,78.5,0,6
+24.0,Male,India,Postgraduate,Home,Snapchat,Entertainment,3.4,7.3,1.4,89,157,0.6,3.0,6.7,3.0,3.0,0.5,0.0,8.0,9,75.5,1,5
+23.0,Female,USA,Undergraduate,Hostel,Facebook,Entertainment,2.7,7.8,2.4,97,149,0.3,2.7,8.2,5.0,0.0,0.7,2.0,5.0,7,77.9,2,4
+21.0,Female,Pakistan,Undergraduate,Home,Instagram,Social connection,2.5,5.1,1.1,65,88,0.8,5.9,7.6,3.0,0.0,0.9,3.0,5.0,8,92.1,1,5
+23.0,Female,India,Undergraduate,Hostel,Snapchat,Social connection,1.8,5.6,0.6,90,87,0.0,4.5,9.2,3.0,1.0,0.4,5.0,6.0,7,69.8,1,3
+25.0,Male,Indonesia,Undergraduate,Home,YouTube,Mixed,4.6,6.6,0.4,120,113,1.7,3.9,6.0,3.0,2.0,1.3,3.0,9.0,7,85.3,1,6
+25.0,Male,Egypt,Postgraduate,Home,X (Twitter),Social connection,1.5,2.0,0.0,63,181,0.1,5.7,7.5,5.0,3.0,0.3,2.0,9.0,4,86.0,1,4
+23.0,Female,USA,Undergraduate,Hostel,WhatsApp,Entertainment,4.6,7.9,1.4,80,151,0.8,7.3,6.1,2.0,,1.6,4.0,9.0,6,82.5,2,5
+19.0,Male,India,Undergraduate,Rented room,TikTok,Entertainment,1.8,5.8,2.7,50,26,0.0,4.8,8.9,4.0,2.0,1.2,1.0,10.0,6,84.4,0,3
+20.0,Female,Bangladesh,Undergraduate,Hostel,YouTube,Social connection,1.2,1.7,0.0,60,106,0.0,5.2,7.8,4.0,3.0,,3.0,9.0,7,76.0,0,2
+23.0,Other,Pakistan,Postgraduate,Rented room,YouTube,News and information,2.5,5.8,0.4,67,105,0.0,4.1,7.9,2.0,2.0,1.3,4.0,5.0,2,67.1,0,5
+17.0,Female,India,High School,Home,Instagram,Entertainment,6.1,10.7,0.7,146,147,1.2,3.5,7.9,5.0,0.0,0.1,2.0,5.0,4,67.5,2,7
+22.0,Female,USA,Undergraduate,Home,Facebook,Entertainment,1.4,3.2,0.0,38,127,0.7,3.3,7.9,1.0,2.0,1.0,2.0,6.0,6,77.2,1,4
+22.0,Male,India,Postgraduate,Home,Instagram,Entertainment,2.2,4.7,0.5,63,127,1.1,1.6,8.4,4.0,0.0,0.0,6.0,4.0,3,79.8,1,5
+27.0,Female,India,Undergraduate,Rented room,Instagram,Social connection,1.3,4.7,1.0,57,134,0.0,1.8,7.2,3.0,0.0,1.4,4.0,5.0,7,80.5,0,4
+21.0,Male,Egypt,Postgraduate,Home,Instagram,Social connection,6.8,11.1,0.8,155,183,1.6,4.2,7.1,3.0,2.0,1.1,4.0,7.0,5,77.4,2,8
+21.0,Female,USA,Undergraduate,Hostel,TikTok,Social connection,5.6,10.0,1.9,119,158,0.7,3.7,5.3,2.0,3.0,1.1,4.0,7.0,6,68.4,3,8
+21.0,Female,Indonesia,Undergraduate,Hostel,Instagram,Mixed,4.9,8.1,1.3,128,141,0.8,4.5,6.2,2.0,0.0,0.4,5.0,1.0,5,72.6,4,7
+21.0,Female,USA,Undergraduate,Hostel,YouTube,Mixed,1.8,5.4,1.8,77,103,0.2,3.9,6.4,3.0,1.0,0.7,2.0,9.0,5,67.3,0,3
+19.0,Male,Pakistan,Undergraduate,Hostel,Facebook,Academic,5.2,9.1,0.7,101,107,1.5,4.7,6.2,1.0,2.0,1.5,5.0,6.0,6,68.1,3,7
+22.0,Male,UK,Undergraduate,Home,Instagram,Academic,0.5,4.6,1.2,10,69,0.0,4.6,8.2,3.0,1.0,1.2,3.0,2.0,3,83.5,1,2
+21.0,Male,India,Undergraduate,Home,WhatsApp,Social connection,4.5,9.1,1.0,96,140,0.4,2.5,6.6,3.0,2.0,1.6,2.0,6.0,4,82.6,2,7
+21.0,Male,Egypt,Undergraduate,Rented room,TikTok,Entertainment,4.0,7.5,0.8,92,91,0.6,6.2,6.6,3.0,2.0,1.9,3.0,5.0,4,76.4,2,7
+18.0,Male,Egypt,Undergraduate,Home,WhatsApp,Entertainment,2.0,5.2,1.0,83,160,0.4,5.6,7.3,2.0,2.0,1.8,1.0,6.0,6,86.1,1,5
+20.0,Female,Egypt,Undergraduate,Home,Facebook,Mixed,2.0,4.6,0.2,50,76,0.1,3.8,8.9,2.0,0.0,0.3,2.0,10.0,6,75.2,1,5
+20.0,Male,USA,Undergraduate,Home,YouTube,Social connection,4.3,6.5,0.2,115,135,1.1,2.5,8.4,2.0,1.0,1.7,3.0,6.0,4,76.7,1,5
+18.0,Male,Pakistan,High School,Hostel,Instagram,News and information,2.3,6.1,1.8,86,114,0.5,4.1,7.8,3.0,1.0,1.2,1.0,5.0,4,72.9,1,3
+21.0,Female,Nigeria,Postgraduate,Home,TikTok,Academic,3.0,4.2,0.4,85,21,0.6,5.5,6.7,2.0,,1.1,3.0,4.0,4,85.1,1,4
+22.0,Male,Philippines,Postgraduate,Hostel,TikTok,Mixed,0.5,3.0,0.8,38,38,0.4,4.3,7.4,2.0,2.0,1.1,1.0,7.0,5,76.9,0,1
+26.0,Female,Philippines,Postgraduate,Home,Instagram,Academic,1.8,3.3,0.4,43,73,0.0,3.3,8.3,3.0,1.0,0.7,1.0,6.0,7,,1,4
+22.0,Female,India,Undergraduate,Home,Reddit,Mixed,0.5,2.4,1.0,38,100,0.1,2.7,8.9,5.0,3.0,1.9,3.0,5.0,5,80.2,1,1
+22.0,Female,Indonesia,Undergraduate,Hostel,YouTube,Entertainment,3.1,6.0,0.6,116,156,0.6,3.3,6.4,3.0,0.0,1.6,3.0,7.0,6,82.3,2,5
+25.0,Female,India,Undergraduate,Hostel,WhatsApp,Entertainment,2.4,3.9,0.6,67,121,0.5,4.1,8.3,,1.0,0.6,3.0,6.0,5,94.8,0,4
+24.0,Female,Indonesia,Postgraduate,Hostel,Instagram,Entertainment,3.5,5.6,0.8,96,106,0.3,2.0,5.6,1.0,1.0,1.7,2.0,6.0,3,95.5,2,5
+24.0,Male,India,Undergraduate,Rented room,TikTok,Mixed,4.9,6.9,0.4,117,77,1.5,3.7,6.9,3.0,1.0,0.9,4.0,7.0,5,70.7,2,6
+21.0,Female,Indonesia,Undergraduate,Home,TikTok,Entertainment,2.2,2.9,0.1,48,117,0.5,5.9,7.5,5.0,3.0,1.4,,5.0,7,70.2,0,4
+27.0,Male,Bangladesh,Postgraduate,Home,Instagram,Social connection,3.8,7.2,0.5,99,104,1.3,4.2,6.1,3.0,2.0,1.1,2.0,7.0,7,60.2,1,5
+18.0,Male,India,Undergraduate,Rented room,Facebook,Social connection,4.0,10.3,3.7,103,95,0.4,5.0,6.5,3.0,0.0,1.3,2.0,7.0,9,73.4,2,6
+21.0,Male,Nigeria,Undergraduate,Hostel,WhatsApp,Mixed,2.3,7.2,0.8,81,101,0.0,3.4,7.6,4.0,1.0,0.7,1.0,,5,80.8,2,4
+22.0,Female,Indonesia,Postgraduate,Rented room,WhatsApp,Social connection,5.5,8.2,0.8,146,209,1.1,5.7,5.2,2.0,1.0,,4.0,4.0,5,74.7,0,7
+20.0,Female,Bangladesh,Undergraduate,Rented room,Instagram,Mixed,1.0,4.0,0.9,48,61,0.6,2.3,8.2,4.0,2.0,1.7,5.0,7.0,5,55.5,1,4
+19.0,Female,Pakistan,Undergraduate,Rented room,Facebook,News and information,2.8,6.5,0.9,71,122,0.4,0.4,7.6,4.0,2.0,0.3,3.0,5.0,7,74.8,0,4
+18.0,Female,Nigeria,Undergraduate,Hostel,YouTube,Entertainment,2.1,3.7,0.0,67,73,1.0,4.1,7.4,2.0,1.0,1.2,1.0,4.0,3,73.3,1,3
+17.0,Female,UK,Undergraduate,Hostel,Instagram,News and information,3.2,6.9,0.6,116,147,0.4,5.7,7.4,3.0,,1.0,1.0,4.0,5,65.5,2,5
+18.0,Male,UK,Undergraduate,Home,YouTube,Mixed,3.4,8.0,0.8,82,74,0.7,3.5,6.9,3.0,1.0,1.8,4.0,,3,93.9,0,6
+22.0,Female,UK,Undergraduate,Home,YouTube,Mixed,4.7,8.8,0.3,130,154,1.0,5.5,6.0,2.0,4.0,1.5,1.0,7.0,6,52.4,0,7
+20.0,Male,Philippines,Undergraduate,Home,Facebook,Mixed,2.6,8.9,3.8,75,130,1.0,5.7,8.3,3.0,1.0,,5.0,,5,85.9,0,4
+24.0,Other,India,Postgraduate,Home,YouTube,Mixed,4.3,5.0,0.5,118,58,1.4,4.1,7.2,4.0,1.0,1.4,3.0,1.0,4,64.1,2,6
+23.0,Female,India,Undergraduate,Home,YouTube,Entertainment,3.7,6.5,0.0,76,77,1.2,3.9,6.0,3.0,3.0,1.2,4.0,4.0,5,73.6,0,6
+22.0,Male,Pakistan,Undergraduate,Rented room,YouTube,Entertainment,4.3,7.6,0.8,76,76,0.4,4.1,6.2,3.0,2.0,0.7,2.0,4.0,4,68.9,2,6
+20.0,Female,UK,Undergraduate,Home,Instagram,Entertainment,3.1,5.2,0.2,83,150,0.9,6.2,6.8,2.0,3.0,1.2,4.0,4.0,7,75.6,1,2
+24.0,Female,USA,Postgraduate,Rented room,Instagram,Entertainment,3.0,6.3,1.7,74,97,1.0,4.3,6.9,4.0,1.0,1.6,1.0,7.0,7,,1,5
+21.0,Male,Brazil,Undergraduate,Rented room,YouTube,News and information,7.0,10.8,1.6,190,183,2.1,4.7,5.2,2.0,1.0,2.1,2.0,5.0,5,61.3,3,8
+18.0,Female,Egypt,Undergraduate,Home,Instagram,Social connection,3.2,7.7,2.1,85,128,0.5,3.7,8.0,3.0,1.0,1.3,6.0,9.0,6,93.4,2,6
+23.0,Male,UK,Undergraduate,Rented room,YouTube,News and information,4.2,9.2,0.5,96,148,1.6,3.0,6.4,1.0,3.0,0.7,3.0,4.0,5,70.0,4,5
+24.0,Female,Egypt,Postgraduate,Home,Instagram,Social connection,1.3,4.3,0.0,66,82,0.0,6.9,6.7,2.0,2.0,1.2,1.0,7.0,3,,0,3
+22.0,Female,USA,Undergraduate,Rented room,TikTok,Academic,2.5,4.3,0.1,84,163,0.4,3.3,,4.0,0.0,0.6,2.0,8.0,6,77.5,2,4
+25.0,Male,Bangladesh,Postgraduate,Home,Instagram,Entertainment,4.0,6.0,1.0,114,202,1.3,7.2,5.5,3.0,2.0,0.4,2.0,6.0,4,86.6,2,5
+21.0,Female,Philippines,Undergraduate,Home,Instagram,Entertainment,0.8,2.4,0.0,44,41,0.0,0.0,6.9,4.0,1.0,3.4,6.0,8.0,5,78.7,0,5
+24.0,Female,India,Undergraduate,Hostel,WhatsApp,News and information,5.0,9.8,1.2,126,117,1.8,2.5,,2.0,4.0,1.6,5.0,4.0,4,67.3,2,5
+19.0,Female,USA,Undergraduate,Hostel,Instagram,News and information,4.0,7.1,0.3,102,204,1.3,0.7,7.3,4.0,,2.1,1.0,6.0,5,55.1,2,5
+21.0,Male,USA,Undergraduate,Rented room,LinkedIn,Entertainment,2.2,8.2,3.4,59,167,1.0,6.9,7.7,3.0,2.0,0.6,1.0,8.0,5,80.6,0,5
+18.0,Female,Bangladesh,High School,Home,Instagram,Social connection,1.9,5.2,0.2,76,102,0.6,4.0,7.2,3.0,2.0,1.5,2.0,7.0,6,82.5,0,5
+20.0,Female,Egypt,Undergraduate,Hostel,Instagram,Academic,2.2,4.0,0.7,69,85,0.5,2.0,7.4,3.0,2.0,2.4,3.0,10.0,7,78.1,1,5
+22.0,Female,Indonesia,Undergraduate,Hostel,WhatsApp,Entertainment,2.0,2.9,0.2,76,5,0.6,5.1,6.6,1.0,1.0,0.3,4.0,4.0,1,72.2,0,5
+20.0,Other,Nigeria,Undergraduate,Rented room,Snapchat,News and information,1.2,2.7,0.0,13,205,0.6,6.4,8.0,3.0,3.0,0.0,8.0,7.0,6,78.8,1,3
+20.0,Male,UK,Postgraduate,Rented room,WhatsApp,Mixed,2.2,3.1,0.3,83,75,0.0,3.0,7.4,2.0,4.0,1.6,2.0,4.0,4,75.3,1,4
+20.0,Other,Pakistan,Undergraduate,Hostel,TikTok,Entertainment,5.5,9.8,1.1,133,196,1.9,3.2,6.3,1.0,2.0,0.6,4.0,4.0,3,86.4,1,6
+22.0,Female,USA,Undergraduate,Rented room,WhatsApp,Academic,6.4,10.2,0.4,113,156,1.6,5.0,6.0,1.0,2.0,1.0,4.0,8.0,6,77.5,2,8
+24.0,Male,Egypt,Postgraduate,Home,WhatsApp,Academic,4.1,7.9,0.7,119,71,1.5,4.7,6.3,2.0,3.0,2.2,7.0,8.0,5,94.9,2,6
+22.0,Female,India,Undergraduate,Home,Facebook,Entertainment,4.4,9.3,1.3,127,180,1.0,2.1,7.4,4.0,0.0,2.8,1.0,,7,65.4,2,7
+19.0,Female,Pakistan,Postgraduate,Home,TikTok,Entertainment,2.2,4.8,1.1,64,105,0.5,3.4,6.9,2.0,1.0,1.3,1.0,10.0,4,74.3,1,6
+22.0,Male,Egypt,Undergraduate,Rented room,LinkedIn,Social connection,0.7,4.2,0.4,77,89,0.0,4.8,6.8,,1.0,0.6,0.0,10.0,8,79.2,0,2
+20.0,Female,UK,Postgraduate,Rented room,YouTube,Social connection,6.0,8.8,0.7,150,182,1.1,2.8,7.2,3.0,0.0,0.7,2.0,7.0,5,64.7,3,7
+24.0,Female,India,Postgraduate,Hostel,Instagram,News and information,3.8,7.8,0.2,101,156,0.5,8.3,6.3,2.0,3.0,0.2,2.0,,7,78.9,0,4
+18.0,Female,Nigeria,Undergraduate,Hostel,LinkedIn,Mixed,3.7,6.9,1.5,88,153,0.9,3.4,7.9,2.0,0.0,0.9,2.0,9.0,4,73.6,2,5
+26.0,Male,India,Postgraduate,Home,WhatsApp,Social connection,4.5,7.0,0.5,103,135,1.5,6.1,6.3,3.0,4.0,1.0,5.0,4.0,7,61.5,2,7
+24.0,Female,India,Postgraduate,Rented room,LinkedIn,Mixed,3.2,5.4,0.0,92,134,1.6,5.3,8.3,2.0,1.0,1.2,5.0,8.0,9,91.4,0,5
+20.0,Male,Nigeria,Undergraduate,Home,TikTok,Social connection,1.8,2.8,0.5,54,45,0.5,4.6,7.9,2.0,1.0,1.4,4.0,7.0,6,84.5,0,4
+26.0,Male,Pakistan,Postgraduate,Home,YouTube,Entertainment,3.4,6.5,0.7,116,120,0.9,3.9,7.0,2.0,2.0,0.6,3.0,5.0,6,42.9,1,6
+27.0,Male,Pakistan,Undergraduate,Home,Instagram,Entertainment,3.6,6.7,0.6,89,53,1.3,3.1,7.4,2.0,0.0,1.2,4.0,8.0,5,64.4,0,5
+20.0,Male,India,Undergraduate,Home,TikTok,Social connection,4.0,6.2,0.6,110,120,1.1,3.9,6.4,2.0,3.0,0.0,4.0,4.0,6,,1,6
+21.0,Female,Brazil,Undergraduate,Rented room,TikTok,Social connection,3.4,6.2,0.6,69,207,0.8,4.6,7.5,3.0,1.0,1.7,3.0,4.0,4,59.2,0,3
+20.0,Female,Indonesia,Undergraduate,Home,Facebook,Social connection,4.4,8.1,0.5,79,126,0.6,2.5,6.7,3.0,1.0,1.5,4.0,6.0,7,67.4,2,6
+21.0,Male,Egypt,Undergraduate,Rented room,Snapchat,Entertainment,2.9,5.7,1.0,105,150,0.3,2.9,7.8,3.0,1.0,0.2,8.0,7.0,4,71.7,2,4
+22.0,Female,Pakistan,Undergraduate,Hostel,Facebook,Academic,4.2,6.6,0.4,86,171,1.5,2.5,6.4,3.0,1.0,0.8,3.0,6.0,5,62.9,2,6
+27.0,Male,Bangladesh,Postgraduate,Home,X (Twitter),Mixed,3.6,6.3,0.3,55,132,0.5,3.3,6.3,3.0,0.0,1.5,4.0,8.0,5,89.9,1,6
+25.0,Female,Nigeria,Postgraduate,Hostel,WhatsApp,Social connection,3.1,3.7,0.0,83,145,0.6,3.9,6.6,3.0,4.0,0.2,5.0,4.0,7,72.8,0,4
+20.0,Female,Philippines,Undergraduate,Hostel,TikTok,Social connection,3.0,6.6,0.2,64,94,1.0,4.2,7.9,3.0,2.0,1.8,4.0,9.0,4,67.6,2,7
+21.0,Female,Egypt,Postgraduate,Hostel,YouTube,Entertainment,5.2,10.2,1.6,94,154,1.4,3.5,5.9,2.0,2.0,0.0,1.0,4.0,6,48.8,2,6
+19.0,Female,Nigeria,Undergraduate,Rented room,X (Twitter),Entertainment,3.8,7.8,0.4,100,156,1.2,6.3,5.8,1.0,4.0,0.7,5.0,9.0,5,77.3,2,6
+23.0,Male,Brazil,Undergraduate,Rented room,YouTube,Social connection,4.4,7.0,0.7,118,111,0.9,4.0,7.1,4.0,0.0,0.0,4.0,3.0,5,67.4,2,6
+22.0,Female,Philippines,Undergraduate,Home,YouTube,Social connection,4.3,6.7,0.3,127,140,1.2,5.1,6.3,1.0,2.0,0.4,3.0,7.0,8,84.2,2,5
+17.0,Male,Pakistan,High School,Home,X (Twitter),Entertainment,0.5,2.9,0.9,30,80,0.0,4.7,8.2,3.0,1.0,1.6,0.0,4.0,6,82.6,1,3
+24.0,Female,Indonesia,Postgraduate,Rented room,YouTube,Social connection,0.9,3.4,0.8,11,18,0.0,6.1,7.9,3.0,2.0,2.0,4.0,6.0,5,76.6,1,4
+23.0,Male,Bangladesh,Undergraduate,Hostel,WhatsApp,Entertainment,5.9,10.4,2.6,130,172,1.3,2.0,6.2,3.0,1.0,1.7,1.0,8.0,5,64.9,3,6
+27.0,Male,Indonesia,Undergraduate,Hostel,YouTube,Mixed,1.2,2.3,0.5,52,112,0.0,5.3,8.3,4.0,1.0,1.7,2.0,4.0,6,,2,2
+22.0,Female,Brazil,Undergraduate,Rented room,YouTube,Social connection,5.3,7.4,1.0,116,107,0.8,4.3,8.0,3.0,2.0,1.3,5.0,5.0,5,71.4,0,5
+22.0,Male,Nigeria,Undergraduate,Home,Instagram,Entertainment,3.7,8.3,0.7,95,63,0.1,5.0,7.7,3.0,0.0,1.0,4.0,3.0,6,78.5,1,5
+17.0,Male,Pakistan,High School,Rented room,X (Twitter),News and information,2.6,3.9,0.6,86,159,0.9,6.9,7.1,2.0,,1.2,4.0,6.0,1,66.9,0,5
+21.0,Male,India,Undergraduate,Hostel,Instagram,Social connection,6.7,12.2,1.0,147,295,1.3,3.0,6.5,2.0,1.0,0.8,3.0,9.0,7,65.9,3,7
+22.0,Male,India,Undergraduate,Hostel,Instagram,Academic,3.3,6.5,1.1,70,56,1.2,2.7,8.1,3.0,0.0,1.8,1.0,6.0,4,58.3,2,4
+26.0,Male,Egypt,Postgraduate,Home,Instagram,Mixed,5.9,11.0,3.8,136,141,1.3,5.5,6.1,4.0,2.0,0.9,4.0,6.0,2,66.0,1,7
+17.0,Male,USA,High School,Rented room,X (Twitter),Social connection,2.9,8.8,2.1,80,161,0.6,4.6,6.8,2.0,2.0,1.3,1.0,5.0,6,85.6,1,5
+23.0,Male,Brazil,Undergraduate,Home,YouTube,Entertainment,1.6,2.1,0.3,69,123,0.5,2.9,6.8,2.0,5.0,1.1,2.0,8.0,6,66.1,1,4
+24.0,Female,USA,Undergraduate,Hostel,WhatsApp,Social connection,5.0,7.8,1.0,118,100,1.0,0.7,6.4,3.0,3.0,0.8,,8.0,2,57.9,2,5
+22.0,Female,Nigeria,Undergraduate,Hostel,Instagram,Mixed,1.4,3.7,1.0,63,116,0.2,4.8,7.5,,1.0,0.9,3.0,3.0,8,65.3,1,4
+20.0,Male,India,Postgraduate,Rented room,Snapchat,Entertainment,5.3,10.4,1.9,165,233,1.2,6.4,5.5,,5.0,0.6,2.0,7.0,8,75.7,2,6
+24.0,Male,Bangladesh,Postgraduate,Hostel,TikTok,News and information,4.9,8.7,0.5,156,98,1.2,5.2,7.4,2.0,2.0,2.2,2.0,10.0,6,74.3,2,7
+29.0,Male,India,Postgraduate,Home,YouTube,Social connection,1.8,2.3,0.0,10,85,0.0,5.7,8.8,3.0,0.0,1.1,3.0,6.0,7,74.8,1,4
+22.0,Male,India,Undergraduate,Home,YouTube,Academic,2.3,2.9,0.6,77,70,1.1,3.3,7.4,4.0,1.0,1.0,3.0,8.0,7,,0,5
+17.0,Male,Egypt,High School,Home,Instagram,Entertainment,6.1,10.6,1.0,162,241,1.0,4.3,5.1,2.0,3.0,0.1,2.0,5.0,5,70.0,3,7
+21.0,Female,Nigeria,Undergraduate,Home,Facebook,Entertainment,4.6,6.0,0.2,130,75,1.5,3.3,6.4,2.0,5.0,1.9,4.0,4.0,9,82.9,1,5
+23.0,Male,India,Undergraduate,Home,Instagram,Social connection,4.6,9.6,1.6,125,196,1.2,5.9,7.6,4.0,0.0,0.6,0.0,6.0,7,79.5,2,6
+23.0,Male,India,Undergraduate,Home,TikTok,Social connection,3.6,8.7,1.2,114,88,0.4,4.8,,4.0,1.0,2.0,0.0,4.0,7,94.6,2,5
+22.0,Female,Egypt,Undergraduate,Hostel,Instagram,Entertainment,3.6,6.3,0.3,76,139,0.8,1.0,7.3,4.0,1.0,1.1,7.0,5.0,4,62.4,1,5
+25.0,Female,India,Postgraduate,Home,WhatsApp,Academic,4.6,7.1,0.8,111,178,0.9,5.3,6.8,3.0,2.0,0.8,3.0,7.0,4,52.0,1,8
+23.0,Female,Pakistan,Undergraduate,Home,Instagram,Social connection,3.4,7.3,0.4,121,156,0.2,5.4,7.3,4.0,1.0,1.0,3.0,5.0,4,68.0,2,4
+25.0,Female,Brazil,Postgraduate,Hostel,YouTube,Academic,3.5,7.7,0.0,72,133,0.7,5.2,7.7,2.0,2.0,1.9,1.0,8.0,4,71.4,0,5
+20.0,Female,Bangladesh,Undergraduate,Home,X (Twitter),Social connection,6.0,11.8,1.5,159,218,2.3,4.1,5.4,2.0,2.0,1.9,0.0,4.0,7,66.0,3,7
+22.0,Female,Egypt,Undergraduate,Home,YouTube,Entertainment,6.7,11.3,2.1,178,217,1.7,4.3,6.3,2.0,2.0,1.0,1.0,7.0,5,65.7,3,6
+21.0,Other,Egypt,Undergraduate,Home,YouTube,Mixed,7.6,12.6,0.5,142,194,1.9,1.6,6.0,1.0,1.0,0.0,1.0,8.0,6,74.7,1,8
+22.0,Female,Pakistan,Undergraduate,Home,Snapchat,Entertainment,5.0,8.1,1.1,127,156,1.1,3.2,7.8,3.0,4.0,2.0,4.0,4.0,5,83.7,1,7
+21.0,Female,Bangladesh,Undergraduate,Rented room,YouTube,Entertainment,4.5,9.4,1.5,134,70,1.1,7.0,7.1,3.0,4.0,1.1,3.0,10.0,4,73.8,3,7
+24.0,Female,Bangladesh,Undergraduate,Home,Instagram,Entertainment,3.0,5.4,1.0,78,112,0.9,2.4,8.9,3.0,1.0,1.4,3.0,7.0,6,,0,5
+21.0,Female,Pakistan,Undergraduate,Home,YouTube,Social connection,6.3,9.8,0.8,148,212,2.0,3.8,5.4,3.0,1.0,0.3,4.0,7.0,7,58.8,1,9
+22.0,Female,USA,Undergraduate,Home,Snapchat,Entertainment,1.4,5.6,4.0,76,51,0.4,4.4,7.8,2.0,3.0,1.8,5.0,7.0,5,63.5,0,4
+23.0,Male,India,Undergraduate,Rented room,Instagram,Academic,5.1,10.4,0.8,141,234,0.9,5.9,6.8,4.0,2.0,0.5,1.0,4.0,5,78.8,2,7
+21.0,Male,Pakistan,Undergraduate,Home,LinkedIn,Social connection,4.0,10.2,1.7,128,118,1.0,4.4,7.7,4.0,0.0,2.1,4.0,,2,75.0,2,5
+24.0,Female,India,Postgraduate,Home,TikTok,Social connection,4.6,9.4,0.7,103,114,0.5,5.9,6.6,2.0,2.0,0.5,2.0,7.0,5,79.5,3,6
+21.0,Female,Brazil,Undergraduate,Rented room,WhatsApp,Mixed,4.2,9.1,0.8,116,165,1.8,3.3,7.5,3.0,0.0,0.9,7.0,4.0,5,,2,5
+22.0,Female,USA,Undergraduate,Home,X (Twitter),Social connection,2.5,6.7,1.3,71,125,0.7,3.8,7.1,3.0,0.0,1.1,6.0,6.0,7,61.4,1,5
+27.0,Female,USA,Postgraduate,Home,LinkedIn,Social connection,3.0,5.1,0.4,108,144,0.9,3.5,7.6,2.0,2.0,1.5,1.0,6.0,2,88.9,1,5
+23.0,Female,Egypt,Undergraduate,Hostel,Facebook,News and information,3.4,4.7,0.3,83,142,0.5,3.7,6.1,3.0,2.0,0.6,8.0,7.0,6,74.2,1,4
+23.0,Female,Pakistan,Undergraduate,Home,YouTube,Entertainment,2.1,3.1,0.4,87,48,0.8,5.9,7.2,3.0,0.0,0.3,6.0,,6,80.1,1,3
+23.0,Male,Nigeria,Undergraduate,Home,YouTube,Entertainment,1.3,2.8,0.0,38,84,0.1,2.6,6.8,1.0,3.0,1.1,5.0,5.0,7,64.6,1,5
+20.0,Female,Pakistan,Undergraduate,Rented room,Snapchat,Mixed,4.6,6.2,0.1,95,196,0.6,3.8,5.6,3.0,2.0,1.0,3.0,7.0,1,71.1,1,6
+21.0,Male,Nigeria,Undergraduate,Home,YouTube,Academic,4.8,9.2,0.9,119,187,1.1,5.5,6.4,2.0,2.0,0.2,2.0,8.0,6,75.6,2,6
+25.0,Male,Bangladesh,Postgraduate,Hostel,Snapchat,Entertainment,3.2,4.9,0.4,79,78,0.7,5.4,7.9,3.0,1.0,0.0,4.0,5.0,3,71.4,3,4
+18.0,Female,Philippines,Undergraduate,Rented room,Facebook,Social connection,2.1,4.1,0.2,68,124,0.4,3.5,6.5,3.0,1.0,0.9,1.0,8.0,10,69.3,0,4
+25.0,Male,Brazil,Postgraduate,Home,Instagram,Social connection,5.5,7.6,0.4,102,145,1.2,3.8,6.2,4.0,1.0,0.4,3.0,6.0,7,61.2,2,6
+20.0,Female,Pakistan,Undergraduate,Hostel,YouTube,Social connection,7.7,13.6,2.1,193,185,2.0,0.3,5.6,3.0,0.0,0.0,1.0,7.0,5,58.5,1,9
+24.0,Female,Egypt,Undergraduate,Hostel,X (Twitter),Entertainment,3.6,,0.6,113,120,0.5,4.1,7.3,3.0,3.0,1.3,4.0,7.0,4,72.4,3,4
+21.0,Male,India,Postgraduate,Home,Instagram,Mixed,1.4,2.4,0.3,11,5,0.0,3.3,7.4,3.0,3.0,2.0,2.0,6.0,5,86.1,1,2
+22.0,Female,Nigeria,Undergraduate,Hostel,Facebook,Entertainment,4.2,6.8,0.4,108,131,1.1,4.0,6.3,2.0,3.0,2.2,,9.0,5,81.4,1,6
+18.0,Male,Pakistan,High School,Home,TikTok,Social connection,4.8,7.5,1.7,116,188,1.4,5.5,5.7,2.0,1.0,0.9,1.0,6.0,5,74.4,1,6
+19.0,Male,India,Undergraduate,Rented room,TikTok,Entertainment,2.4,5.1,1.3,52,66,0.0,9.4,7.5,3.0,3.0,0.0,5.0,8.0,7,80.8,1,4
+23.0,Female,UK,Undergraduate,Home,Facebook,Entertainment,3.2,6.5,0.1,93,51,0.6,6.5,7.7,3.0,1.0,1.9,3.0,9.0,3,69.9,2,6
+21.0,Female,Pakistan,Undergraduate,Hostel,LinkedIn,Social connection,4.5,7.7,0.7,107,136,0.0,2.1,6.6,2.0,1.0,1.4,3.0,8.0,3,67.6,3,5
+21.0,Female,India,Postgraduate,Rented room,Instagram,Academic,3.8,5.7,0.2,114,103,0.7,4.6,7.0,1.0,2.0,1.3,3.0,7.0,5,79.0,1,6
+20.0,Male,India,Undergraduate,Home,Reddit,Entertainment,4.0,6.9,0.6,129,74,0.9,5.2,7.5,3.0,2.0,0.0,3.0,7.0,6,75.9,1,7
+26.0,Male,Pakistan,Postgraduate,Hostel,YouTube,Social connection,5.3,7.2,0.5,147,180,2.1,4.2,5.1,2.0,1.0,0.2,2.0,6.0,5,68.6,3,6
+26.0,Male,Indonesia,Undergraduate,Rented room,Snapchat,Social connection,3.3,7.7,1.5,73,87,1.0,4.0,6.2,3.0,2.0,0.8,4.0,1.0,6,,2,3
+23.0,Male,Egypt,Postgraduate,Home,Instagram,Entertainment,2.9,6.5,0.3,78,113,0.8,1.9,8.1,5.0,0.0,0.5,5.0,5.0,9,66.7,2,3
+21.0,Female,Bangladesh,Undergraduate,Hostel,YouTube,Social connection,5.4,8.5,1.3,151,111,1.3,8.2,5.8,3.0,3.0,0.1,2.0,5.0,7,78.1,2,6
+22.0,Male,India,Undergraduate,Home,Facebook,Social connection,3.4,5.2,0.8,52,77,0.5,3.9,6.6,2.0,0.0,0.8,2.0,7.0,6,75.4,1,4
+19.0,Male,Pakistan,Undergraduate,Hostel,WhatsApp,Entertainment,4.7,7.4,0.5,140,194,1.4,2.9,6.4,3.0,1.0,0.6,1.0,9.0,3,72.8,2,7
+23.0,Female,Brazil,Undergraduate,Rented room,Facebook,Academic,2.3,5.2,0.0,68,81,0.0,5.8,7.1,3.0,0.0,1.5,5.0,9.0,8,61.5,2,3
+17.0,Female,Philippines,High School,Hostel,TikTok,Social connection,6.2,11.3,0.7,170,140,1.4,3.0,4.6,2.0,3.0,1.4,1.0,4.0,5,69.2,4,7
+22.0,Male,Brazil,Undergraduate,Rented room,TikTok,Mixed,1.7,4.1,0.2,63,99,0.5,4.8,7.5,2.0,4.0,1.3,2.0,7.0,3,91.2,0,5
+22.0,Female,India,Undergraduate,Rented room,TikTok,Entertainment,1.5,4.3,0.1,86,121,0.3,6.7,7.8,3.0,2.0,1.5,3.0,5.0,5,90.2,0,4
+20.0,Female,India,Undergraduate,Home,Instagram,Academic,1.0,2.2,0.8,36,135,0.0,4.0,8.8,3.0,2.0,1.6,3.0,,4,61.9,1,2
+17.0,Female,Bangladesh,High School,Rented room,Facebook,Entertainment,0.9,2.4,0.1,49,29,0.0,5.6,7.9,2.0,1.0,1.1,6.0,9.0,8,86.2,1,2
+19.0,Male,India,Undergraduate,Home,Snapchat,Academic,,6.2,1.2,111,149,1.1,4.3,6.1,2.0,1.0,0.7,3.0,5.0,5,45.1,3,7
+17.0,Male,Indonesia,High School,Rented room,WhatsApp,Mixed,2.4,4.4,0.1,73,77,0.3,4.6,7.4,3.0,0.0,1.7,7.0,6.0,5,75.3,0,4
+24.0,Other,India,Postgraduate,Home,Snapchat,Mixed,3.9,6.4,0.8,102,68,0.4,5.7,7.0,1.0,1.0,0.9,2.0,5.0,6,76.1,2,7
+26.0,Female,Pakistan,Postgraduate,Hostel,YouTube,Entertainment,4.4,6.1,0.9,152,63,0.2,6.0,6.0,2.0,2.0,1.9,1.0,6.0,6,67.3,2,6
+22.0,Female,Pakistan,Undergraduate,Home,YouTube,Social connection,2.9,7.4,0.7,67,128,0.0,3.8,8.2,2.0,1.0,0.8,,6.0,8,80.3,1,4
+21.0,Female,Pakistan,Undergraduate,Rented room,YouTube,Mixed,2.9,8.1,1.5,107,124,0.8,4.1,8.0,,0.0,1.5,3.0,4.0,6,78.9,1,6
+19.0,Male,Nigeria,Undergraduate,Home,Instagram,Entertainment,3.8,8.7,1.8,138,49,0.9,6.9,7.3,2.0,1.0,1.0,2.0,4.0,5,82.2,2,4
+23.0,Female,Brazil,Undergraduate,Rented room,WhatsApp,Mixed,1.9,3.7,0.8,86,162,0.8,3.3,6.1,3.0,1.0,0.9,4.0,7.0,5,76.8,2,5
+23.0,Male,India,Undergraduate,Rented room,Reddit,Entertainment,3.4,6.6,1.7,106,85,0.8,2.9,6.9,3.0,,0.0,0.0,8.0,6,57.4,2,5
+23.0,Male,Philippines,Undergraduate,Home,Instagram,Entertainment,4.4,9.8,0.4,101,85,0.8,5.4,4.3,2.0,3.0,1.6,3.0,4.0,5,75.4,2,6
+23.0,Male,India,Undergraduate,Rented room,TikTok,Entertainment,2.9,6.5,0.1,70,88,1.3,4.2,7.7,4.0,1.0,0.2,5.0,7.0,7,85.2,2,6
+21.0,Female,UK,Undergraduate,Home,YouTube,Social connection,4.9,9.5,1.7,122,218,1.9,3.9,5.8,2.0,1.0,0.8,3.0,6.0,9,54.1,2,7
+20.0,Male,Egypt,Undergraduate,Home,Reddit,News and information,6.0,12.4,2.6,140,170,1.9,7.2,6.0,2.0,3.0,0.1,1.0,7.0,6,83.0,3,8
+20.0,Male,India,Undergraduate,Home,X (Twitter),Social connection,4.5,6.7,0.8,104,202,0.9,6.8,6.7,2.0,4.0,2.1,1.0,10.0,8,59.0,1,6
+24.0,Other,Nigeria,Postgraduate,Rented room,WhatsApp,Mixed,7.3,13.7,1.5,162,228,1.3,5.2,5.9,2.0,2.0,0.7,1.0,5.0,5,82.5,2,9
+21.0,Other,Indonesia,Undergraduate,Hostel,YouTube,Entertainment,2.2,6.5,1.7,46,126,0.6,5.3,8.0,2.0,0.0,2.2,4.0,8.0,6,78.4,0,3
+21.0,Male,Bangladesh,Undergraduate,Rented room,YouTube,News and information,4.1,7.0,0.4,93,123,0.5,5.9,6.8,4.0,2.0,1.4,3.0,8.0,6,64.8,0,4
+22.0,Male,India,Undergraduate,Hostel,YouTube,Entertainment,2.8,3.9,0.4,84,72,0.6,6.9,6.7,3.0,2.0,1.0,2.0,7.0,4,80.2,1,4
+22.0,Female,USA,Undergraduate,Home,WhatsApp,Entertainment,4.1,8.0,0.5,121,170,1.1,4.6,6.7,5.0,0.0,1.2,0.0,6.0,8,73.5,2,6
+25.0,Male,Pakistan,Postgraduate,Home,WhatsApp,Entertainment,1.7,4.3,0.6,76,83,0.5,3.7,7.4,2.0,2.0,0.6,4.0,8.0,3,66.2,1,5
+22.0,Female,Bangladesh,Undergraduate,Home,Instagram,Social connection,3.9,6.8,0.1,106,186,0.7,3.2,7.6,3.0,1.0,1.1,2.0,7.0,7,77.3,0,5
+23.0,Male,Egypt,Undergraduate,Rented room,Instagram,Mixed,1.6,3.1,0.6,64,145,0.8,8.6,6.2,1.0,5.0,2.0,1.0,6.0,7,70.1,2,4
+19.0,Male,UK,Undergraduate,Rented room,YouTube,Entertainment,2.3,4.4,0.1,59,187,0.0,5.9,7.8,2.0,1.0,1.0,3.0,6.0,7,77.7,1,3
+21.0,Female,India,Undergraduate,Hostel,Snapchat,Social connection,2.9,6.0,1.3,86,101,0.7,3.3,7.2,1.0,2.0,0.0,2.0,6.0,6,72.5,2,6
+21.0,Male,USA,Undergraduate,Home,Snapchat,Entertainment,5.9,10.5,2.1,148,99,2.1,5.0,5.7,2.0,1.0,1.4,3.0,6.0,6,76.1,2,7
+18.0,Other,UK,Undergraduate,Hostel,YouTube,Social connection,4.7,6.2,0.2,111,121,0.5,5.4,7.0,3.0,5.0,1.3,4.0,4.0,6,73.9,2,5
+20.0,Female,USA,Undergraduate,Hostel,Instagram,Social connection,2.5,4.4,0.2,86,133,0.9,5.7,7.7,3.0,1.0,0.5,7.0,5.0,9,89.6,0,4
+21.0,Male,USA,Undergraduate,Home,Instagram,Social connection,3.1,9.6,1.9,71,84,0.7,4.4,6.9,3.0,2.0,0.9,3.0,4.0,6,57.9,1,5
+21.0,Male,Egypt,Undergraduate,Hostel,Instagram,Academic,2.2,5.9,0.4,74,145,0.6,4.3,6.8,3.0,1.0,1.0,3.0,5.0,5,55.6,1,3
+22.0,Male,India,Postgraduate,Home,YouTube,Entertainment,2.5,7.2,0.9,93,95,0.7,6.2,7.0,2.0,1.0,1.5,1.0,7.0,9,79.8,3,4
+27.0,Other,Nigeria,Undergraduate,Home,YouTube,Mixed,3.7,6.9,0.8,96,163,0.4,1.1,7.1,4.0,0.0,1.4,2.0,7.0,2,62.6,1,7
+22.0,Female,Egypt,Undergraduate,Home,Facebook,Entertainment,2.5,8.6,2.6,84,112,0.5,5.1,7.8,3.0,1.0,2.4,3.0,7.0,6,78.0,0,5
+22.0,Male,India,Undergraduate,Rented room,YouTube,Social connection,3.0,7.0,2.3,100,68,0.6,3.4,7.2,3.0,2.0,1.8,2.0,4.0,5,69.6,2,5
+19.0,Female,Philippines,Undergraduate,Rented room,Instagram,Social connection,4.8,9.9,0.9,93,164,1.3,4.3,6.4,2.0,3.0,1.7,3.0,5.0,8,70.0,1,6
+23.0,Male,Indonesia,Undergraduate,Rented room,WhatsApp,Mixed,3.5,7.8,1.0,106,192,0.9,0.0,8.4,3.0,0.0,1.3,3.0,6.0,3,63.0,1,6
+28.0,Male,UK,Postgraduate,Hostel,Facebook,Mixed,2.6,7.5,2.5,81,184,0.4,5.1,7.5,3.0,1.0,0.8,3.0,,4,79.2,1,5
+23.0,Male,Brazil,Postgraduate,Rented room,YouTube,Entertainment,5.5,10.0,2.3,103,163,1.7,0.4,5.0,2.0,1.0,0.9,1.0,5.0,3,53.6,0,5
+18.0,Female,India,High School,Home,YouTube,Social connection,2.5,6.5,1.4,30,189,0.6,3.7,6.8,2.0,4.0,0.1,4.0,7.0,6,84.6,1,5
+24.0,Male,Indonesia,Postgraduate,Home,Snapchat,Social connection,3.1,7.4,0.8,79,63,0.7,4.3,7.4,2.0,1.0,2.5,3.0,9.0,7,66.9,0,4
+23.0,Male,India,Undergraduate,Rented room,WhatsApp,Social connection,3.4,7.0,1.5,83,140,0.8,7.3,6.8,3.0,4.0,1.7,1.0,7.0,7,,0,6
+20.0,Female,India,Undergraduate,Home,Instagram,Entertainment,2.8,6.3,0.6,102,83,0.8,4.4,7.9,3.0,0.0,1.8,1.0,4.0,7,71.0,0,5
+20.0,Female,USA,Postgraduate,Rented room,WhatsApp,Social connection,4.5,7.9,1.9,89,128,1.6,2.5,5.3,1.0,3.0,1.5,,6.0,7,66.2,3,4
+22.0,Male,USA,Undergraduate,Hostel,Facebook,Mixed,0.5,3.3,1.3,54,59,0.1,4.5,7.0,,3.0,2.2,2.0,10.0,8,75.8,0,2
+19.0,Male,USA,Undergraduate,Home,TikTok,Academic,0.5,3.4,0.0,34,49,0.0,2.6,7.7,4.0,0.0,0.3,2.0,6.0,9,66.0,2,2
+23.0,Female,Nigeria,Undergraduate,Hostel,Instagram,Academic,3.2,9.0,1.6,127,196,0.7,7.7,7.3,3.0,1.0,0.9,4.0,6.0,8,80.4,2,5
+25.0,Female,Philippines,Postgraduate,Home,Facebook,Social connection,3.6,10.0,0.7,104,159,1.3,7.8,6.1,,3.0,0.0,2.0,7.0,7,75.5,2,4
+19.0,Female,Nigeria,Undergraduate,Rented room,Snapchat,Social connection,3.5,6.9,0.7,83,93,1.3,4.2,6.2,2.0,0.0,1.5,5.0,8.0,5,67.3,2,7
+19.0,Male,UK,Undergraduate,Rented room,Facebook,Entertainment,4.8,10.2,2.2,107,168,0.8,3.0,6.5,4.0,1.0,0.8,4.0,5.0,5,63.5,4,6
+17.0,Male,Indonesia,Undergraduate,Hostel,YouTube,Entertainment,2.9,7.1,2.3,54,59,0.5,7.5,6.9,3.0,2.0,0.5,7.0,4.0,5,86.3,1,4
+23.0,Male,Nigeria,Undergraduate,Hostel,Instagram,Entertainment,1.0,3.0,0.5,47,27,0.9,5.2,7.7,,0.0,1.4,8.0,7.0,5,,2,4
+20.0,Male,Egypt,Undergraduate,Home,YouTube,Entertainment,4.0,7.1,1.0,106,170,1.6,3.0,5.6,1.0,2.0,0.8,2.0,3.0,10,70.6,1,6
+22.0,Female,Egypt,Undergraduate,Home,Instagram,Entertainment,4.9,12.2,6.0,161,122,0.9,4.7,5.6,3.0,1.0,0.7,5.0,5.0,6,78.2,2,6
+21.0,Male,Philippines,Undergraduate,Hostel,Instagram,Mixed,6.2,10.2,2.0,159,144,2.2,2.8,6.7,3.0,1.0,0.7,2.0,10.0,9,57.3,1,7
+24.0,Female,India,Undergraduate,Hostel,YouTube,Entertainment,4.7,8.5,0.4,109,121,1.3,3.7,7.2,3.0,0.0,2.6,3.0,7.0,4,66.0,1,6
+25.0,Male,Philippines,Postgraduate,Hostel,LinkedIn,Entertainment,4.1,10.3,3.1,98,107,0.6,3.9,7.1,1.0,1.0,0.8,2.0,3.0,4,72.9,1,4
+22.0,Female,Brazil,Postgraduate,Home,Instagram,Academic,2.2,5.5,1.8,76,167,0.8,5.4,7.2,4.0,1.0,0.9,3.0,5.0,9,75.6,1,5
+20.0,Female,USA,Undergraduate,Home,YouTube,Academic,3.0,6.4,0.8,67,222,0.8,1.3,6.5,3.0,2.0,1.3,5.0,4.0,4,71.6,2,5
+19.0,Female,Philippines,Undergraduate,Rented room,YouTube,Social connection,1.8,4.6,0.5,80,93,0.2,6.3,7.4,4.0,2.0,0.7,2.0,6.0,7,83.3,1,5
+19.0,Male,Brazil,Undergraduate,Hostel,Reddit,News and information,3.3,7.0,0.7,100,141,0.9,2.0,7.8,2.0,0.0,1.2,5.0,8.0,4,77.4,1,5
+21.0,Male,India,Undergraduate,Home,WhatsApp,Entertainment,3.3,8.1,1.5,98,114,0.7,4.1,7.9,4.0,0.0,2.2,4.0,4.0,6,,0,3
+20.0,Female,Egypt,Undergraduate,Home,Instagram,Social connection,4.3,9.5,1.4,154,158,0.3,2.9,7.2,4.0,3.0,1.3,2.0,5.0,7,75.0,1,5
+20.0,Male,Bangladesh,Undergraduate,Rented room,Instagram,Social connection,4.2,9.6,0.8,90,129,0.6,3.6,7.0,3.0,1.0,,4.0,3.0,7,76.2,1,6
+21.0,Male,India,Undergraduate,Hostel,Facebook,Mixed,0.5,5.0,2.3,29,5,0.0,6.0,7.1,5.0,1.0,2.4,4.0,10.0,4,93.5,0,2
+22.0,Female,India,Undergraduate,Rented room,Instagram,Social connection,3.1,6.1,0.9,94,94,0.8,5.8,7.1,2.0,0.0,1.4,6.0,8.0,4,64.2,0,6
+23.0,Female,Egypt,Undergraduate,Home,X (Twitter),Academic,5.1,8.7,1.2,137,106,1.6,4.5,5.4,1.0,2.0,1.0,3.0,7.0,5,,2,5
+24.0,Male,Brazil,Postgraduate,Hostel,Instagram,Academic,4.1,6.9,0.4,89,139,1.0,3.1,6.5,2.0,3.0,0.0,2.0,5.0,3,74.7,1,7
+23.0,Female,Pakistan,Undergraduate,Home,Facebook,Social connection,2.3,4.2,0.2,65,157,0.6,3.8,7.3,3.0,2.0,0.2,4.0,3.0,6,65.9,1,5
+27.0,Male,India,Postgraduate,Hostel,WhatsApp,Entertainment,4.8,10.7,1.3,141,111,1.8,4.5,6.6,3.0,2.0,0.0,0.0,8.0,5,80.6,2,5
+19.0,Female,UK,Undergraduate,Home,YouTube,Entertainment,0.7,1.6,0.6,10,64,0.0,4.5,7.3,3.0,2.0,2.5,4.0,7.0,6,64.5,1,3
+27.0,Female,Egypt,Undergraduate,Rented room,YouTube,News and information,0.9,2.8,0.7,51,174,0.0,3.1,8.1,5.0,1.0,0.2,5.0,5.0,4,82.1,1,2
+20.0,Male,India,Undergraduate,Rented room,X (Twitter),Entertainment,1.5,2.7,0.2,29,111,0.0,6.7,6.8,3.0,3.0,,6.0,4.0,7,71.3,0,3
+21.0,Male,Nigeria,Undergraduate,Home,WhatsApp,News and information,2.9,5.7,0.8,119,69,0.7,4.8,8.0,3.0,1.0,0.1,4.0,5.0,6,76.6,1,4
+17.0,Male,Pakistan,Undergraduate,Home,Instagram,Entertainment,0.5,4.2,0.1,38,87,0.3,6.8,7.7,4.0,1.0,0.0,3.0,6.0,3,80.4,0,1
+21.0,Male,Pakistan,Undergraduate,Home,YouTube,Mixed,5.1,8.6,0.5,159,187,1.6,4.1,5.7,1.0,6.0,2.2,3.0,7.0,8,66.1,1,7
+24.0,Male,India,Postgraduate,Home,TikTok,Mixed,2.3,4.9,0.4,61,102,0.0,6.1,8.8,3.0,1.0,1.2,9.0,10.0,3,53.8,1,2
+18.0,Female,India,Undergraduate,Hostel,YouTube,Social connection,4.2,7.8,1.3,76,123,0.8,5.6,6.8,2.0,2.0,0.7,0.0,4.0,8,67.3,1,5
+20.0,Male,Bangladesh,Undergraduate,Hostel,Instagram,Entertainment,4.2,5.6,0.5,95,46,1.9,3.4,6.2,3.0,1.0,0.8,1.0,8.0,6,44.3,1,6
+23.0,Male,USA,Undergraduate,Hostel,Reddit,Mixed,4.5,8.0,0.7,119,94,1.9,4.9,5.1,2.0,1.0,0.7,1.0,6.0,3,62.9,1,6
+22.0,Male,India,Undergraduate,Home,YouTube,Mixed,2.8,5.0,0.5,97,73,1.0,4.6,8.1,,1.0,2.3,4.0,5.0,4,83.0,2,5
+23.0,Female,Pakistan,Undergraduate,Home,TikTok,Social connection,2.1,4.7,0.0,74,160,0.1,5.1,8.1,3.0,1.0,0.8,7.0,6.0,3,62.1,1,4
+22.0,Female,Egypt,Postgraduate,Hostel,YouTube,Entertainment,2.5,,0.3,90,139,0.6,5.1,7.6,4.0,2.0,0.6,3.0,7.0,5,84.8,1,4
+20.0,Male,India,Undergraduate,Home,YouTube,Entertainment,0.9,1.4,0.1,52,99,0.1,3.2,6.9,2.0,3.0,2.1,6.0,4.0,6,68.1,2,2
+23.0,Female,Nigeria,Undergraduate,Home,WhatsApp,Social connection,1.2,5.1,1.2,56,90,0.1,4.3,7.4,4.0,3.0,1.3,4.0,6.0,9,77.2,0,3
+23.0,Male,Indonesia,Undergraduate,Hostel,TikTok,Academic,0.5,2.2,0.0,50,5,0.1,5.3,8.4,4.0,3.0,0.7,4.0,6.0,4,60.2,0,3
+19.0,Female,India,Undergraduate,Rented room,TikTok,Mixed,3.4,7.6,0.3,106,117,0.0,5.9,7.0,4.0,1.0,0.6,2.0,4.0,5,69.3,1,4
+17.0,Female,Egypt,High School,Home,Snapchat,Academic,1.2,1.7,0.2,16,80,0.0,5.7,7.3,2.0,2.0,1.0,5.0,4.0,7,77.3,2,3
+18.0,Male,India,High School,Home,WhatsApp,Academic,2.6,6.4,0.5,65,132,0.7,6.3,7.1,2.0,1.0,1.6,4.0,8.0,7,71.4,3,5
+25.0,Female,USA,Postgraduate,Hostel,Snapchat,Academic,4.0,6.3,0.7,99,127,0.6,4.6,7.9,3.0,1.0,0.6,6.0,2.0,7,87.5,2,5
+24.0,Male,Bangladesh,Postgraduate,Rented room,YouTube,Social connection,5.9,10.4,1.5,139,146,1.1,2.3,6.4,4.0,2.0,1.1,1.0,4.0,5,84.0,3,6
+22.0,Male,Egypt,Undergraduate,Rented room,TikTok,Entertainment,0.5,2.6,1.2,34,106,0.0,6.1,8.3,3.0,5.0,0.4,1.0,7.0,5,71.8,0,1
+19.0,Female,Brazil,Undergraduate,Home,Instagram,Entertainment,4.3,8.5,0.4,138,142,0.6,5.3,7.1,3.0,2.0,1.0,2.0,4.0,8,75.8,1,4
+19.0,Female,India,Postgraduate,Home,YouTube,Social connection,5.3,10.2,0.8,123,152,2.1,6.4,5.5,2.0,2.0,1.7,1.0,9.0,6,70.2,0,6
+19.0,Female,India,Undergraduate,Rented room,YouTube,News and information,1.5,6.5,0.2,21,111,0.0,4.9,7.5,4.0,1.0,0.5,3.0,9.0,4,88.0,1,5
+19.0,Male,Indonesia,Undergraduate,Rented room,Snapchat,Entertainment,2.4,6.1,0.6,76,97,0.2,4.4,6.6,4.0,0.0,1.4,3.0,6.0,5,56.5,1,3
+24.0,Other,Pakistan,Undergraduate,Home,Instagram,Mixed,4.3,8.7,1.3,90,109,1.4,3.6,6.3,3.0,3.0,1.3,4.0,7.0,8,55.7,3,5
+23.0,Female,Nigeria,Postgraduate,Rented room,Instagram,Academic,4.5,10.7,2.8,89,164,0.9,4.5,6.8,3.0,2.0,1.1,4.0,3.0,5,70.5,2,4
+21.0,Female,Egypt,Undergraduate,Hostel,Instagram,Academic,4.2,7.3,0.5,139,139,1.0,5.6,6.2,1.0,1.0,1.4,5.0,4.0,4,72.7,2,5
+24.0,Male,India,Postgraduate,Home,WhatsApp,Entertainment,2.6,4.5,0.3,72,85,1.0,6.2,6.6,3.0,1.0,1.5,7.0,5.0,7,79.3,0,5
+17.0,Male,India,High School,Rented room,WhatsApp,Social connection,3.3,7.4,0.8,65,134,1.0,4.8,5.8,3.0,6.0,1.5,5.0,7.0,7,71.3,2,6
+20.0,Female,UK,Undergraduate,Rented room,Facebook,Social connection,2.6,4.0,0.6,88,69,1.4,4.8,6.4,2.0,1.0,1.1,6.0,9.0,5,69.8,1,6
+24.0,Male,Bangladesh,Undergraduate,Home,Instagram,Entertainment,6.1,9.7,1.2,138,139,1.5,3.8,6.6,3.0,4.0,1.5,1.0,6.0,5,52.9,2,6
+21.0,Male,Pakistan,Undergraduate,Home,WhatsApp,Entertainment,7.1,9.5,1.3,151,125,2.0,4.8,5.3,3.0,2.0,0.6,,4.0,3,63.3,2,8
+19.0,Female,Nigeria,Undergraduate,Home,Instagram,Entertainment,2.5,4.6,0.0,102,52,0.0,3.1,8.3,3.0,0.0,0.2,5.0,6.0,8,89.6,1,3
+20.0,Female,UK,Undergraduate,Hostel,LinkedIn,Social connection,1.7,5.1,1.8,68,109,0.3,3.7,8.0,4.0,0.0,0.4,3.0,9.0,4,64.9,0,3
+24.0,Female,India,Postgraduate,Hostel,Snapchat,Entertainment,5.1,7.8,0.1,76,193,1.7,5.7,6.8,2.0,1.0,1.0,0.0,10.0,7,71.0,1,7
+22.0,Female,India,Undergraduate,Rented room,X (Twitter),Social connection,1.0,5.6,1.3,13,127,0.0,5.4,7.3,3.0,4.0,1.1,4.0,5.0,5,69.2,0,4
+19.0,Female,Indonesia,Undergraduate,Rented room,WhatsApp,Academic,3.0,6.1,2.2,94,135,0.8,6.0,7.4,3.0,2.0,1.1,4.0,5.0,6,55.1,0,4
+24.0,Female,Pakistan,Undergraduate,Rented room,WhatsApp,Entertainment,3.2,4.5,0.1,75,57,0.7,3.7,6.6,3.0,3.0,2.1,2.0,6.0,8,96.9,2,5
+21.0,Male,Egypt,Undergraduate,Home,LinkedIn,Entertainment,6.3,9.5,1.1,180,172,1.6,1.9,6.7,3.0,2.0,0.0,3.0,5.0,5,68.0,0,8
+21.0,Male,India,Undergraduate,Hostel,Facebook,Entertainment,2.1,5.5,0.4,65,121,1.2,6.0,7.2,2.0,1.0,2.1,3.0,8.0,8,69.0,0,4
+24.0,Male,Pakistan,Postgraduate,Hostel,TikTok,Entertainment,3.9,5.2,0.5,118,113,0.7,5.6,6.9,3.0,0.0,1.3,5.0,9.0,6,78.5,2,5
+24.0,Male,Bangladesh,Undergraduate,Hostel,YouTube,Entertainment,2.6,6.0,0.4,66,101,0.1,2.1,8.2,5.0,0.0,1.3,3.0,7.0,4,81.6,1,4
+23.0,Male,India,Undergraduate,Home,WhatsApp,Academic,5.0,8.9,1.1,142,157,0.7,4.0,6.2,1.0,2.0,1.1,1.0,6.0,8,53.4,3,7
+23.0,Male,Pakistan,Undergraduate,Rented room,Facebook,Mixed,4.6,8.9,1.8,143,105,0.8,5.5,6.7,3.0,1.0,0.6,2.0,8.0,4,89.6,2,5
+25.0,Male,Philippines,Undergraduate,Hostel,WhatsApp,Social connection,3.0,5.9,0.1,72,110,0.4,3.4,5.6,3.0,0.0,0.7,2.0,8.0,5,80.6,1,6
+21.0,Female,UK,Undergraduate,Home,Snapchat,Academic,6.2,11.9,1.9,166,162,1.5,2.7,6.0,3.0,1.0,1.9,1.0,5.0,8,71.3,3,8
+19.0,Male,India,Undergraduate,Home,Facebook,Entertainment,5.6,10.2,1.4,122,182,1.7,6.2,5.9,1.0,3.0,1.8,4.0,6.0,4,80.0,2,6
+21.0,Female,UK,Undergraduate,Home,Facebook,Academic,0.5,3.5,0.2,41,72,0.0,4.0,8.2,3.0,1.0,0.3,3.0,6.0,6,63.8,1,2
+21.0,Male,USA,Undergraduate,Rented room,YouTube,Social connection,4.7,5.4,0.7,107,144,0.6,4.5,6.5,4.0,3.0,0.5,4.0,6.0,3,59.7,2,5
+21.0,Female,Nigeria,Undergraduate,Hostel,Instagram,Entertainment,6.3,8.5,0.2,133,165,1.3,3.9,6.3,2.0,2.0,0.9,3.0,7.0,8,88.3,2,8
+25.0,Female,Brazil,Undergraduate,Hostel,TikTok,Entertainment,3.3,6.2,0.0,90,98,0.3,5.0,8.3,3.0,0.0,1.5,2.0,4.0,5,70.9,1,5
+19.0,Male,Pakistan,Undergraduate,Home,YouTube,Social connection,3.9,8.6,1.6,79,130,0.8,4.5,7.0,5.0,1.0,0.5,,6.0,4,65.9,1,5
+22.0,Male,Indonesia,Undergraduate,Rented room,Reddit,Entertainment,3.2,6.3,1.7,89,105,0.3,7.1,7.3,4.0,3.0,1.5,2.0,7.0,5,63.3,1,5
+19.0,Female,India,Undergraduate,Home,X (Twitter),Entertainment,2.3,5.3,1.3,78,117,1.1,5.0,6.5,3.0,2.0,0.4,5.0,8.0,8,98.2,1,6
+19.0,Male,Nigeria,Undergraduate,Home,X (Twitter),Social connection,5.9,8.3,0.7,111,185,1.9,4.6,6.0,1.0,1.0,0.3,2.0,6.0,9,80.3,2,7
+26.0,Female,India,Postgraduate,Hostel,Instagram,Entertainment,4.5,9.0,0.9,111,142,1.0,3.6,6.8,2.0,0.0,3.0,3.0,4.0,7,71.4,1,6
+18.0,Female,Bangladesh,Undergraduate,Hostel,YouTube,Social connection,3.1,5.2,0.3,80,141,1.1,4.1,6.3,3.0,0.0,0.8,3.0,3.0,10,83.0,1,5
+26.0,Female,India,Postgraduate,Home,WhatsApp,Mixed,3.3,6.6,1.3,70,56,1.0,7.7,7.2,3.0,2.0,0.4,2.0,9.0,5,70.7,0,5
+17.0,Female,Nigeria,High School,Hostel,YouTube,Academic,2.8,5.5,0.7,65,166,0.0,6.4,6.2,2.0,4.0,1.6,2.0,8.0,7,76.2,2,5
+20.0,Female,Indonesia,Postgraduate,Hostel,X (Twitter),Entertainment,2.0,4.7,0.4,89,98,0.6,1.7,8.1,3.0,1.0,1.7,3.0,6.0,6,63.7,1,4
+18.0,Female,Nigeria,High School,Home,TikTok,News and information,2.7,6.0,0.5,97,74,0.9,5.7,6.8,4.0,1.0,0.9,5.0,6.0,4,75.9,2,5
+25.0,Male,Philippines,Postgraduate,Rented room,YouTube,Mixed,4.3,7.1,0.6,113,110,1.0,6.9,5.2,2.0,2.0,0.9,1.0,7.0,5,69.3,3,6
+19.0,Female,Indonesia,Postgraduate,Rented room,Reddit,Mixed,2.1,2.6,0.0,57,56,0.4,7.8,7.6,3.0,3.0,1.5,1.0,8.0,9,79.3,0,4
+20.0,Female,Pakistan,Undergraduate,Hostel,YouTube,Social connection,3.0,6.8,1.3,87,113,0.4,5.6,8.2,3.0,1.0,1.1,2.0,5.0,8,58.7,0,2
+26.0,Male,Egypt,Postgraduate,Hostel,TikTok,Academic,4.8,8.9,2.1,121,157,1.2,5.2,6.3,1.0,3.0,1.6,3.0,8.0,5,68.4,2,8
+22.0,Male,India,Undergraduate,Home,Facebook,Mixed,4.5,8.3,0.4,118,78,0.7,5.3,7.1,4.0,1.0,0.8,0.0,5.0,5,65.1,1,6
+23.0,Male,Nigeria,Undergraduate,Rented room,X (Twitter),Social connection,1.7,7.0,2.9,33,87,0.0,2.9,7.4,2.0,0.0,1.3,6.0,6.0,7,58.7,0,4
+25.0,Male,Philippines,Postgraduate,Home,YouTube,Mixed,4.6,8.9,0.5,98,66,0.9,7.2,7.1,4.0,5.0,1.0,1.0,9.0,7,94.5,1,6
+28.0,Female,India,Undergraduate,Hostel,YouTube,Entertainment,3.1,4.2,0.1,76,134,0.3,4.4,6.7,2.0,2.0,0.0,3.0,7.0,9,75.4,0,2
+24.0,Female,India,Undergraduate,Home,Instagram,News and information,5.1,9.5,1.6,150,107,0.4,4.2,7.9,4.0,3.0,0.8,4.0,6.0,4,69.7,3,4
+22.0,Male,Bangladesh,Undergraduate,Hostel,TikTok,Entertainment,3.8,9.9,2.0,122,189,0.7,4.1,7.3,2.0,0.0,1.7,2.0,9.0,6,73.2,0,5
+24.0,Female,Philippines,Undergraduate,Home,YouTube,Mixed,4.9,7.8,1.3,142,108,1.3,6.7,6.9,2.0,2.0,2.1,0.0,7.0,7,80.7,2,6
+17.0,Male,India,Undergraduate,Home,X (Twitter),Mixed,5.7,9.5,1.3,142,237,1.4,2.2,6.8,2.0,3.0,0.0,1.0,6.0,4,57.1,5,8
+22.0,Male,Philippines,Undergraduate,Home,TikTok,Social connection,1.5,5.1,1.5,23,17,0.6,4.9,6.3,4.0,0.0,0.3,7.0,6.0,3,77.1,2,3
+20.0,Male,Indonesia,Undergraduate,Hostel,Snapchat,Entertainment,5.5,7.5,1.2,132,151,0.5,1.4,7.5,1.0,2.0,0.8,1.0,7.0,8,63.3,3,8
+23.0,Male,USA,Undergraduate,Home,Snapchat,Mixed,2.4,5.1,0.5,48,67,0.0,2.0,7.5,5.0,1.0,0.7,4.0,7.0,3,82.9,0,4
+21.0,Female,USA,Undergraduate,Hostel,WhatsApp,Academic,3.8,7.2,0.7,80,116,1.4,6.0,7.3,2.0,,0.2,3.0,5.0,5,73.9,2,5
+27.0,Female,USA,Postgraduate,Rented room,Facebook,Entertainment,4.9,7.9,1.2,111,96,0.5,5.5,6.4,1.0,2.0,2.9,1.0,6.0,5,74.0,2,7
+22.0,Male,Egypt,Postgraduate,Rented room,WhatsApp,Social connection,5.0,9.0,1.2,119,202,1.6,4.3,6.6,3.0,1.0,0.8,1.0,8.0,8,90.6,2,7
+21.0,Male,India,Undergraduate,Hostel,Instagram,Social connection,5.5,9.2,0.7,150,133,1.6,4.7,6.0,2.0,3.0,0.5,1.0,6.0,5,74.6,3,7
+24.0,Male,Pakistan,Postgraduate,Rented room,Instagram,Entertainment,3.5,6.4,0.5,73,113,0.4,5.7,7.3,3.0,3.0,1.8,1.0,6.0,4,83.6,1,5
+24.0,Female,Pakistan,Undergraduate,Rented room,Instagram,Mixed,2.3,4.7,0.3,53,132,0.3,4.3,7.6,2.0,,0.7,4.0,6.0,6,93.2,2,4
+19.0,Female,India,Undergraduate,Home,X (Twitter),Entertainment,3.3,6.0,0.1,70,152,0.5,6.1,8.5,3.0,3.0,1.3,8.0,10.0,7,83.4,3,4
+23.0,Female,Indonesia,Undergraduate,Hostel,Snapchat,Entertainment,2.7,6.6,0.9,133,64,0.0,7.5,6.6,3.0,5.0,0.6,5.0,9.0,5,87.3,0,5
+20.0,Male,Brazil,Undergraduate,Rented room,Instagram,Mixed,3.2,4.9,0.3,83,82,0.9,2.4,7.3,4.0,0.0,0.0,1.0,8.0,5,91.7,1,4
+20.0,Female,Pakistan,Undergraduate,Home,TikTok,Mixed,4.6,9.1,1.4,103,95,1.0,3.1,6.9,3.0,4.0,1.9,3.0,7.0,4,76.3,2,4
+20.0,Male,India,Undergraduate,Rented room,WhatsApp,Mixed,3.9,8.6,1.2,105,145,1.3,5.6,6.8,4.0,0.0,0.2,3.0,5.0,9,73.7,4,5
+26.0,Male,India,Postgraduate,Home,Facebook,Entertainment,4.6,7.8,0.7,142,96,0.9,5.7,7.1,3.0,1.0,0.9,3.0,5.0,3,49.7,3,5
+22.0,Female,India,Undergraduate,Home,Instagram,Mixed,1.6,4.0,0.0,62,56,0.0,3.3,7.4,2.0,1.0,1.0,1.0,10.0,4,89.7,0,4
+22.0,Female,Egypt,Undergraduate,Home,X (Twitter),Entertainment,2.9,4.3,0.3,79,53,1.3,3.3,6.8,2.0,2.0,1.8,3.0,8.0,8,89.3,1,4
+25.0,Male,Brazil,Postgraduate,Hostel,Instagram,Academic,3.9,5.5,0.5,129,156,0.7,2.9,7.3,4.0,3.0,0.5,2.0,4.0,6,68.7,2,6
+23.0,Female,India,Undergraduate,Home,Instagram,Mixed,5.9,9.7,1.3,149,190,2.6,3.2,4.5,1.0,2.0,1.5,0.0,5.0,5,76.9,3,8
+22.0,Female,UK,Undergraduate,Rented room,Facebook,Entertainment,2.4,5.4,0.9,75,76,0.7,4.7,5.9,2.0,3.0,1.5,1.0,6.0,5,97.6,1,4
+21.0,Male,Pakistan,Undergraduate,Home,WhatsApp,Academic,4.8,6.4,0.5,125,150,1.1,5.8,6.8,2.0,2.0,0.6,3.0,7.0,10,69.9,3,9
+24.0,Male,India,Postgraduate,Home,Snapchat,Social connection,4.7,9.2,0.5,105,138,1.0,3.6,5.3,1.0,2.0,0.5,1.0,4.0,9,96.1,3,7
+19.0,Female,India,Undergraduate,Rented room,YouTube,Social connection,2.6,4.9,0.7,59,42,0.3,4.3,6.5,2.0,2.0,1.1,4.0,5.0,3,68.7,0,5
+19.0,Male,Egypt,Undergraduate,Rented room,TikTok,Social connection,2.1,6.4,1.5,75,47,0.7,5.2,6.9,3.0,4.0,1.2,5.0,6.0,2,80.2,1,3
+23.0,Male,India,Undergraduate,Home,Instagram,Social connection,2.5,5.9,0.3,91,56,1.0,0.7,6.0,3.0,1.0,1.3,2.0,10.0,4,67.9,1,4
+17.0,Female,USA,High School,Hostel,YouTube,Entertainment,3.8,6.8,0.7,88,130,0.9,2.6,6.5,3.0,2.0,0.7,4.0,4.0,3,60.3,1,7
+24.0,Male,Indonesia,Undergraduate,Hostel,Instagram,Entertainment,2.9,8.9,4.0,78,126,1.2,2.8,6.3,3.0,1.0,1.4,2.0,5.0,6,77.6,2,4
+20.0,Male,India,Undergraduate,Home,Facebook,Academic,1.5,4.3,0.7,54,87,1.2,4.0,9.1,3.0,0.0,0.9,0.0,8.0,9,66.6,0,4
+21.0,Female,UK,Undergraduate,Home,WhatsApp,Mixed,1.1,2.6,0.0,63,61,0.0,4.5,,3.0,1.0,0.8,11.0,9.0,7,74.8,0,3
+25.0,Female,India,Postgraduate,Hostel,Facebook,Academic,4.2,8.9,2.6,138,199,1.3,2.9,7.7,3.0,2.0,0.0,3.0,7.0,6,,3,6
+25.0,Female,Egypt,Postgraduate,Hostel,Instagram,Social connection,3.7,5.3,0.9,92,148,1.1,4.1,6.0,1.0,4.0,0.8,3.0,8.0,7,,2,6
+23.0,Female,Indonesia,Undergraduate,Hostel,X (Twitter),Entertainment,0.5,1.4,0.0,10,60,0.0,5.4,8.0,2.0,3.0,2.0,3.0,2.0,5,76.6,0,3
+21.0,Female,Nigeria,Undergraduate,Home,Instagram,Mixed,4.1,6.8,1.0,45,182,0.7,4.3,7.3,3.0,3.0,2.3,4.0,8.0,5,64.7,1,5
+24.0,Male,Egypt,Undergraduate,Hostel,Facebook,Mixed,2.5,7.3,1.2,79,76,0.7,3.2,8.1,3.0,0.0,1.9,2.0,7.0,5,68.2,0,4
+19.0,Male,Philippines,Undergraduate,Home,Instagram,Entertainment,4.1,7.4,1.4,81,178,0.6,6.4,6.2,3.0,2.0,0.4,4.0,8.0,5,90.9,2,4
+21.0,Male,UK,Undergraduate,Home,Instagram,Mixed,7.0,11.8,1.8,191,246,1.6,4.4,7.1,3.0,0.0,0.0,1.0,7.0,7,64.7,2,9
+24.0,Male,Nigeria,Postgraduate,Rented room,YouTube,Mixed,1.5,3.9,1.2,45,137,0.0,6.3,8.0,4.0,2.0,0.6,3.0,7.0,7,78.5,0,3
+25.0,Male,Pakistan,Postgraduate,Hostel,YouTube,Social connection,2.1,6.1,1.0,76,94,0.1,5.1,6.7,2.0,0.0,2.1,1.0,8.0,5,58.9,1,4
+18.0,Female,Philippines,Undergraduate,Home,Instagram,Social connection,3.5,8.5,1.2,106,114,0.5,4.4,7.6,4.0,2.0,0.9,5.0,4.0,4,71.9,0,5
+19.0,Female,Egypt,Undergraduate,Hostel,TikTok,Entertainment,3.2,7.5,1.6,71,65,1.1,3.2,7.7,4.0,1.0,1.4,4.0,3.0,6,64.8,2,5
+26.0,Male,USA,Postgraduate,Hostel,Instagram,Entertainment,4.0,9.0,2.0,100,128,0.7,4.6,6.6,3.0,0.0,1.9,4.0,5.0,5,84.0,2,5
+20.0,Female,India,Undergraduate,Home,TikTok,Social connection,1.5,4.6,0.2,89,169,0.4,5.3,7.1,3.0,2.0,0.5,6.0,6.0,4,93.1,2,3
+21.0,Male,Indonesia,Postgraduate,Rented room,WhatsApp,Social connection,1.3,5.1,1.3,55,171,0.0,6.7,7.7,3.0,3.0,1.7,6.0,7.0,6,84.8,1,3
+23.0,Male,Indonesia,Undergraduate,Hostel,YouTube,Entertainment,5.3,9.4,1.0,147,199,0.9,4.0,7.1,3.0,1.0,0.4,1.0,9.0,5,60.1,1,5
+23.0,Male,Nigeria,Undergraduate,Rented room,TikTok,News and information,1.8,5.9,2.6,38,108,1.3,2.7,7.9,3.0,0.0,1.7,4.0,6.0,8,100.0,0,3
+24.0,Male,Pakistan,Postgraduate,Rented room,TikTok,Mixed,1.9,6.1,1.1,47,130,0.0,9.9,7.0,3.0,4.0,2.5,2.0,5.0,8,64.5,0,4
+19.0,Female,Pakistan,Undergraduate,Home,WhatsApp,Entertainment,4.1,5.9,0.0,88,98,0.8,5.4,6.2,3.0,3.0,1.6,7.0,6.0,4,72.8,2,6
+17.0,Female,Philippines,High School,Rented room,X (Twitter),Academic,5.8,10.6,0.6,99,224,1.8,6.6,5.4,2.0,4.0,0.3,3.0,6.0,4,61.7,2,6
+19.0,Male,Bangladesh,Undergraduate,Hostel,WhatsApp,Entertainment,3.3,6.5,0.3,43,101,0.7,5.3,6.8,1.0,2.0,2.4,1.0,9.0,6,71.9,2,4
+18.0,Female,Egypt,High School,Home,YouTube,Social connection,1.6,5.0,0.0,43,122,0.0,4.6,7.7,4.0,0.0,1.0,5.0,5.0,5,74.2,0,2
+20.0,Female,India,Undergraduate,Home,Facebook,Social connection,3.7,8.1,0.3,105,99,1.2,6.4,6.4,2.0,1.0,1.0,4.0,10.0,5,89.9,1,5
+23.0,Other,UK,Undergraduate,Home,Instagram,Entertainment,5.7,9.3,0.6,135,181,1.6,4.5,6.6,3.0,0.0,0.6,1.0,5.0,1,98.0,1,7
+17.0,Female,Bangladesh,High School,Home,Snapchat,Academic,3.1,6.0,0.3,63,65,0.1,6.2,6.8,2.0,2.0,1.0,4.0,3.0,6,88.2,2,5
+20.0,Male,India,Undergraduate,Home,TikTok,Mixed,4.5,10.5,2.3,117,132,1.0,4.4,5.5,3.0,0.0,0.4,3.0,9.0,5,82.6,2,6
+23.0,Female,India,Postgraduate,Hostel,Snapchat,Social connection,3.0,5.4,0.0,93,5,0.9,7.4,7.9,4.0,2.0,1.0,2.0,1.0,9,62.8,2,4
+21.0,Male,India,Undergraduate,Hostel,Facebook,Social connection,2.7,4.7,0.8,69,146,0.7,2.7,7.0,2.0,2.0,0.7,4.0,7.0,6,72.0,1,4
+19.0,Male,UK,Undergraduate,Hostel,YouTube,Entertainment,4.3,7.9,1.0,120,167,1.8,6.7,5.0,3.0,3.0,1.0,2.0,5.0,4,73.2,2,6
+19.0,Male,Pakistan,Undergraduate,Hostel,Snapchat,Mixed,3.1,6.1,0.7,68,142,0.7,3.3,6.5,1.0,4.0,2.2,1.0,10.0,7,59.9,1,4
+19.0,Female,USA,Undergraduate,Hostel,YouTube,Academic,3.6,4.9,0.1,117,92,0.8,5.0,6.6,2.0,2.0,0.9,2.0,,4,56.0,1,5
+20.0,Male,India,Undergraduate,Hostel,WhatsApp,Academic,7.2,11.8,0.9,175,141,1.4,6.9,5.0,2.0,1.0,1.4,3.0,5.0,5,57.6,2,7
+22.0,Male,India,Postgraduate,Home,X (Twitter),Mixed,5.0,8.8,0.9,103,142,0.9,5.7,5.9,2.0,0.0,0.9,1.0,8.0,6,80.0,2,4
+26.0,Female,Egypt,Undergraduate,Hostel,Snapchat,Entertainment,6.2,10.6,0.6,166,163,1.9,1.8,6.6,4.0,,1.1,2.0,6.0,4,51.1,2,8
+23.0,Male,Egypt,Undergraduate,Hostel,TikTok,Academic,0.7,4.1,0.5,70,89,0.7,5.0,8.8,4.0,0.0,1.1,7.0,9.0,4,81.1,1,3
+18.0,Male,Pakistan,Undergraduate,Home,Snapchat,Social connection,0.5,1.0,0.4,34,69,0.0,6.9,8.5,4.0,1.0,2.1,2.0,7.0,6,83.9,0,3
+18.0,Other,Brazil,High School,Home,YouTube,Entertainment,3.0,6.1,0.3,84,81,0.2,4.3,6.4,1.0,3.0,0.7,4.0,8.0,6,91.7,2,5
+22.0,Female,Nigeria,Undergraduate,Home,Snapchat,Entertainment,2.9,4.9,0.8,77,168,1.0,5.2,7.0,1.0,2.0,1.9,5.0,5.0,5,75.2,0,5
+21.0,Female,India,Undergraduate,Home,Reddit,Social connection,2.8,7.2,0.7,73,136,0.3,4.8,7.1,4.0,0.0,,5.0,6.0,10,73.1,0,4
+25.0,Male,India,Postgraduate,Home,WhatsApp,Entertainment,2.8,7.5,1.6,107,132,0.3,6.6,6.7,2.0,4.0,2.3,3.0,5.0,7,95.6,1,5
+22.0,Female,USA,Undergraduate,Rented room,YouTube,Entertainment,4.6,9.9,0.1,110,122,1.5,3.1,6.3,3.0,1.0,1.2,2.0,5.0,5,67.7,2,7
+23.0,Male,India,Postgraduate,Home,Reddit,Social connection,2.7,7.0,0.2,110,88,0.8,5.9,6.5,2.0,3.0,1.6,4.0,10.0,7,84.9,0,4
+17.0,Male,India,High School,Rented room,Reddit,Entertainment,4.9,9.5,1.1,117,169,0.0,6.4,6.6,1.0,3.0,0.8,3.0,2.0,6,90.1,2,5
+19.0,Female,Nigeria,Undergraduate,Home,TikTok,Entertainment,5.8,10.6,1.0,118,94,0.9,2.8,7.4,3.0,0.0,2.1,,7.0,5,53.5,1,5
+18.0,Female,Philippines,High School,Hostel,YouTube,Academic,1.9,3.9,1.2,46,64,0.9,4.1,7.1,4.0,0.0,1.5,7.0,4.0,5,80.7,1,5
+19.0,Male,India,Undergraduate,Hostel,YouTube,Academic,2.4,4.0,0.4,79,202,0.5,5.8,7.6,3.0,3.0,1.8,4.0,6.0,4,66.1,1,5
+22.0,Female,USA,Undergraduate,Home,Facebook,Entertainment,4.2,7.5,0.3,108,160,1.2,1.8,6.6,2.0,2.0,0.0,2.0,8.0,7,76.8,3,4
+20.0,Female,India,Undergraduate,Rented room,X (Twitter),Mixed,1.7,2.4,0.0,42,83,0.0,3.2,6.7,4.0,1.0,1.6,5.0,10.0,4,63.0,0,4
+22.0,Male,Egypt,Undergraduate,Rented room,YouTube,Social connection,3.5,4.5,0.5,93,130,1.5,6.7,5.3,1.0,4.0,1.7,4.0,5.0,5,76.6,1,5
+19.0,Female,Pakistan,Undergraduate,Rented room,Instagram,Mixed,3.6,8.2,1.4,89,115,0.5,7.6,6.8,2.0,2.0,1.3,3.0,3.0,3,65.6,3,4
+22.0,Female,UK,Undergraduate,Rented room,Reddit,Entertainment,3.5,5.4,0.8,94,132,0.7,2.1,6.9,2.0,3.0,1.4,2.0,1.0,4,65.5,1,5
+22.0,Female,Indonesia,Undergraduate,Hostel,Instagram,Mixed,3.6,7.5,1.7,118,91,1.7,3.5,7.1,3.0,0.0,0.5,2.0,2.0,6,71.0,1,7
+24.0,Male,Indonesia,Undergraduate,Home,YouTube,Entertainment,3.0,4.6,0.7,91,114,0.8,5.2,6.0,4.0,1.0,0.1,1.0,6.0,6,73.9,2,5
+23.0,Male,Nigeria,Undergraduate,Home,Instagram,Social connection,6.5,11.5,1.1,158,208,1.5,5.9,6.4,,2.0,1.7,3.0,5.0,7,76.0,2,7
+22.0,Male,Philippines,Undergraduate,Home,WhatsApp,Entertainment,4.1,7.3,1.1,130,192,0.0,5.0,6.6,2.0,4.0,1.5,,7.0,8,80.0,2,5
+21.0,Male,Nigeria,Undergraduate,Hostel,YouTube,Social connection,4.8,8.1,1.1,107,146,1.2,6.7,5.7,1.0,5.0,1.7,2.0,6.0,2,70.5,2,5
+22.0,Female,UK,Undergraduate,Hostel,Facebook,Social connection,2.2,3.4,0.3,66,168,0.7,4.5,8.3,3.0,0.0,1.0,5.0,9.0,6,70.4,1,5
+17.0,Male,India,Undergraduate,Home,YouTube,Mixed,4.4,7.3,1.6,130,120,1.4,2.9,4.9,2.0,0.0,1.5,2.0,6.0,6,80.6,2,7
+26.0,Female,USA,Postgraduate,Rented room,LinkedIn,Mixed,5.9,9.3,0.9,140,125,1.7,4.2,6.0,2.0,3.0,0.5,2.0,5.0,6,64.7,2,9
+21.0,Female,India,Undergraduate,Home,TikTok,Social connection,3.5,5.8,1.0,86,137,1.0,6.8,7.1,3.0,2.0,0.8,8.0,8.0,6,68.2,1,5
+17.0,Male,Indonesia,High School,Home,WhatsApp,Entertainment,3.0,5.0,0.7,76,190,0.6,4.4,7.4,2.0,4.0,1.2,3.0,5.0,8,82.0,2,4
+20.0,Male,USA,Undergraduate,Rented room,Snapchat,Social connection,2.9,5.6,1.0,88,162,0.1,4.4,6.9,4.0,1.0,0.0,3.0,7.0,4,68.4,0,5
+21.0,Female,Indonesia,Undergraduate,Home,YouTube,Social connection,3.0,5.6,0.6,98,129,0.8,1.3,6.6,2.0,6.0,1.0,4.0,8.0,5,72.1,3,5
+26.0,Female,India,Postgraduate,Rented room,Snapchat,Entertainment,2.8,6.8,1.9,54,123,0.7,2.1,6.2,2.0,3.0,0.3,6.0,,6,69.8,1,4
+21.0,Male,Bangladesh,Undergraduate,Hostel,Instagram,Entertainment,0.5,2.6,0.4,10,51,0.0,6.5,7.0,3.0,2.0,1.3,1.0,3.0,4,76.9,1,2
+17.0,Male,UK,Undergraduate,Hostel,WhatsApp,Mixed,3.4,8.8,0.5,111,111,1.3,4.2,5.9,1.0,2.0,0.1,0.0,7.0,5,79.4,2,5
+22.0,Male,Indonesia,Undergraduate,Rented room,Facebook,Social connection,2.8,3.4,0.6,39,55,0.4,6.4,7.9,2.0,1.0,1.0,4.0,8.0,3,84.7,1,5
+23.0,Female,USA,Undergraduate,Hostel,TikTok,Social connection,3.4,6.0,1.0,98,94,1.1,3.9,7.9,4.0,1.0,0.5,2.0,5.0,6,67.5,1,7
+23.0,Male,India,Undergraduate,Rented room,Instagram,Social connection,0.8,3.0,0.0,34,62,0.0,7.0,8.6,4.0,3.0,0.7,8.0,8.0,8,83.3,0,2
+24.0,Female,UK,Postgraduate,Hostel,Instagram,Social connection,4.3,5.4,0.4,87,150,0.5,5.4,7.0,3.0,0.0,0.5,3.0,7.0,6,87.4,2,6
+20.0,Female,Bangladesh,Undergraduate,Rented room,Snapchat,Social connection,3.2,5.1,0.2,108,148,0.9,2.4,8.5,4.0,4.0,1.8,3.0,10.0,6,65.2,2,4
+23.0,Male,Bangladesh,Undergraduate,Hostel,YouTube,News and information,4.1,8.9,1.7,79,159,0.8,4.2,7.2,4.0,0.0,1.7,4.0,9.0,6,76.1,0,3
+19.0,Female,India,Undergraduate,Home,TikTok,News and information,3.5,6.0,0.5,75,142,0.0,1.7,8.3,4.0,1.0,0.9,,5.0,5,53.2,1,4
+19.0,Male,Brazil,Postgraduate,Home,Instagram,News and information,3.3,7.1,0.5,101,104,1.0,5.6,7.1,2.0,3.0,0.7,3.0,8.0,8,76.4,0,5
+20.0,Male,India,Undergraduate,Hostel,TikTok,Entertainment,3.9,6.6,0.8,111,152,0.4,3.9,7.4,2.0,4.0,2.1,2.0,6.0,7,72.9,1,7
+23.0,Male,UK,Undergraduate,Hostel,X (Twitter),Mixed,3.5,6.7,0.2,50,139,0.8,4.4,6.6,,2.0,0.3,4.0,7.0,7,65.9,1,5
+22.0,Female,Nigeria,Undergraduate,Home,WhatsApp,Entertainment,4.7,6.1,0.0,124,114,1.0,5.0,6.4,1.0,2.0,0.3,3.0,6.0,4,75.5,1,5
+26.0,Male,Nigeria,Postgraduate,Hostel,Facebook,Social connection,3.9,7.9,0.8,103,153,1.7,5.1,5.2,2.0,,2.5,4.0,8.0,4,66.9,1,6
+22.0,Female,Egypt,Undergraduate,Home,WhatsApp,Social connection,3.1,7.5,1.4,84,131,0.4,5.0,6.6,3.0,1.0,1.8,7.0,7.0,5,59.1,1,5
+21.0,Male,India,Undergraduate,Hostel,WhatsApp,Mixed,3.6,7.9,0.7,91,158,0.8,5.9,7.1,4.0,1.0,2.1,5.0,5.0,6,75.5,2,6
+25.0,Female,India,Postgraduate,Home,X (Twitter),News and information,3.2,7.3,0.0,86,156,0.7,4.2,7.6,3.0,1.0,0.7,3.0,6.0,4,89.8,2,6
+18.0,Female,India,Undergraduate,Hostel,X (Twitter),Social connection,0.5,2.5,0.2,81,5,0.5,5.2,7.8,2.0,1.0,0.0,4.0,7.0,7,,1,3
+24.0,Female,USA,Postgraduate,Home,X (Twitter),Entertainment,3.7,6.6,0.0,109,90,1.6,3.7,5.7,2.0,1.0,0.7,6.0,6.0,3,62.3,1,4
+25.0,Male,USA,Undergraduate,Home,YouTube,Academic,4.9,9.1,0.8,107,102,1.8,2.8,7.4,3.0,2.0,0.2,3.0,7.0,5,68.7,1,7
+24.0,Female,India,Undergraduate,Home,YouTube,Social connection,1.8,5.1,0.3,83,104,0.6,4.5,8.3,4.0,2.0,0.8,3.0,3.0,7,78.5,1,4
+25.0,Male,India,Postgraduate,Rented room,Facebook,News and information,1.5,5.7,0.3,79,84,0.0,5.2,8.7,2.0,2.0,1.2,4.0,9.0,3,74.4,1,3
+24.0,Male,Nigeria,Postgraduate,Home,Instagram,Social connection,3.3,5.9,0.3,85,117,0.1,6.5,8.6,3.0,3.0,2.6,5.0,5.0,7,84.1,1,4
+24.0,Female,Indonesia,Postgraduate,Home,Snapchat,Social connection,3.4,7.6,1.9,95,150,0.6,3.5,7.1,3.0,2.0,1.8,2.0,5.0,7,79.1,1,5
+26.0,Female,Indonesia,Postgraduate,Hostel,WhatsApp,Mixed,4.2,7.4,0.2,101,132,1.1,3.3,5.7,2.0,2.0,1.3,4.0,5.0,7,60.3,1,6
+23.0,Female,Pakistan,Undergraduate,Rented room,Instagram,News and information,4.4,7.1,1.3,152,117,1.0,3.0,6.3,,5.0,1.2,5.0,5.0,5,73.7,0,6
+18.0,Male,Indonesia,High School,Hostel,Snapchat,Social connection,4.3,8.2,0.9,104,147,0.9,6.2,6.0,2.0,2.0,0.8,3.0,7.0,5,50.2,2,5
+24.0,Male,India,Postgraduate,Hostel,Instagram,Academic,4.5,8.8,0.6,107,89,1.0,4.5,6.9,3.0,0.0,1.5,4.0,6.0,4,57.3,2,8
+23.0,Male,Egypt,Undergraduate,Home,Instagram,Social connection,3.2,6.6,0.9,101,117,0.1,6.8,7.1,2.0,4.0,2.3,4.0,4.0,2,67.0,2,6
+25.0,Male,Philippines,Postgraduate,Home,TikTok,Mixed,4.8,10.0,3.6,143,99,0.8,2.9,6.5,2.0,0.0,1.3,3.0,3.0,5,69.1,0,5
+21.0,Female,Pakistan,Undergraduate,Home,Instagram,Entertainment,3.9,7.0,1.3,118,128,1.8,2.4,6.5,2.0,2.0,1.2,3.0,6.0,8,70.4,2,7
+21.0,Female,India,Undergraduate,Home,Reddit,Social connection,0.5,2.0,0.6,39,75,0.2,5.8,7.8,3.0,1.0,1.0,4.0,5.0,4,66.3,0,1
+20.0,Male,Pakistan,Undergraduate,Home,Instagram,Entertainment,6.8,11.2,1.0,146,171,1.8,5.5,6.2,1.0,1.0,0.9,1.0,8.0,7,72.2,2,7
+21.0,Female,India,Undergraduate,Hostel,Instagram,Entertainment,4.2,7.9,0.1,127,108,1.4,6.4,5.8,1.0,3.0,1.5,3.0,8.0,7,,2,6
+20.0,Female,India,Undergraduate,Home,Snapchat,Entertainment,2.3,5.4,1.6,45,75,0.7,6.1,6.8,1.0,5.0,1.1,5.0,6.0,7,73.5,0,4
+19.0,Female,Philippines,Postgraduate,Hostel,TikTok,Academic,0.7,1.7,0.0,40,40,0.0,4.4,7.2,3.0,5.0,1.3,10.0,6.0,7,84.0,1,4
+24.0,Male,Philippines,Postgraduate,Home,Facebook,Social connection,3.1,6.0,0.4,95,132,0.3,4.4,8.9,4.0,3.0,1.4,3.0,5.0,7,66.3,2,5
+21.0,Male,Indonesia,Undergraduate,Hostel,Facebook,Entertainment,3.2,6.1,0.8,75,96,0.5,5.4,7.3,4.0,1.0,1.7,4.0,9.0,6,80.7,1,4
+19.0,Other,India,Undergraduate,Home,Instagram,Social connection,4.5,6.3,0.3,129,143,1.2,6.1,6.5,2.0,4.0,1.5,2.0,,9,70.4,1,5
+24.0,Male,UK,Postgraduate,Rented room,Instagram,Entertainment,2.9,4.5,0.2,85,91,0.0,3.9,6.2,5.0,1.0,2.5,,4.0,6,81.9,2,4
+17.0,Female,Philippines,High School,Home,X (Twitter),News and information,3.7,7.3,0.9,99,80,1.3,2.3,6.9,3.0,1.0,2.2,3.0,3.0,5,58.6,2,4
+21.0,Female,India,Undergraduate,Home,YouTube,Social connection,4.1,5.5,0.4,109,150,1.1,2.2,6.0,2.0,0.0,0.9,2.0,7.0,6,89.9,0,5
+21.0,Male,Egypt,Undergraduate,Home,Snapchat,News and information,3.4,7.0,1.0,95,92,0.0,4.3,7.1,3.0,2.0,1.8,4.0,9.0,7,77.8,2,5
+20.0,Female,India,Undergraduate,Hostel,YouTube,News and information,2.8,6.6,0.5,123,160,1.1,3.1,7.4,3.0,1.0,0.7,4.0,7.0,7,69.8,1,5
+23.0,Female,Egypt,Undergraduate,Home,YouTube,Mixed,0.5,2.1,0.3,51,64,0.0,6.3,7.5,4.0,2.0,2.2,2.0,7.0,6,76.0,0,2
+20.0,Female,USA,Undergraduate,Home,Instagram,Social connection,4.1,7.0,0.4,126,105,1.1,4.8,7.3,,0.0,0.7,1.0,5.0,3,86.9,1,5
+21.0,Female,Pakistan,Undergraduate,Home,Facebook,Entertainment,5.4,11.6,1.7,152,185,0.8,6.9,6.7,1.0,2.0,1.5,1.0,7.0,4,88.2,1,6
+24.0,Female,Indonesia,Undergraduate,Home,Snapchat,Mixed,3.9,5.3,0.0,94,76,0.6,6.9,7.3,3.0,3.0,0.7,3.0,3.0,8,76.8,0,5
+18.0,Male,Nigeria,High School,Rented room,YouTube,Social connection,4.5,8.4,1.8,122,121,1.9,4.3,5.1,1.0,4.0,0.7,2.0,4.0,6,59.8,3,6
+17.0,Male,Indonesia,High School,Home,Snapchat,Social connection,5.3,9.7,0.9,122,94,1.4,7.9,5.8,2.0,3.0,0.2,3.0,6.0,9,66.0,3,7
+22.0,Female,Bangladesh,Undergraduate,Hostel,YouTube,Entertainment,6.0,8.5,0.4,149,163,1.8,3.3,5.1,2.0,4.0,0.2,3.0,7.0,5,66.2,2,7
+25.0,Male,Brazil,Postgraduate,Hostel,WhatsApp,Entertainment,6.4,9.8,0.8,166,143,1.7,5.1,5.8,2.0,3.0,2.1,1.0,4.0,2,68.6,2,8
+21.0,Male,Indonesia,Undergraduate,Hostel,YouTube,Academic,4.5,8.0,1.9,136,163,1.0,2.7,6.4,3.0,2.0,0.7,4.0,6.0,7,49.4,1,7
+21.0,Male,Nigeria,Postgraduate,Home,WhatsApp,Entertainment,2.0,8.4,4.7,69,122,0.2,6.1,7.7,3.0,1.0,0.9,3.0,10.0,10,79.6,1,4
+21.0,Male,Indonesia,Undergraduate,Hostel,TikTok,Social connection,7.1,12.4,1.1,202,171,1.8,4.7,4.8,1.0,3.0,1.2,1.0,7.0,5,72.3,4,8
+23.0,Male,Pakistan,Undergraduate,Hostel,Facebook,Mixed,5.1,7.7,0.4,140,169,0.4,4.3,6.0,2.0,1.0,1.5,3.0,5.0,4,73.9,3,5
+22.0,Female,India,Undergraduate,Rented room,WhatsApp,Academic,5.7,10.6,1.0,130,192,0.9,6.0,7.3,2.0,0.0,0.7,1.0,6.0,8,68.2,3,8
+17.0,Female,Egypt,High School,Home,YouTube,Social connection,1.9,3.2,0.1,76,33,0.5,5.6,7.3,4.0,3.0,0.7,5.0,3.0,8,64.9,1,4
+26.0,Other,USA,Postgraduate,Home,Instagram,Mixed,2.2,4.5,0.3,77,157,0.0,4.9,8.5,3.0,1.0,1.5,5.0,9.0,6,72.0,2,5
+20.0,Female,Indonesia,Postgraduate,Hostel,Instagram,Entertainment,5.5,6.3,0.3,121,158,1.2,2.1,7.6,5.0,1.0,0.0,3.0,4.0,7,59.7,4,7
+21.0,Female,Nigeria,Undergraduate,Home,Facebook,Social connection,4.0,5.2,0.2,139,186,0.3,5.3,6.2,2.0,2.0,1.4,4.0,5.0,4,85.1,0,5
+19.0,Female,India,Undergraduate,Home,TikTok,Entertainment,2.6,5.3,0.0,60,128,0.7,2.4,6.7,2.0,1.0,1.4,5.0,7.0,4,71.5,1,5

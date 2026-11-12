@@ -1,0 +1,11 @@
+Step,Rows/values affected,Note
+Drop exact duplicate rows,50,kept first occurrence
+Standardize Country / Gender text,70,lowercase / trailing-space variants mapped to the main spelling
+Invalid Age set to NaN,8,allowed 16 to 35
+Invalid Sleep_Hours_Per_Night set to NaN,12,allowed 2 to 12
+Invalid Avg_Daily_Usage_Hours set to NaN,10,allowed 0 to 16
+Invalid Total_Screen_Time_Hours set to NaN,0,allowed 0 to 20
+Invalid Study_Hours set to NaN,0,allowed 0 to 14
+Invalid Physical_Activity_Hours set to NaN,0,allowed 0 to 6
+Invalid Gaming_Hours set to NaN,0,allowed 0 to 10
+Total screen < social media usage -> Total_Screen set to NaN,25,logically impossible
